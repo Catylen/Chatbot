@@ -1,0 +1,4 @@
+Industrial Control Systems (ICS) have been in existence for decades in the United
+States. These systems are relatively unknown to the general public and control our
+critical infrastructure, such as utilities (electricity, nuclear power, and water treatment
+plants). Until recently, these systems were connected to company networks by privately

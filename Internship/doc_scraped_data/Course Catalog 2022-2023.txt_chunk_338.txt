@@ -1,0 +1,33 @@
+Project Management (12 credits)
+This upper-level certificate is built on core processes defined in the Project
+Management Body of Knowledge (PMBOK). The certificate enables students to learn
+the basic concepts and strategies of project management for government and private
+industry.
+Required Courses
+
+133 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Undergraduate Studies
+
+Acquisitions Management (12 credits)
+
+BUS-275 Human Resource Management 3
+BUS-301 Project Management 3
+BUS-302 Methods of IT Project Management 3
+BUS-303 Project Management Competitive Advantage 3
+
+Programming and Data Management (12 credits)
+
+Undergraduate Studies
+
+This lower-level certificate provides students with an understanding of how
+programmers store and manage computer data. Students learn the object-oriented
+paradigm and the fundamental aspects of the storage and management of computer
+data. Topics covered include Python, Java, Oracle and advanced data structures.
+Required Courses
+CS-120 Intro to Programming Using Python 3
+CS-130 Intro to Programming Using Java 3
+CS-220 Database Management 3
+CS-225 Intermediate Java Programming 3

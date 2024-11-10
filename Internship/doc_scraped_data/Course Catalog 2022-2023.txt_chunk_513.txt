@@ -1,0 +1,15 @@
+309 or EE-453 Offered during Spring semester only. (3-0-3).
+AE-455 - Satellite Communications
+Analysis of satellite communications systems. Communications subsystems, telemetry,
+tracking and monitoring, data handling, satellite link design, propagation effects,
+modulation techniques and performance, error control. Satellite control networks SN,
+GN. TDRSS systems, positioning command and control. Prerequisites: AE-311 and MA262 or equivalent. Offered during Fall semester only. (2-2-3)
+AE-457 - Senior Design Project I
+Students/teams select a project, develop an understanding of the project scope that
+includes research and documentation of related work, prepare a feasibility study,
+develop project requirements (constraints) and engineering, software, and/or security
+specifications, propose solutions and multiple designs, analyze proposed designs,
+select a final proposed design, and prepare and present a preliminary design review
+(PDR). Students are expected to apply proper systems engineering and project
+management to their work. Additional components may be required in some projects.
+Students/teams submit a final report at the end of the semester. Prerequisite: Senior

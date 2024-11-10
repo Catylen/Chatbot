@@ -1,0 +1,15 @@
+and Committee. The student will also finalize all required elements of their research.
+The student’s Chair and Committee must review and approve the complete document.
+The student’s Chair and Committee will then submit the complete document to the
+University Reviewers and Ph.D. Review Board for approval. The student must receive
+approval from the University Reviewers and Ph.D. Review Board to advance forward. (6)
+HYG-940 - Industrial Hygiene Doctoral Defense
+Upon approval from the University Reviewers and Ph.D. Review Board, the student will
+prepare and deliver an oral presentation summarizing the body of research and defend
+the same through viva voce (i.e., oral examination). The student’s Chair, Committee and
+Ph.D. Review Board will confer to determine if the student has provided a sufficient and
+necessary final oral defense of the research. (6)
+IAE-201 - Introduction to Information Assurance Concepts
+This course covers topics related to administration of network security. Topics include
+a survey of encryption and authentication algorithms; threats to security; operating
+system security; IP security; user authentication schemes; web security; email security

@@ -1,0 +1,39 @@
+•
+
+Function effectively as a member as well as a leader of technical teams
+
+Course Requirements
+Bachelor of Science 121 Credits
+Course Credits
+Electronics and Engineering 54 Credits
+EL-100 Introduction to DC/AC Circuits 3
+EL-150 DC/AC Circuits and Analysis 3
+EL-200 Electronic Devices and Circuits 3
+EL-204 Digital Electronics 3
+EL-212 Transmission Lines 3
+EL-250 Advanced Analog Circuits 3
+EL-261 Introduction to Communication Circuits/Systems 3
+EL-262 Microprocessors and Microassembly 3
+EL-301 Advanced Communications Circuits and Systems 3
+EE-304 Digital Design I 3
+EL-307 Noise and Shielding 3
+EE-309 Circuit Design/Simulation 3
+EE-354 Digital Design II 3
+EE-362 Microcontroller System Design 3
+EE-409 Network Analysis and Synthesis 3
+EE-453 Control I 3
+99 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Undergraduate Studies
+
+Upon graduation, graduates will be able to
+
+EE-457 Senior Design Project I 3
+EE-458 Senior Design Project II 3
+Computer Science 6 Credits
+CS-150 Introduction to Programming in C 3
+CS-120 Intro to Programming Using Python 3
+
+Undergraduate Studies

@@ -1,0 +1,22 @@
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+Upon graduation, graduates will be able to
+
+IAE-679 Vulnerability Mitigation 3
+IAE-690 Healthcare Info System Security 3
+IAE-692 Mobile Medical Device/Application Security 3
+IAE-705 Master’s Capstone**** 3
+Cyber Analytics 12 Credits
+MBA-510 Analytics and Decision Analysis 3
+MBA-515 Applied Statistics and Visualization for Analytics 3
+MBA-520 Big Data Warehousing and Analytic Systems 3
+MBA-540 Web Analytics 3
+*IAE-500 can be waived with appropriate documentation.
+**Course substitution can be granted for CS-620 for students who demonstrate
+knowledge of UNIX and C programming.
+***IAE-685 is a prerequisite to all other IAE courses.
+****This course is to be the last course taken in the degree completion process.
+All required courses are offered exclusively online in an 8-week asynchronous format.
+For descriptions of required courses, see listing beginning on page 211.

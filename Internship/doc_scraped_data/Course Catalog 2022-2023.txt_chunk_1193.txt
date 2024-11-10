@@ -1,0 +1,18 @@
+UAS-310 - Unmanned Vehicle Missions
+This course exposes the student to the concepts and principles of mission planning
+for leaders, operators, communicators, and data analysts involved in unmanned and
+autonomous systems (UAS). The student will gain an understanding of the processes in
+the missions of UAS including planning, execution, acquisition, processing, analysis, and
+dissemination. This course also addresses the suitability of unmanned technologies to
+support common missions such as law enforcement, hazardous materials detection,
+natural disaster assessment, border patrol, agriculture survey, search and rescue, crop
+improvement, transportation inspections, utility inspections, weather observation,
+monitoring of renewable energy sources, and others. Prerequisite: UAS-101, UAS-102
+(3-0-3)
+UAS-320 - Unmanned Vehicle Business Decisions
+This course provides students an overview of the business aspects of unmanned
+376 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Resources

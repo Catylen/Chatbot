@@ -1,0 +1,8 @@
+and a major cloud project. Students will also learn about containerization and micro
+services. This course is appropriate for Computer Science, Engineering and Cyber
+Security majors. May be cross-listed with CS-713. (3-0-3)
+CS-418 - Operating Systems
+Principles underlying computer operating systems are presented from a computer
+designer’s perspective. Concepts explained include process concurrency,
+synchronization, resource management, input/output scheduling, job and process
+252 | 2022 - 2023 CATALOG

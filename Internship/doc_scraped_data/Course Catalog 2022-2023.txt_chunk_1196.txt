@@ -1,0 +1,10 @@
+international laws and agreements are presented with regard to aerial, ground, water,
+and space environments. Aspects of vehicle operation, sensor operation, ethics,
+dominion, jurisdiction, privacy, and security will be highlighted. Prerequisite: UAS-320.
+(3-0-3)
+UAS-420 - Data Acquisition & Post-processing
+Students build upon the basic image processing skills gained in the previous course,
+expanding their knowledge of common aerial image data processing tasks using
+industry-standard software packages. Aerial data collection methodologies are
+introduced, including consideration of aerial mission flight parameters. Prerequisite:
+UAS-220. (3-0-3)

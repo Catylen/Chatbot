@@ -1,0 +1,5 @@
+EE-309. (2-2-3)
+EE-362 - Microcontroller System Design
+Study of a state-of-the-art microcontroller and related families. Evaluation board
+hardware preparation and checkout. PC to board interfaces. Assembler and C-compiler.
+Configuration registers for code and program protection. On-chip memories. Serial

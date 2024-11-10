@@ -1,0 +1,11 @@
+final report outlining discovered vulnerabilities, make suggested recommendations to
+remediate and/or mitigate those vulnerabilities. Students also learn how to describe
+the findings wherein non-technical personnel understand the ramifications of these
+vulnerabilities in a business sense. This course prepares students for the EC Council
+Certified Ethical Hacker (CEH) certification. Prerequisites: CT-240 and IAE-260. (3-0-3)
+*FORMERLY IAE-410 NOTE: Students enrolled in this course incur an additional lab fee
+of $100.
+IAE-400 - Special Topics in Information Assurance
+Research into information assurance subjects. Student primarily works in a guided
+study format with a mentor. Permission required from the instructor and academic
+dean. This course may be repeated with different projects. Prerequisite: Varies. (1-4)

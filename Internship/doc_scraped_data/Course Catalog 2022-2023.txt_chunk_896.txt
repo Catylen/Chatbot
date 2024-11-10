@@ -1,0 +1,6 @@
+management, storage management, scheduling algorithms, resource protection and
+system programming. The course will include programming projects focused on
+Information Assurance problem solving utilizing the C programming language primarily.
+Students are expected to be familiar with virtual machines, the UNIX command line
+interface (CLI) and a basic programming language. Prerequisites: IAE-201, CS-150, and
+305 | 2022 - 2023 CATALOG

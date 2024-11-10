@@ -1,0 +1,17 @@
+AE-411 - Space Systems Engineering
+Understand the basic principles and processes for designing effective systems,
+including how to determine customer needs vs wants. Students will learn how to
+translate customer requirements into designs for systems that provide required
+performance and that are reliable, supportable, and maintainable throughout the system
+life cycle. Explore illustrative case studies. Team projects are assigned. Written reports
+and oral presentations are required. This is the undergraduate version of AE-611.
+Prerequisites: AE-311 and AE-351. (3-0-3)
+AE-451 - Propulsion
+Introduction to rocket engineering, space missions and thrust requirements, liquid and
+solid-fueled rockets, nuclear and electric propulsion, and propellant thermodynamics.
+Prerequisites: AE-351. (3-0-3)
+AE-454 - Spacecraft Attitude and Control
+Analysis of methods of monitoring maintaining and controlling spacecraft attitude
+and positioning. Propulsion systems. Effects of gravity gradients, space environment
+and atmospheric drag. Stabilization using controllers, actuators, sensors, and impulse
+devices. Design of control subsystems. Systems engineering approach. Corequisite: EE-

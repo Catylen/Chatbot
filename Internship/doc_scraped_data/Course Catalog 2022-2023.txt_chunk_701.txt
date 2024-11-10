@@ -1,0 +1,5 @@
+Alliance (CSA), and the International Standards Organization (ISO) in creating standards.
+Students will be challenged with cutting-edge hands-on labs from leading cloud vendors
+and a major cloud project. Students will also learn about containerization and micro
+services. This course is appropriate for Computer Science, Engineering and Cyber
+Security majors. Also cross-listed as CS-412. (3)

@@ -1,0 +1,6 @@
+georegistration, vegetation indices, and image classification. Prerequisite: UAS-201. (30-3)
+UAS0-230 - Unmanned Surface & Underwater Vehicles
+This course provides the principles and concepts of unmanned and autonomous
+vehicles used for water applications where unique challenges for mobile robotic
+systems are encountered. Students will explore the problems of perception, navigation,
+communications, control, sensory payloads, and fundamentals of propulsion in the

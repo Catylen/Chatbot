@@ -1,0 +1,5 @@
+areas of vulnerability assessment and security management of critical infrastructure
+systems, including approaches to vulnerability analysis and critical infrastructure
+protection strategies. Critical infrastructure sectors include water supply/environmental,
+transportation, power and fuel systems, SCADA systems, cyber-infrastructure,
+telecommunications and public health. Prerequisite: CRI-510. (3)

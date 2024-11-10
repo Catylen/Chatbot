@@ -1,0 +1,28 @@
+Construction Safety
+SAF-600 Construction Safety Math and Metrics 3
+SAF-610 Advanced Industrial Hygiene 3
+SAF-620 Advanced Hazardous Materials 3
+Critical Infrastructure
+CRI-501 Critical Infrastructure Introduction 3
+CRI-510 Critical Infrastructure I: Performance and Risk Analysis of Infrastructure 3
+CRI-520 Critical Infrastructure II: Security Management of Critical Infrastructure 3
+Cybersecurity
+IAE-685 Principles of Cybersecurity 3
+IAE-640 Access and Identity Management 3
+IAE-673 Secure Information Transfer and Storage 3
+Data Analytics
+MBA-510 Analytics and Decision Analysis 3
+MBA-515 Applied Statistics and Visualization for Analytics 3
+MBA-520 Big Data Warehousing and Analytic Systems 3
+Engineering Technology
+EE-600 Mathematical Analysis 3
+187 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+Aviation Cybersecurity
+AVT-627 Impact of Emerging Technology on Aviation 3
+IAE-685 Principles of Cybersecurity 3
+AVT-686 Aviation Cybersecurity Management 3

@@ -1,0 +1,30 @@
+•
+
+Evaluate executive decisions in the context of cybersecurity to determine the
+potential impact on resources and profitability.
+
+•
+
+Evaluate the legal, social, economic, environmental, and global ramifications
+of actions and decisions within construction cybersecurity
+
+Course Requirements
+Master of Science 30-36 Credits
+Course Credits
+Construction Required 12 Credits
+CRI-501 Critical Infrastructure Introduction 3
+CM-600 Cybersecurity Impacts on Construction Industry 3
+CM-602 Construction Industry Software 3
+CM-700 Construction Cybersecurity Research Project I 3
+Cybersecurity Required 21 Credits
+IAE-500 Introduction to Information Assurance* 3
+IAE-630 SCADA Networks and ICS Security 3
+IAE-675 Computer Forensics and Incident Handling 3
+
+190 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+Upon graduation, graduates will be able to

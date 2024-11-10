@@ -1,0 +1,15 @@
+This course prepares students to participate in national and international cyber
+competitions. Two competition archetypes are explored in detail: Capture The Flag
+(CTF) and Jeopardy. Students will gain practical experience in these competition
+archetypes, as well as specific competition subtypes, through a rigorous schedule of
+hands-on challenges, laboratory exercises, and full-scale competitions. This course
+will explore strategies of game play within the competition archetypes, review the skills
+necessary to compete in cyber competitions, as well as the cognitive science that
+empowers competitions as learning devices. Individual classes will be a mixture of
+lecture, laboratory exercises, as well as puzzle solving. The course will conclude with
+students participating in a real cyber competition. Prerequisites: IAE-201 and IAE-250
+(formerly IAE-301). (3-0-3)
+IAE-311 - Mobile Computing Security
+Emphasizing wireless computing security, this course addresses how to secure mobile
+wireless computing devices and applications and wireless network security as it
+impacts those portable computing devices. Wireless network security is discussed as it

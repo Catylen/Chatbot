@@ -1,0 +1,9 @@
+withdrawal date divided by the total days in the semester or term. (Any break of five
+days or more is not counted as part of the days in the term.) This percentage is also the
+percentage of earned aid.
+Funds are returned to the appropriate federal program based on the percentage of
+unearned aid using the following formula:
+Aid to be returned = 100% of the aid that could be disbursed minus the percentage of
+earned aid for the semester or term.
+If a student earned less aid than was disbursed, the institution would be required to
+52 | 2022 - 2023 CATALOG

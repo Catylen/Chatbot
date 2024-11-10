@@ -1,0 +1,2 @@
+MA-340 - Ordinary Differential Equations
+This course addresses methods for solving first order equations with applications to

@@ -1,0 +1,16 @@
+Noise types and specifications. Natural, man-made and intrinsic noise sources. Thermal,
+shot, contact, popcorn and avalanche noise as related to electronic devices. Reactive
+network effects on thermal noise. Signal-to-noise ratio, noise figure, noise factor,
+noise temperature and noise bandwidth. Low noise design techniques, measurement
+techniques for noise factor and noise bandwidth. Ground loops and how to eliminate
+them. Grounding techniques, shielding, digital circuit radiation, electrostatic discharge,
+and electromagnetic pulse. Prerequisites: EL-261. (2-2-3)
+EL-400 - Special Projects in Technology
+Guided Study. Project-oriented course. Students are expected to design and build
+electronic systems in their specialization. Students will produce a final project including
+a written report and an oral presentation. (0-6-3)
+EL-452 - Automated Test Systems
+Systems design course for automating the testing of electronic circuits and systems
+in both the engineering and production environments; stresses both hardware design
+and system software development. Begins with simple PC-based systems assembly
+for circuit testing as part of the design process and progresses to the design and

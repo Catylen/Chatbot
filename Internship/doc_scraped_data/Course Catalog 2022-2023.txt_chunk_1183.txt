@@ -1,0 +1,15 @@
+This course provides an overview of the principles used in the design and operation
+of unmanned and autonomous systems (UAS) to support applications in air, ground,
+water, and space environments. The platform, sensors, power plant, control, and
+communications systems that are required in unmanned and autonomous systems will
+be explored with respect to function and interaction. The student will conduct a detailed
+examination of the components of unmanned systems and the critical parts played
+in operations. Topics include component capabilities, limitations, selection, overall
+system design concepts, criticality to system function, and applications in the civilian,
+commercial, and military fields. Prerequisite: None. (3-0-3)
+UAS-150 - Unmanned and Autonomous Systems Crew Planning
+This course is an introduction to the concepts and principles of crew resource
+management (CRM) in unmanned systems. Topics include human performance in
+crews, communication, decision making, situational awareness, workload management,
+team building, and human-machine interaction. The relationships of CRM principles
+will be explored in air, land, and water type vehicles. Additionally, contrasts of manned

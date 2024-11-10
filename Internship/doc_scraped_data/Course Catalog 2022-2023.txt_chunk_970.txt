@@ -1,0 +1,5 @@
+modernization of the nation’s IT networks supporting the critical infrastructure and
+setting the groundwork for developing the federally mandated Smart Grid. The ICS
+network transition to public networks has many benefits and risks. SCADA software
+runs chemical plants and factories, transmission systems and electric power plants.
+Prerequisite: IE-701 (3)

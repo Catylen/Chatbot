@@ -1,0 +1,7 @@
+This course introduces the student to client-side web programming. Students learn
+javascript. Topics include programming fundamentals using javascript, functions,
+event handlers, how to create and use javascript libraries. Labs include how to use
+the prototype and scriptaculous libraries for visual effects. Use of google maps from
+a programmer’s perspective. Debugging of javascript code. Other topics include CSS
+style sheets, XML,. JSON and AJAX. Programming projects are assigned as part of the
+homework requirements. Prerequisite: CS-130. (2-2-3)

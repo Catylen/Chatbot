@@ -1,0 +1,15 @@
+Origin and behavior of materials. Classifications of materials. Physical metallurgymechanical and physical properties, crystalline structure, imperfections in solids,
+phase diagrams, failure mechanisms in materials, hardening and tempering,
+isothermal diagrams. Involves hands-on experiences through lab sessions in the use of
+metallurgical and mechanical testing equipment. Lecture and laboratory. (3-0-3)
+MEC-210 - Engineering Mechanics - Statics
+Fundamental concepts and conditions of static equilibrium; their application to systems
+of forces and couples acting on rigid bodies; and the calculation of centers of gravity,
+centroids, and moments of inertia. Prerequisites: MA-261. Corequisite: PH-261. (3-0-3)
+MEC-215 - Intro to Engineering Design Computer-Aided-Design
+Introduction to computer-aided design (CAD) for product design, modeling, and
+prototyping. Individual use and team-based environment to design and prototype
+a functional and manufacturable marketable product. Application to design,
+manufacturing, and analysis using geometric tolerancing and dimensioning. Two hours
+lecture and three hours laboratory. (2-3-3)
+MEC-220 - Principles of Mechatronics

@@ -1,0 +1,16 @@
+Design for testability. Types of testing, functional testing, and structural testing.
+Automatic test pattern generation. Scanning and scan-based design rules. Critical
+paths. Memory test and diagnostics. Built-in self-testing. ATE equipment, local and
+remote testing and limitations. Students will have access to on-line test workstations.
+(3)
+EE-758 - Master’s Project
+Students integrate prior course work and personal experiences into a master’s project.
+Students develop a full final proposal, including abstract, statement of work, schedule,
+milestones, and deliverables. Proposal must be delivered to class and approval of
+project advisor required. Regular progress reports required. Final presentation will be
+live over the Internet. Offered during spring semester. Prerequisite: Completion of at
+least 18 credit hours of graduate coursework. (3)
+EGA-120 - Introduction to Esports Management
+Esports is one of the fastest growing industries, attracting 450 million viewers and
+generating over $1bn in revenue in 2020. This course will introduce you to the history
+of competitive gaming and will explore its ecosystem. You will learn to navigate

@@ -1,0 +1,14 @@
+This course examines legal concepts that arise out of conducting business through
+the Internet. This course examines a wide variety of concepts and issues that have a
+significant influence on the use of the Internet for business or personal gain. In addition
+to basic legal terms, topics such as how courts assert personal and subject matter
+jurisdiction, the use of long-arm statutes, the state and federal court systems, patents,
+copyrights, trademarks, trade secrets, and statutes that deal with hacking, on-line
+privacy and the protection of data are introduced. International jurisdiction issues will
+also be discussed. The class is structured as a seminar course with an emphasis on inclass discussion and collaborative learning. Prerequisite: BUS-174, EN-102. (3-0-3)
+BUS-240 - Statistical Methods in Data Science
+Statistical concepts and applications related to data science including advanced
+exploratory data analysis, nonparametric inference and simulation for larger datasets,
+logistic regression modeling, statistical programming, and basics of machine learning.
+Prerequisite: BUS-101. (3-0-3)
+BUS-245 - Writing & Communication in Data Science

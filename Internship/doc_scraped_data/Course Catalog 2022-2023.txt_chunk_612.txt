@@ -1,0 +1,22 @@
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+CM-220 - Construction Methods and Materials
+
+CM-260 - Statics and Strengths of Materials
+This algebra-based course is the study of forces acting upon structural elements.
+Analytic and graphic methods are used to illustrate resultants and reactions,
+equilibrium, centroids and moments of inertia applied to static structures. Analysis
+includes stress, strain, axial loading, bending, and deflection of beams. Prerequisite:
+MA-112 and PH-201. (3-0-3)
+CM-270 - Safety Management
+Covers OSHA liability, general safety, hazard communication, fire, material handling,
+tools, welding, electricity, scaffolding, fall protection, cranes, heavy equipment,
+excavation, concrete, ladders and stairways, confined space entry, personal protective
+equipment, and health hazards. Prerequisite: CM-120 or FM-120 (3-0-3)
+CM-301 - Construction Project Management
+This course covers construction procedures and administration processes using the
+latest construction management technologies and methods to explain typical project
+management functions and documentation. Prerequisites: CM-250, CM-270, CM-330
+and CM-350. (3-0-3)

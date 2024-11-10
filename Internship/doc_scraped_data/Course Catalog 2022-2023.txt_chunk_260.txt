@@ -1,0 +1,30 @@
+Programming and Computer Science 33 Credits
+CS-120 Intro to Programming Using Python 3
+CS-150 Programming in C 3
+CS-200 Programming in C++ 3
+CS-220 Database Management 3
+CS-230 Data Structures 3
+CS-250 Introduction to Network Programming Using C 3
+CS-300 Secure Coding 3
+CS-418 Operating Systems 3
+CT-152 Introduction to UNIX 3
+CT-240 Internetworking with Routers and Switches 3
+NT-150 Computer Networking 3
+Information Assurance 33 Credits
+IAE-201 Introduction to Information Assurance Concepts 3
+IAE-250 Comprehensive Computer and Network Security 3
+IAE-260 Secure Systems Administration and Operation 3
+IAE-321 Applied Wireless Network Security 3
+IAE-325 Secure Data Communications and Cryptography 3
+IAE-390 Penetration Testing 3
+IAE-402 Introduction to Incident Handling and Malicious Code 3
+IAE-405 Malware Analysis/Reverse Engineering 3
+IAE-406 Digital Forensics and the Investigative Process 3
+IAE-457 Senior Design Project I 3
+IAE-458 Senior Design Project II 3
+Management 9 Credits
+DS-101 Introduction to Data Science 3
+BUS-174 Introduction to Business and Management 3
+BUS-301 Project Management 3
+Mathematics and Science 12 Credits
+MA-112 Intermediate Algebra 3

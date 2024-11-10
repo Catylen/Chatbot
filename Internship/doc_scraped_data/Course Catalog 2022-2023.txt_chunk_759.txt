@@ -1,0 +1,15 @@
+The course provides students with an introduction to data sciences, a developing
+field that focuses on the knowledge and abilities required to harness the power of
+data to advance science and engineering, address difficult domestic and international
+problems, inform public policy, and enhance people’s lives. It illustrates how computer
+science, statistics, and informatics knowledge and abilities are integrated into the field
+of data science (with exposure to application domains such as life science, health
+science, cyber security, astronomy, etc.). Students are introduced to the “high-level
+view” of data science, including elements for understanding data through exploratory
+data analysis, testing hypotheses against data, and building predictive models, all using
+real-world examples, through a combination of lectures, manual lectures on workshops,
+and case studies. DS 275 will present these concepts in a simpler way with much more
+emphasis on data science applications. Understanding of these concepts is tested
+through assignments and exams. (3)
+DS-279 - Machine Learning for Data Analytics
+This course introduces the principles of machine learning (and data mining),

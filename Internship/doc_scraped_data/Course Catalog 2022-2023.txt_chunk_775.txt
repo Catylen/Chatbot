@@ -1,0 +1,16 @@
+EE-309 - Circuit Design and Simulation
+An advanced circuit analysis course that introduces students to computer-aided
+electronics packages and automated design. Students design and analyze circuits both
+mathematically and with computer simulation. Students build the circuits and compare
+predicted results with measured results obtained in the laboratory. Prerequisites: MA261 and EL-250 or equivalent. (2-2-3)
+EE-340 - Systems Engineering
+An interdisciplinary course with both technical and management aspects of large,
+multifaceted engineering projects. Special emphasis placed on design, implementation,
+and improvement of mechatronic systems. Topics include systems engineering,
+engineering management, economics, quality control and engineering, project
+management, production systems planning and operations, and human factors.
+Prerequisite: BUS-301. (3-0-3)
+EE-353 - Power Systems Engineering
+Fundamentals of power transmission and electric motors. Single versus three-phase,
+poly-phase systems, synchronous, asynchronous machines. DC and compound DC
+motors, induction motors. Equivalent circuit modeling of motors. Start-up conditions.

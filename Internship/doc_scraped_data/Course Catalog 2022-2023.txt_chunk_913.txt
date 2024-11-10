@@ -1,0 +1,5 @@
+leave the course with an awareness and understanding of a variety of topics pertaining
+to IdM, including broad technical aspects, legal and policy issues, implementation
+scenarios, case studies and industry and government applications of IdM components.
+Students will be provided hands on design, implementation and operations of ICAM
+systems in a lab environment. Prerequisite: IAE-250. (3-0-3)

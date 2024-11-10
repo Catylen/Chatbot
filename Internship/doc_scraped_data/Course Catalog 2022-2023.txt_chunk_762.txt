@@ -1,0 +1,15 @@
+DS-289 - Data Integration
+The integration of data from multiple disparate sources is becoming increasingly
+important in modern data-intensive applications. Students in this course will learn
+about the principles and practices of data integration, including relational, knowledgebased, graph-based, and probabilistic approaches. Students’ understanding of both
+theoretical and practical underpinnings will be enhanced by carefully crafted data
+integration assignments. Each student will work in a team to solve a real-world data
+integration problem. Following the completion of this course, students should be able
+to design, implement, and evaluate data integration solutions for use in data-intensive
+applications. (3)
+DSM-802 - Fundamentals of Doctoral Learning
+Students of doctoral level programs are taught the ability to create knowledge through
+original research in their areas of specialization. This course will orient new doctoral
+students to learning, researching, and writing, and prepare them for the entire program
+of study. Students will be introduced to critical thinking skills necessary for doctoral
+research. Students will be introduced to the standards of ethical research. (6)

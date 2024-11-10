@@ -1,0 +1,11 @@
+AE-100 - Introduction to Astronomy
+Provides a general overview of topics in astronomy. Includes the history and evolution
+of our understanding of the solar system, stars, galaxies, and cosmos. Basic processes
+that explain observations of phenomenon in our universe are discussed. May be used
+as a science elective. Corequisite: MA 114. Offered during Spring semester only. (3-0-3)
+AE-150 - Introduction to Space
+Introduces the student to elements of astronomy and space sciences, the history of
+NASA and earth missions and operations and simple physics of satellite orbits, types
+of orbits and orbital terminology. Space environment and its effects on satellite and
+equipment. Discussion of satellites, types of satellites and their uses. Prerequisite: MA
+114 or Corequisite: MA-261. Offered during Fall semester only. (3-0-3)

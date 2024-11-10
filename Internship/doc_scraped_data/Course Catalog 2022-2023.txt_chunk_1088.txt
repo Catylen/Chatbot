@@ -1,0 +1,17 @@
+An introduction to the design and control of autonomous robots. Mechanical
+considerations, detection and navigational ability are discovered in this course. Students
+will develop algorithms and use machine learning techniques to generate programs
+to control electromechanical systems to perform tasks. The class incorporates teambased projects and laboratories. Prerequisites: EL-262, ROB-300. (3-0-3)
+RSC-802 - Fundamentals of Doctoral Learning
+Doctoral programs educate students for highly specialized careers in academe or
+practice. Students of doctoral level programs are taught the ability to create knowledge
+through original research in their areas of specialization. This course will orient new
+doctoral students to learning at the doctoral level and prepare them for the entire
+program of study. Students will each develop a Doctoral Learning Contract (DLC) that
+will serve as guides through graduation. (6)
+RSC-810 - Professional Research Theory & Practice I
+Students will examine the research process in the context of quantitative and qualitative
+methods. Students will develop a purpose statement, problem statement, and research
+question. (3)
+
+350 | 2022 - 2023 CATALOG

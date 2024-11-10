@@ -1,0 +1,14 @@
+The course will develop the student’s knowledge and skills that are needed to safely
+exercise the privileges and responsibilities of a Remote Operations Pilot. This course
+will develop the student’s knowledge and skill needed to operate small unmanned
+aircraft systems and take the FAA UAS initial aeronautical knowledge exam. Course
+content includes Federal Aviation Regulations, airspace authorization criteria, and
+operational approval requirements. Operational skills will be acquired through both
+classroom and hands-on flight activities. Students must complete the appropriate UAS
+flight lessons to satisfactorily to complete the course. Prerequisite: None (1.5)
+UAS-501 - Introduction to Unmanned and Autonomous Systems
+This course provides an overview of unmanned and autonomous systems (UAS) and
+their subsystems as critical elements in their application to civilian, commercial, and
+military fields. The students will explore case studies in aerial, ground, water and
+space environments and examine mission requirements, selection standards, limiting
+factors, and regulatory issues. Emphasis is on the total system including reliability,

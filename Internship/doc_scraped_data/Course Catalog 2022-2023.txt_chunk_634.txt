@@ -1,0 +1,15 @@
+CRI-212 - Critical Infrastructure III
+This course will explore how threats, vulnerabilities, and consequences determine
+risk as it relates to the protection of Critical Infrastructure. Primary focus will be on
+incorporating Critical Infrastructure protection into construction of facilities in five of
+the sixteen critical infrastructure sectors: food and agriculture facilities, Information
+Technology facilities, nuclear facilities, transportation facilities, and water/wastewater
+facilities. Students will complete hands-on Critical Infrastructure projects related to the
+construction, hardening, and recovery of those types of facilities. Prerequisite: CRI-211
+(3-0-3)
+CRI-501 - Critical Infrastructure Intro
+The security and resilience of the 16 sectors of Critical Infrastructure is essential to the
+nation’s security, public health and safety, economic vitality, and way of life. This course
+will present an overview of the National Infrastructure Protection Plan -- the unifying
+structure for the integration of existing and future critical infrastructure security and
+resilience efforts into a single national program. Students will learn the responsibilities

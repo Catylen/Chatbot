@@ -1,0 +1,22 @@
+228 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+BUS-208 - E-Commerce and the Law
+
+BUS-246 - Business Research Methods
+Students will learn the elements of the research process. The course encourages
+students to step outside the classroom and engage in research projects based on
+real life case studies. Non-Business Analytics Business majors must take this course.
+Prerequisites: MA-128. (3-0-3)
+BUS-247 - Quantitative Methods for Business Analytics
+A project-based course where students pursue an approved data-science based
+research project. The course builds upon the skills acquired in BUS-101 and BUS-240.
+The course includes topics in advanced data mining, data ethics, and reproducible
+research. Business Analytics majors must take this course. Prerequisite: BUS-240. (3-03)
+BUS-250 - Database for Managers
+A course that introduces the student to the basic concepts, organization, and
+implementation models of databases, with an emphasis on the relational model.
+Projects include hands-on work with entity-relationship and relational models. (3-0-3)

@@ -1,0 +1,16 @@
+dean. This course may be repeated with different projects. (1-4)
+IAE-605 – Master’s Research
+This is part one of a two course sequence in research and writing. In part one, students
+work to identify a research topic and, as initial research begins, they investigate
+the requirements for maintaining a research journal, writing a research paper, and
+presenting a research paper. Students may petition for a job-related substitute course.
+(3)
+IAE-610 - Advanced Penetration Testing
+This course explores the foundational concepts, methods and techniques in preparing
+and conducting penetration tests. Throughout the course you will be introduced to
+various tools as well as unravel complex methods for exploiting client-side, service side
+and privilege escalation attacks. Most importantly, you will learn how to construct a
+final report outlining discovered vulnerabilities, make suggested recommendations to
+remediate and/or mitigate those vulnerabilities. You will also learn how to describe the
+findings in a way that non-technical personnel understand the ramifications of these
+vulnerabilities in a business sense. Students in this course will conduct a final exercise

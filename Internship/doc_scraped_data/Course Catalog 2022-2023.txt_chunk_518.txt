@@ -1,0 +1,20 @@
+Courses
+
+AE-458 - Senior Design Project II
+
+(report) of advantages and deficiencies in the tool of choice in terms of end-to-end
+systems engineering to include information and mission assurance concerns. Offered
+during Spring semester only. (3)
+AE-700 - Fundamentals of Graduate Research & Design
+Project I will introduce the fundamentals of graduate research and design. The project
+will focus on graduate level writing, APA style, and the fundamentals of scientific inquiry.
+The project will cover the areas of technology research, ethics of research, the stages of
+the research process, conceptualization and operationalization of research questions,
+data collection techniques, analytics, an Introduction to qualitative and quantitative
+methods and measurement, a discussion of program evaluation research, and research
+proposal development. (6)
+AE-710 - Ethics & Philosophy of Research & Data Collection
+Students will study research ethics, data collection, qualitative and quantitative methods
+of various research. Assignments and case studies are used to enhance the learning
+objectives and applications to prepare for the next three courses. (6)
+AE-715 - Astronautical Engineering Proposal

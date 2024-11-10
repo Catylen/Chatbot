@@ -1,0 +1,14 @@
+This course is in graduate seminar format. Students integrate prior course work and
+personal experiences into researching an approved topic to produce a project-based
+paper. Prerequisite: completion of at least 18 credit hours of graduate coursework. (3)
+CS-716 - Advanced Artificial Intelligence
+This course covers selected deep learning and deep neural network technologies,
+drawn from such topics as convolutional neural networks, recurrent neural networks
+and generative models. The course will combine coverage of relevant technologies with
+consideration of emerging innovations and developments in this field. Prerequisite: CS502 (3)
+CS-800 - Computer Science Research Background
+The student will focus on the study of the latest Computer Science strategies, tactics
+and developments. The student will synthesize the growing effect of Computer Science
+on current operations, international relationships and effects on the field, and where
+there are areas of improvements or failings. The focus will be to start identifying areas
+for research at a later stage and explore the background of Computer Science. The

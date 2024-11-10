@@ -1,0 +1,4 @@
+for eliciting software and system assurance requirements, using threat identification,
+characterization, and modeling; assurance risk assessment, and misuse/abuse cases.
+Students will also learn how to evaluate methods and environments for creating
+software and systems that meet their functionality and security requirements. (3)

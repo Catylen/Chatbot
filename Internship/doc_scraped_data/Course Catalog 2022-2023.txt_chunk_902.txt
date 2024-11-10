@@ -1,0 +1,14 @@
+This course follows the protocol education provided in IAE-250 with a more detailed
+and practical look at secure transactions and correspondence, as well as protection of
+data in storage. Within the confines of the ISO-OSI model, this course discusses data
+communication with emphasis on the security available at the layers, secure sockets
+layer, and both wired and wireless security topics. One-way message digests/hashes
+and encryption history and protocols are explored in-depth. Topics include virtual private
+networks, one-way hashes/message digests, digital signatures, secret-key and public
+key cryptography processes and algorithms. Prerequisite: IAE-250 and CT-152. (3-0-3)
+NOTE: Students enrolled in this course incur an additional lab fee of $100.
+IAE-335 - Advanced Secure Data Communications
+In today’s world it is nearly impossible to not be connected in one way shape or form to
+the Internet. Students will be introduced to multiple methods of secure communication
+using the Internet and how to minimize the impact of being tracked. In addition,
+Students will be introduced to methods, tools, techniques, and tricks on how to remain

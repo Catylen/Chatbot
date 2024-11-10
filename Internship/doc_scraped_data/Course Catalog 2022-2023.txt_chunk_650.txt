@@ -1,0 +1,2 @@
+This introductory course in programming will enable students to understand how
+computers translate basic human instructions into machine executable applications.

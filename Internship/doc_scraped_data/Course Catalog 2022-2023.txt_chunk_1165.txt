@@ -1,0 +1,16 @@
+and routers, their configurations and secure deployment, encryption of traffic and
+deployment of VPN. In addition, the labs will help students be competent in configuring
+firewalls such as ASA routers. Prerequisite CT-240. (1-3-3)
+TC-359 - Networking Modeling & Design
+A continuation of TC-309 where students are expected to design, model, simulate and
+analyze networks to meet real-world situations. Networks are designed and tested for
+traffic handling capabilities and robustness. Alternate network solutions are proposed
+and tested. Virtual simulation software is used throughout the course. Prerequisites: CT240 and MA-128 (1-3-3)
+TC-400 - Special Projects in Telecommunications
+This course is a guided study project course in which students research a problem in
+the field of telecommunications under the guidance of a professor or member of the
+academic staff. Students are required to produce a final written and oral presentation of
+their effort. (0-6-3)
+TC-401 - Advanced Topics in Telecommunications
+Layered protocol models. Ethernet, TCP/IP with mathematical throughput analysis.
+SMTP, POP, HTTP analyzed using Ethereal. Number theory, encryption and

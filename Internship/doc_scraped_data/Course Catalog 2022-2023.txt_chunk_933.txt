@@ -1,0 +1,4 @@
+This course prepares students for the Certified Wireless Security Professional (CWSP)
+Certification. Case studies will be used throughout the course. Students are required to
+purchase an Alfa wireless adapter and acquire a wireless router. Prerequisite: IAE-675
+(3)

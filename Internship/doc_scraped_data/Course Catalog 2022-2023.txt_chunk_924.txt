@@ -1,0 +1,16 @@
+This course covers the fundamentals of software and system assurance management,
+including making the business case for assurance; planning and managing development
+projects that include assurance practices; compliance with laws, regulations, standards,
+and policies related to assurance; and risk assessment, identification, analysis,
+mitigation, and monitoring for assurance. The focus is on how to manage business and
+technical requirements. (3)
+IAE-574 - Assured Software Analytics
+This course covers methods for assuring the security and functionality of existing
+software and services, whether legacy, internally developed, or externally acquired,
+with emphasis on detection of vulnerabilities and malicious content. It also discusses
+assurance considerations for system architectures, networks and databases in their
+role as underlying enablers of software operations. Methods for structuring and reverse
+engineering of existing software are covered, as are techniques for acquiring and
+assuring software and services through suppliers, service-oriented architectures and
+cloud computing environments. (3)
+IAE-600 - Special Topics in Information Assurance

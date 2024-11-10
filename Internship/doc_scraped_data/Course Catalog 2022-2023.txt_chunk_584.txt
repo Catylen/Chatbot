@@ -1,0 +1,16 @@
+formal business plans, and finance, organize, and operate a small business.
+Prerequisites: BUS-174, EN-102. (3-0-3)
+BUS-301 - Project Management
+This course is an introduction to project management. It covers the origins, philosophy,
+methodology, and involves actual applications and use of tools such as MS Project.
+The System Development Cycle is used as a framework to discuss project management
+in a variety of situations. Illustrative cases are used and project leadership and team
+building are covered as integral aspects of good project management. Prerequisites:
+BUS-174, EN-101. (3-0-3)
+BUS-302 - Methods of IT Project Management
+“Methods of IT Project Management focuses on IT project management and is built
+around the Project Management Body of Knowledge (PMBOK). You will learn how IT
+projects differ from other kinds of projects and how the methods and techniques of
+project management must be modified/adapted for IT projects. In addition, you will
+gain an increased understanding of what managers do (or should be doing) and why
+managers ask you to do the things that they do. The course presents methods, tools,

@@ -1,0 +1,9 @@
+Students will explore several popular agile processes and frameworks which may
+include some of the following, amongst others: Adaptive Software Development, Agile
+Unified Process, Crystal Clear Methods, Extreme programming, Lean, Scrum. Benefits
+and pitfalls of this approach as compared to more traditional models will be discussed.
+(3)
+CS-575 - Secure Coding
+This course introduces the secure coding process including designing secure code,
+writing code that can withstand attacks, and security testing and auditing techniques
+to detect secure coding weaknesses. The course focuses on the security issues a

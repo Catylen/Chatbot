@@ -1,0 +1,2 @@
+Scheduling, Huffman encoding, etc.) are used. Course requires written programming
+assignments. Prerequisites: CS-130 and MA-124. Offered spring semester only. (3-0-3)

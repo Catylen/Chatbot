@@ -1,0 +1,8 @@
+systems and platform-specific optimizations. This course was built in collaboration
+with Unity. Upon successful completion, students will be prepared to sit for the Unity
+Certified Programmer exam. Prerequisites: GDV-101, HU-210, GDV-230 and CS-150.
+Course offered through LCMC Rize consortium partner - GDM V (3-0-3)
+HCS-800 - Healthcare Cybersecurity Research Background
+The student will focus on the study of the Healthcare Cybersecurity strategies, tactics,
+and developments. The student will synthesize the growing effect of Cybersecurity
+threats to healthcare operations, international relationships, and impact on the

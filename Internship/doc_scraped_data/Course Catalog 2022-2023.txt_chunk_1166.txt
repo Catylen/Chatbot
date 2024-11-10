@@ -1,0 +1,5 @@
+SMTP, POP, HTTP analyzed using Ethereal. Number theory, encryption and
+authentication. The RSA algorithm. Routing algorithms (RIP, OSPF). Optimal capacity
+assignment. Laboratory exercises performed using actual constructed networks
+(Windows/Linux) and virtual networks (in VMWare). Prerequisites: CT-152 and MA-128
+or equivalent. (2-2-3)

@@ -1,0 +1,16 @@
+This course covers various business and technical aspects of intelligent automation,
+including its motivations, benefits, detriments, tools, and techniques. The mixture
+of robotic process automation (RPA), machine learning engineering, and low-code
+techniques shows students how to maximize automation while minimizing complexity.
+Students will demonstrate the ability to evaluate and apply intelligent automation
+techniques to one or more given problems. Prerequisites: CS-502 (3)
+CS-610 - Machine Learning & Neural Networks
+Basics of neural network computing, important neural network models such as
+Adaline, Perceptron, back propagation, self-organizing maps, Hopfield nets. Analysis
+and limitations of neural networks; programming neural networks using OOP. CS-511
+recommended. (3)
+CS-620 - Operating Principles for Information Assurance
+This course is an overview of the UNIX operating system. The content will include shell
+programming, process management, processor management, storage management,
+scheduling algorithms, resource protection and system programming. The course will
+include programming projects focused on Information Assurance problem solving

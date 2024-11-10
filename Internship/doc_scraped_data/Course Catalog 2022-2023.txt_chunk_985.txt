@@ -1,0 +1,20 @@
+Courses
+
+MA-005 - Basic Mathematics
+
+MA-112 - Intermediate Algebra
+Designed for students needing mathematical skills and concepts for MA-114 and MA261. In this course students are introduced to equations and inequalities and learn the
+language of algebra and related functions, including polynomial, rational, exponential
+and logarithmic functions. Other topics include solving equations, inequalities and
+systems of linear equations; performing operations with real numbers, complex
+numbers and functions; constructing and analyzing graphs of functions; and using
+mathematical modeling to solve application problems. Prerequisite: MA-005 or
+placement test score. (3-0-3)
+MA-114 - Algebra and Trigonometry
+Designed for students needing mathematical skills and concepts for MA-261. Topics
+in this course are as follows. Algebra: basic operations on real and complex numbers,
+fractions, exponents and radicals. Determinates: Solution of linear, fractional, quadratic
+and system equations. Trigonometry: definition and identities, angular measurements,
+solving triangles, vectors, graphs and logarithms. Prerequisite: MA-112 or placement
+test score. (4-0-4)
+MA-124 - Discrete Mathematics

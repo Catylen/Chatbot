@@ -1,0 +1,34 @@
+Critically analyze problems and to identify relevant and useful information to
+support the attainment of desired outcomes.
+
+•
+
+Think critically by drawing appropriate conclusions from examining the output
+of the application of cybersecurity tools and related IT.
+
+•
+
+Conceptualize, apply and integrate effective strategies to acquire, store,
+analyze, deploy and secure information effectively.
+
+•
+
+Evaluate and employ cybersecurity tactics, techniques, and procedures in
+the context of the construction industry IT, computer security, and privacy
+regulations.
+
+84 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Course Requirements
+Bachelor of Science 121 Credits
+Course Credits
+Computer Science 15 Credits
+CS-120 Intro to Programming using Python 3
+CS-200 Programming in C++ 3
+CS-220 Database Management 3
+CS-230 Data Structures 3
+CS-310 Computer Algorithms 3
+
+Undergraduate Studies

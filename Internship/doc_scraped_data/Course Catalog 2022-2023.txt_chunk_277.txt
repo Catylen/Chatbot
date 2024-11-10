@@ -1,0 +1,35 @@
+•
+
+Function effectively as a member as well as a leader of technical teams
+
+Course Requirements
+Bachelor of Science 121 Credits
+Course Credits
+Technical 60 Credits
+EL-100 Introduction to DC/AC Circuits 3
+EL-150 DC/AC Circuits and Analysis 3
+EL-200 Electronic Devices and Circuits 3
+EL-204 Digital Electronics 3
+CT-152 Introduction to UNIX 3
+CT-240 Internetworking Routers and Switches 3
+NT-100 Computer Architecture and Construction 3
+NT-150 Computer Networking 3
+EL-261 Introduction to Communication Circuits/Systems 3
+EL-262 Microprocessors and Microassembly 3
+CS-120 Intro to Programming Using Python 3
+CS-150 Introduction to Programming in C 3
+MEC-155 Introduction to Materials Science 3
+MEC-215 Introduction to Engineering Design CAD 3
+MEC-370 Electronics and Instrumentation 3
+MEC-375 Engineering Safety 3
+IAE-201 Introduction to Information Assurance Concepts 3
+IAE-250 Comprehensive Computer and Network Security 3
+EE-457 Senior Design Project I 3
+TC-458 Senior Design Project 3
+101 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Undergraduate Studies
+
+Upon graduation, graduates will be able to

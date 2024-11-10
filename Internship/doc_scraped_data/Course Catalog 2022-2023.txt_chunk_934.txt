@@ -1,0 +1,14 @@
+Industrial Control Systems (ICS) have been in existence for decades in the United
+States. These systems are relatively unknown to the general public and were designed
+to control our critical infrastructure such as utilities (electricity, nuclear power, and
+water treatment plants). Until recently, these systems were connected to company
+networks by privately owned IT networks based on private line technology. Public utility
+companies have begun to connect ICS networks to public networks such as the Internet
+as they transition to TCP/IP based networks. This trend is accomplishing the muchneeded modernization of the nation’s IT networks supporting the critical infrastructure
+and setting the groundwork for developing the federally mandated Smart Grid. The
+ICS network transition to public networks has many benefits and risks. The increased
+risk to the smart grid must be addressed by the USG partnering with private industry.
+Prerequisite: IAE 685 (3) NOTE: Students enrolled in this course may incur an additional
+lab fee of $100.
+IAE-640 - Access & Identity Management
+Students will learn fundamental and advanced IdM (Identity Management) topics,

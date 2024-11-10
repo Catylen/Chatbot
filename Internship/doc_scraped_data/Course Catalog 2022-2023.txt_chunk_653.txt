@@ -1,0 +1,4 @@
+relational database management system. An overview of database administration,
+transactions and concurrency. Data warehouses. Projects, which are assigned as
+homework, are implemented in Oracle. Prerequisite: CS-120 or CS-130 or CS-150. You
+may take this course and CS-130 concurrently. (3-0-3)

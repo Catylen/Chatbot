@@ -1,0 +1,40 @@
+•
+
+Design, implement, and Evaluate a computing-based solution to meet a given
+set of computing requirements in the context of the program’s discipline.
+
+•
+
+Communicate effectively in a variety of professional contexts.
+
+•
+
+Recognize professional responsibilities and make informed judgments in
+computing practice based on legal and ethical principles.
+
+•
+
+Function effectively as a member or leader of a team engaged in activities
+appropriate to the program’s discipline.
+
+•
+
+Apply data analytic principles and practices to maintain operations in the
+presence of risks and threats
+
+Course Requirements
+Master of Science 36-39 Credits
+Course Credits
+Cybersecurity 24-27 Credits
+IAE-500 Introduction to Information Assurance* 3
+CS-620 Operating Systems Principles for Information Assurance** 3
+IAE-685 Principles of Cybersecurity*** 3
+IAE-640 Access and Identity Management 3
+IAE-673 Secure Information Transfer and Storage 3
+194 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+Upon graduation, graduates will be able to

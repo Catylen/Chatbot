@@ -1,0 +1,20 @@
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+Upon graduation, graduates will be able to
+
+IAE-677 Malicious Software 3
+IAE-679 Vulnerability Mitigation 3
+IAE-682 Internal Protection 3
+IAE-685 Principles of Cybersecurity 3
+Computer Science 3 Credits
+CS-620 Operating System Principles for Information Assurance** 3
+*Students who can demonstrate knowledge of information assurance topics at an
+undergraduate level either through undergraduate transcripts, certifications, or work
+experience may have IAE500 waived with appropriate documentation which is evaluated
+at the time of admission.
+**Students who can demonstrate knowledge of the UNIX operating system and C
+programming language may request that an appropriate elective be used to substitute
+for CS-620 by contacting the department chair. Students are encouraged to substitute
+IAE-621 or 673 if this course is waived or not taken.

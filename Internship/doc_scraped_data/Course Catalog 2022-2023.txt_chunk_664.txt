@@ -1,0 +1,24 @@
+Students learn how to build a game using the Unity game engine. Students learn
+how to use 2D and 3D graphics, sound files, and user driven programming to build a
+game using a game engine and a physics engine. Students learn how to use the Unity
+development environment, design a user interface, make scenes, retain persistent data,
+create and manage animation, collision detection, level management, use of game
+characters. Students learn how to create and code an end-to-end design of a playable
+game. Prerequisite: CS-230 and (CS-225 or CS-305 or CS-330). (3-0-3)
+CS-341 - 3-D Asset Creation
+
+Students learn how to create 2D and 3D graphics and sound files for use in animation
+and game design. Prerequisites: CS-150 or CS-130. (2-0-2)
+CS-350 - Data Visualization
+This course will introduce best practices and industry standards for data visualization.
+The students will learn topics such as effective graphical representation of big data,
+unbiased data representation, exploratory data analysis, and interactive and sharable
+visualization. Prerequisite: CS-220 (3-0-3)
+
+250 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+CS-340 - Game Programming Using 3D Graphics

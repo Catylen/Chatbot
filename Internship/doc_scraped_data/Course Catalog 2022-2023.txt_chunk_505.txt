@@ -1,0 +1,16 @@
+This course covers the basic theory and practical knowledge to use, operate, manage, or
+conduct tests in vacuum chambers. Terminology, equipment, and methods of obtaining
+and maintaining vacuum environments, especially regarding space simulation testing
+are covered. Topics will include types of vacuum pumps, system components, vacuum
+gauges, fittings, flanges, materials, and their integration. Basic test procedures and
+standards. (3-0-3)
+AE-205 - CubeSat Engineering
+End-to-end rapid development of a CubeSat-type satellite sensor system, power bus,
+and Arduino-based CPU. Students will form multi-disciplinary teams to collectively
+build, integrate and test a working design. Emphasis on design formalism, key trades,
+resource calculations, and integration of systems. Recipes and hardware components
+will be provided. Prerequisites: AE-150 or CS-130 or EL-100. (3-2-2)
+AE-250 - Ground Systems Engineering
+Introduces the components that make up a satellite ground system. Included is the
+design and analysis of ground system components. Provides an introduction into
+satellite telemetry, command, and control subsystems, as well as the software needed

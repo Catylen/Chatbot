@@ -1,0 +1,4 @@
+vulnerabilities in a business sense. Students in this course will conduct a final exercise
+penetration testing networks created in the IAE-680 course. This course prepares
+students for the EC Council Certified Ethical Hacker (CEH) certification. Prerequisite: IAE
+685 and CS-620 or waiver. (3)

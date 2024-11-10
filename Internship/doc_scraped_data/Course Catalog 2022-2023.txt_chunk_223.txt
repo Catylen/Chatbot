@@ -1,0 +1,41 @@
+Course Requirements
+Bachelor of Science 120 Credits
+Course Credits
+Astronautical Engineering 45 Credits
+
+Undergraduate Studies
+
+AE-100 Introduction to Astronomy 3
+AE-150 Introduction to Space 3
+AE-250 Ground Systems Engineering 3
+AE-311 Spacecraft Systems 3
+AE-350 Autonomous Ground Systems 3
+AE-351 Orbital Mechanics 3
+AE-361 Remote Sensing 3
+AE-411 Space Systems Engineering 3
+AE-451 Propulsion 3
+AE-454 Spacecraft Dynamics/Attitude/Control 3
+AE-455 Satellite Communications 3
+AE-457 Senior Design Project I 3
+AE-458 Senior Design Project II 3
+Technical Electives 3
+Technical Electives 3
+Computer Science 3 Credits
+CT-206 Introduction to Scripting Languages 3
+Engineering 6 Credits
+MEC-215 Introduction to Engineering Design CAD 3
+EE-453 Control I 3
+Engineering Technology 15 Credits
+EL-100 Introduction to DC/AC Circuits 3
+EL-150 DC/AC Circuits and Analysis 3
+EL-200 Electronic Devices/Circuits 3
+EL-204 Digital Electronics 3
+EL-250 Advanced Analog Circuits 3
+Mathematics and Science 30 Credits
+MA-261 Calculus I 4
+MA-262 Calculus II 4
+MA-263 Calculus III 4
+MA-330 Linear Algebra 3
+MA-340 Ordinary Differential Equations 3
+PH-261 Engineering Physics I 4
+PH-262 Engineering Physics II 4

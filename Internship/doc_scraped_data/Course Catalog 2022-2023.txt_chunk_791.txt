@@ -1,0 +1,3 @@
+Solutions to static field problems. Ampere’s Law, Faraday’s Law. Time-varying electric
+and magnetic fields. Boundary conditions. Maxwell’s equations and applications to
+wave phenomena. Prerequisites: PH-263 and MA-340. (3-0-3)

@@ -1,0 +1,22 @@
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+MEC-370 - Electronics and Instrumentation
+
+project. Projects vary from semester to semester. Students primarily work in a guided
+study environment with a faculty mentor. Prerequisites: permission of instructor and
+department chair and at least junior standing. This course may be repeated with
+different projects. (1-4-3)
+MEC-410 - Kinematics & Dynamics of Machinery
+The kinematics and dynamics of machinery and its applications to mechatronic
+systems. Analysis of motion translation/rotation in machinery, energy of machine
+mechanisms. Involves projects, seminars, and workshops regarding graphical,
+analytical, and numerical techniques for dynamic analysis and synthesis of machines.
+Two hours lecture and three hours laboratory. Prerequisite: MEC-310. (2-3-3)
+MEC-455 - Mechatronic System Design
+Presents specifics in the mechanical design of mechatronic systems. Includes problem
+analysis, conceptualization, design/material selection, and performance analysis.
+Addresses mechanical subsystems, bill of materials, and economic analysis of the
+system. Two hours lecture and three hours laboratory. Prerequisites: MEC-330 and
+MEC-410. (2-3-3)

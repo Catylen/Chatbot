@@ -1,0 +1,22 @@
+265 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+CT-206 - Scripting Languages
+
+CT-406 - Web Programming Languages
+This course will explore how to make a dynamic website using Enterprise Java
+frameworks, which may include: Java Servlets, Java Server Pages, Java Server Faces,
+Web Services, Java Persistence API, among others. Students will use the Model-ViewController design pattern to produce N-tier applications. These applications will be
+build on top of a modern Web Server and Relational Database Management System.
+Prerequisites: CS-220 and CS-225 or CS-200 or CS-230. (3-0-3)
+CT-451 - Special Topics
+Students research current trends in telecommunications and emerging technologies.
+Oral presentation required. Prerequisite: Senior status. (3-0-3)
+CTC-200 - Construction IT & Cybersecurity, Issues
+An overview of issues in construction information technology departments effecting
+both the home office and field office locations and cybersecurity issues effecting
+construction companies. Prerequisite: CM-120 and IAE-201. (3-0-3)
+CTC-220 - Building Information Modeling and Graphic Software

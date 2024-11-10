@@ -1,0 +1,12 @@
+282 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+Signal representation using step and impulse functions. Differential equation
+description of linear systems and classical solutions. Laplace transforms in linear
+systems. Trigonometric and complex exponential Fourier series. Fourier transforms.
+Parseval’s theorems. State-variable equations and solutions. The sampling theorem
+and the Nyquist criterion. Using Z-transforms to represent and analyze sampled data
+systems. (3)

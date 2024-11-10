@@ -1,0 +1,21 @@
+307 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+IAE-321 - Applied Wireless Network Security
+
+anonymous while using untrusted mediums such as the Internet. Students will learn
+through lecture, labs, and real-world exercises. Prerequisite: IAE-301, IAE-325. (3-0-3)
+Note: Students enrolled in this course incur an additional lab fee of $100.
+IAE-351 - Introduction to Cyberspace Operations
+Full spectrum information superiority and dominance is key to influencing operations
+associated with war or Military Operations Other Than War (MOOTW). This survey of
+Computer Network Operations (CNO) introduces the concept of how Computer Network
+Attack (CNA), Computer Network Defense (CND) and Computer Network Exploitation
+(CNE) are leveraged to collect information, disrupt, deny, degrade or destroy the
+information within computers and computer networks and/or the computers/networks
+that host them. Strategic and operational considerations will be considered to affect an
+adversary’s decision cycles with information superiority. Prerequisite: IAE-250 (3-0-3)
+Note: Students enrolled in this course incur an additional lab fee of $100.

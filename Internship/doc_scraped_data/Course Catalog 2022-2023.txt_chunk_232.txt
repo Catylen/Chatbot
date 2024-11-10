@@ -1,0 +1,35 @@
+•
+
+Apply engineering design to produce solutions that meet specified needs with
+consideration of public health, safety and welfare, as well as global, cultural
+social, environment and economic factors
+
+Course Requirements
+Bachelor of Science 122 Credits
+Course Credits
+Prerequisites 15 Credits
+EL-100 Introduction to DC/AC Circuits 3
+EL-150 DC/AC Circuits and Analysis 3
+EL-200 Electronic Devices/Circuits 3
+EL-204 Digital Electronics 3
+EL-262 Microprocessors and Microassembly 3
+Computers/Programming 24 Credits
+CS-120 Intro to Programming Using Python 3
+
+78 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Undergraduate Studies
+
+Within three to five years of graduation,
+
+CS-150 Programming in C 3
+CS-200 Programming in C++ 3
+CS-220 Database Management 3
+CS-230 Data Structures 3
+CS-418 Operating Systems 3
+CT-152 Introduction to UNIX 3
+IAE-201 Introduction to Information Assurance Concepts 3
+
+Undergraduate Studies

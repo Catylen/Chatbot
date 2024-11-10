@@ -1,0 +1,15 @@
+This course explores the operating software underlying Internet and intranet computing.
+The similarities and differences between operating systems and web servers are
+investigated with a view to choosing the best technology and optimization practices.
+Topics include NT, 2000 Server, Advanced Server, Windows CE, Unix and versions, Linux,
+IIS, Apache, third party, and public domain. (3)
+IE-707 - Network Architecture Convergence Using Wireless
+This course investigates the techniques used by successful network engineers to create
+converged network architectures and provide optimum information access to their
+users. The course will provide an in-depth study of the current and contemplated mobile
+technologies that can facilitate network convergence. Students will test these mobile
+technologies and their applications via the virtual laboratory concept using OpNet, the
+most advanced network modeling software currently available. Technical information
+on specific equipment and software will be provided as instruction supplemental to the
+textbook, and case studies will be used throughout the course. (3)
+IE-709 - Computer Object-Oriented Script Language

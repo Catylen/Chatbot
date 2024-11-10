@@ -1,0 +1,71 @@
+HEERF III Reporting
+
+
+
+
+Required
+
+
+HEERF III Report.docx
+
+
+
+
+
+
+
+
+
+
+
+While focused on a reorder icon, press the Enter key or spacebar to "select" the icon. While a reorder icon is selected, pressing the up and down arrows will change the order of the selected item within the list. Pressing Enter key or spacebar again will drop the selected item at that location in the list.
+
+
+
+
+
+
+
+
+
+
+
+
+Move resources to
+
+HEERF REPORTING
+
+
+
+
+While focused on a reorder icon, press the Enter key or spacebar to "select" the icon. While a reorder icon is selected, pressing the up and down arrows will change the order of the selected item within the list. Pressing Enter key or spacebar again will drop the selected item at that location in the list.
+
+
+
+
+
+Cancel
+Delete
+
+
+
+
+Are you sure you want to delete the selected resources?  This action cannot be undone.
+
+
+Cancel
+Delete
+
+
+
+
+
+
+
+
+News and Updates Get help using 'News and Updates'
+
+
+
+
+2025–26 FAFSA Form Coming SoonThe 2025–26 Free Application for Federal Student Aid (FAFSA®) form will be available on December 1, 2024.

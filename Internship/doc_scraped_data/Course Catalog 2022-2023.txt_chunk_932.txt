@@ -1,0 +1,15 @@
+course will learn how to properly identify, preserve, analyze, examine data and report
+on mobile device data. Prerequisite: IAE-685 (3) NOTE: Students enrolled in this course
+incur an additional lab fee of $100.
+IAE-621 - Applied Wireless Network Security
+This course provides students with practical, real-world experience with an
+understanding of wireless fundamentals, wireless network threats, tools to test wireless
+security, and safeguards. Specifically, this course addresses the most popular hacking,
+cracking and wireless security network analysis tools and trains students to use them
+to test and secure wireless networks. Current industry best practices for managing
+wireless networks in a secure environment are addressed. Students need access to
+a second computer (for hacking) and will be required to purchase and install wireless
+network equipment to create a home wireless network for the purpose of conducting
+experiments on various wireless security vulnerabilities and countermeasures. NOTE:
+students must have access to a computer network they personally own and can modify.
+This course prepares students for the Certified Wireless Security Professional (CWSP)

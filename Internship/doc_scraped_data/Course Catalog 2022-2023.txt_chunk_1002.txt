@@ -1,0 +1,14 @@
+Course focus is predominantly on prescriptive analytics with some parts focused on
+predictive analytics. Topics include operations research techniques and their application
+to decision making such as mathematical optimization, networks modeling, stochastic
+modeling, and multi-objective modeling. Other topics such as PERT, CPM, computer
+simulation, decision analysis using decision trees and quantitative value functions,
+and heuristic methods are covered, as well as use of contemporary computer software
+for problem solving. In particular, the course will extensively use MS Excel for solving
+the decision-making problems. Case-study approach to problem solving is used.
+Recommended prerequisite: Undergraduate statistics or SM-525. (3)
+MBA-515 - Applied Statistics & Visualization for Analytics
+Introduces multivariate regression and random forests for modeling data. Addresses
+data access, variable selection and model diagnostics. Introduces foundations for
+visual thinking. Reviews common statistical graphics such as dot plots, box plots, q-q
+plots. Addresses more advanced methods such as scatterplot matrices enhanced by

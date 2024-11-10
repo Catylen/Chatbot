@@ -1,0 +1,7 @@
+Students will learn fundamental and advanced IdM (Identity Management) topics,
+concepts, and current issues. The course will prepare the students for real-world IdM
+challenges faced by professionals in industry and government today. Students will
+leave the course with an awareness and understanding of a variety of topics pertaining
+to IdM, including broad technical aspects, legal and policy issues, implementation
+scenarios, case studies, and industry and government applications of IdM components.
+Prerequisite: IAE 685 (3) NOTE: Students enrolled in this course may incur an additional

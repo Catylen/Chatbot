@@ -1,0 +1,5 @@
+VHDL-based design processes, concurrent and sequential assignments. Variable
+modes and operators, entities and architectures, behavioral descriptions. Dataflow,
+synchronous and asynchronous processes using procedures and sub-functions. Library
+support packages and generation of test-bench data. Prerequisite: EE-354. Offered
+during fall semester only. (2-2-3)

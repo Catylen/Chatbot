@@ -1,0 +1,17 @@
+from the University Reviewers and Ph.D. Review Board to advance. (6)
+MIL-940 - Military Leadership Doctoral Defense
+Upon approval from the University Reviewers and Ph.D. Review Board, the student will
+prepare and deliver an oral presentation summarizing the body of research and defend
+the same through viva voice (i.e., oral examination). The student’s Chair, Committee, and
+Ph.D. Review Board will confer to determine if the student has provided a sufficient and
+necessary final oral defense of the research. (6)
+NT-100 - Computer Architecture & Construction
+Basic introduction to the design and construction of a current model PC including
+operating systems and some diagnostic software. Students build, configure, test and
+troubleshoot PCs in the laboratory. This material can be used as a basis for studying for
+the CompTIA A+ exam. (1-4-3)
+NT-150 - Computer Networking
+This course is a continuation of NT-100 with major emphasis on local network
+equipment, network software and addressing schemes. Students build, configure, test
+and troubleshoot a network in the laboratory. Routers and switches are included. This
+material can be used as a basis for studying for CISCO’s ICND1. (1-4-3)

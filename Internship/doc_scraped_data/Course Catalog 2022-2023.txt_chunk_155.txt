@@ -1,0 +1,15 @@
+When a student “officially” withdraws from a course, the date of withdrawal will be
+used as the last date of attendance. If a student receives a grade of F (failure for
+nonattendance) for a course, that is considered an “unofficial” withdrawal. For unofficial
+withdrawals, Capitol Technology University will determine the last date of attendance
+by reviewing the last date of activity within a course. For online courses, Capitol
+Technology University will determine last date of attendance based on the last date a
+student made a contribution to the class or submitted an assignment. For on-campus
+courses, Capitol Technology University will reach out to the professor to determine the
+last date of attendance.
+Once last date of attendance has been determined, Capitol Technology University will
+recalculate the student’s TA eligibility based on the following formula: Percentage
+earned equals number of days completed divided by total number of days on the
+course.
+Determining eligibility for TA is class specific. The start and end date will be used
+for each class to determine eligibility. Using the formula above, Capitol Technology

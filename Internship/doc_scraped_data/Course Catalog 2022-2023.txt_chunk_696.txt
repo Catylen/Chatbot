@@ -1,0 +1,3 @@
+and applications of multithreaded and distributed programs. Process interaction using
+shared variables and message passing; systematic development of correct programs;
+general problem solving techniques; scientific computing; distributed systems. (3)

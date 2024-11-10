@@ -1,0 +1,2 @@
+satellite telemetry, command, and control subsystems, as well as the software needed
+to build and run a ground system. Introduction to CCSDS standards and mission

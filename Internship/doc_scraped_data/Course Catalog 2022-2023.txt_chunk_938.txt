@@ -1,0 +1,4 @@
+leave the course with an awareness and understanding of a variety of topics pertaining
+to IdM, including broad technical aspects, legal and policy issues, implementation
+scenarios, case studies, and industry and government applications of IdM components.
+(3)

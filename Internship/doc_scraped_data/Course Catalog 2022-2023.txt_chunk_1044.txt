@@ -1,0 +1,15 @@
+Cloud computing services allow users to lease computing resources from large scale
+data centers operated by service providers. Using cloud services, users can deploy a
+wide variety of applications dynamically and on-demand. Most cloud service providers
+use machine virtualization to provide flexible and cost-effective resource sharing.
+Organizations must take the proper steps to transition to virtualized services by first
+consolidating their server farms, then virtualize infrastructure such as servers and
+workstations and databases. This course will use an intensive hands-on approach to
+teach students to plan, design and build such a virtualized infrastructure to meet the
+needs of the organization in a cost effective, efficient and secure manner. Prerequisite:
+NT-100, NT-150, NT-250 or Permission (4)
+OP-301 - Fiber-Optic Communications
+Lightwave propagation in fiber optics, including modal conditions, numerical aperture,
+attenuation and signal distortion in step-index and graded-index fibers. Connectors,
+splices and analysis of coupling losses. Operating principles and characteristics of
+optical sources and detectors. Transmitter and receiver circuits for analog and digital

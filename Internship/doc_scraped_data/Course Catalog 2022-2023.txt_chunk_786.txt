@@ -1,0 +1,5 @@
+spring semester only. (1-4-3)
+EE-453 - Control I
+Introductory concepts. Feedback control systems and derivation of transfer function.
+System response for undamped and damped systems. Testing for system stability,
+coefficient test, Routh-Hurwitz technique. System performance, system types, steady

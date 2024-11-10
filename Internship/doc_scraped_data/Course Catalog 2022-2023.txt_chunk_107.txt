@@ -1,0 +1,16 @@
+Academic Probation
+Academic probation alerts students that they are in academic trouble and will be
+suspended from the university if their GPA and CGPA are not brought up to good
+academic standing (see above).
+Undergraduate students are placed on academic probation under the following
+conditions:
+•
+•
+•
+
+If a student registers for MA-005 or EN-001 and does not complete the course
+with a P.
+If the CGPA of an undergraduate student with fewer than 30 attempted credits
+falls below 1.7.
+If the CGPA of an undergraduate student with more than 30 attempted credits
+falls below 2.0.

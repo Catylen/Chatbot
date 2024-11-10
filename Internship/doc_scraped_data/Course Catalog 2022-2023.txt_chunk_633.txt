@@ -1,0 +1,13 @@
+CRI-210 - Critical Infrastructure I
+This course will introduce participants to the key terms, policy, guidance, and
+preparedness efforts required to safeguard the Nation’s critical infrastructure. Students
+will learn relevant policy and guidance, discuss the risk management framework,
+describe Federal critical infrastructure security and resilience and information sharing
+programs, and relate critical infrastructure programs to individual actions. Primary
+focus will be on incorporating Critical Infrastructure protection in to construction
+of facilities in six of the sixteen critical infrastructure sectors: chemical facilities,
+commercial (e.g., retail, entertainment, lodging), communications facilities, critical
+manufacturing facilities, dams, and energy facilities. Students will complete hands-on
+Critical Infrastructure projects related to the construction of those types of facilities.
+Prerequisite: None. (3-0-3)
+CRI-211 - Critical Infrastructure II

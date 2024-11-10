@@ -1,0 +1,21 @@
+This course presents an introduction to Unmanned and Autonomous Systems
+operations. This includes a historical perspective and background information of
+this system including: modeling and control fundamentals, ground based systems,
+visual and electro-optical aspects of navigation, obstacle and terrain avoidance
+systems, modular on-board processing systems, and current applications. This course
+also exposes students to the significant regulations impacting unmanned systems
+operations. Prerequisite: None. (3-0-3)
+UAS-102 - Mechanics of Unmanned and Autonomous Systems
+This course will provide the student an understanding of the component systems
+common to most Unmanned and Autonomous Systems with an emphasis on effective
+integration and operations. The course focuses on the core technologies and includes
+examinations of the control systems, power plants (motors), servos/actuators, power
+sources, and communication technologies utilized in unmanned systems. Prerequisite:
+None. (3-0-3) NOTE: Students enrolled in this course incur an additional lab fee of $350
+UAS-110 - Air Traffic Control Communications
+
+373 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Resources

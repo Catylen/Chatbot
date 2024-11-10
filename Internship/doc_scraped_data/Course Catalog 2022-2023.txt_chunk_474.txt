@@ -1,0 +1,26 @@
+Core Courses 27-30 Credits
+IAE-500 Introduction to Information Assurance* 3
+CS-620 Operating Principles for Information Assurance* 3
+IAE-671 Legal Aspects of Computer Security and Information Privacy 3
+IAE-675 Computer Forensics and Incident Handling 3
+IAE-677 Malicious Software 3
+IAE-679 Vulnerability Mitigation 3
+IAE-680 Perimeter Protection 3
+IAE-682 Internal Protection 3
+IAE-685 Principles of Cybersecurity 3
+IAE-674 Security Risk Management Capstone 3
+Electives (Choose 3 courses) 9 Credits
+CS-713 Design of Cloud Networks and Services 3
+IAE-611 Wireless Security 3
+IAE-620 Mobile Device Forensics 3
+IAE-621 Applied Wireless Network Security 3
+IAE-640 Access and Identity Management 3
+IAE-684 Complementary Security (CISSP) 3
+IAE-690 Healthcare Info System Security 3
+IAE-692 Mobile Medical Device Application Security 3
+MBA-510 Analytics and Decisions Analytics
+MBA-515 Applied Statistics and Visualization Analysis
+MBA-520 Big Data Warehousing and Analytical Systems
+MBA-646 Federal Contract Project Management
+*IAE-500 and CS-620 can be waived with department chair or dean approval. A course
+substitution is required for CS-620, if waived.

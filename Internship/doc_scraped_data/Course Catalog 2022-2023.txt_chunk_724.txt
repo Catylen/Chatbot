@@ -1,0 +1,21 @@
+264 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+CSQ-930 - Quantum Comp. Doctoral Writing IV
+
+required to complete assignments as part of the homework requirements. (3-0-3)
+CT-152 - Introduction to UNIX
+Unix file and operating system. Understanding multi-user and multitasking concepts.
+Editors, X-windows, Awk, email, Internet commands, shell commands and shell scripts.
+Projects, which provide practical experience, are completed as part of the homework
+requirements. Corequisite: CS-120. (3-0-3)
+CT-201 - Multimedia Applications
+Use online and resident window tools to create, edit and enhance text, audio, and video
+for multimedia applications, including multimedia Web pages and presentations. Study
+the philosophy, aesthetics and theory behind the layout, construction and display of
+multimedia material. Flash projects that include drawing, painting tools, color animation,
+buttons and ActionScript are completed as part of the homework requirements.
+Prerequisite: CT-102 or equivalent. (3-0-3)

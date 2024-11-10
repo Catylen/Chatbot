@@ -1,0 +1,16 @@
+CS-316 - Intelligent Systems
+Fundamental techniques and concepts of intelligent systems: tree searching techniques
+including recursive searches, minimax algorithms, heuristics, alpha beta pruning. Lisp
+and Prolog programming languages. Genetic and a priori algorithms. Homework and
+programming assignments. Prerequisites: CS-230. Offered spring semester only. (3-0-3)
+CS-320 - Database Administration
+This course covers the tasks performed by a database administrator. Topics include
+database architecture, capacity and performance requirements, database creation, user
+management, transaction management, backup and recovery, security, performance
+tuning and other administrative functions. Students will work with a modern relational
+database management system. Prerequisite: CS-220 and CT-152 (3-0-3)
+CS-330 - iPhone App Development
+Introduction to objective C, the programming language used for iPhone app
+development. Overview of the xcode development environment, including debugging
+tools, versioning tools, object library, object attributes tools. Object oriented
+programming using Objective C. Model-View-Controller architecture in xcode. Graphical

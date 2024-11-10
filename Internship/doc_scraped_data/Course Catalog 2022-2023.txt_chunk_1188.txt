@@ -1,0 +1,15 @@
+This course provides the principles and concepts essential to the design and operation
+of unmanned and autonomous systems (UAS) and their subsystems. Communications,
+components, and networking are explored as the infrastructure to ensure system and
+subsystem interoperability. Students will examine technologies dealing with facets of
+mobile computing platforms, machine-learning, network protocols and communication
+systems to support intra-system and inter-system coordination. Topics include system
+requirements, constraints, dependability, regulations, communications, cybersecurity,
+avionics and sensors. Prerequisite: UAS-140. (3-0-3) NOTE: Students enrolled in this
+course incur an additional lab fee of $350
+UAS-220 - Intro to Processing Remote Sensed Data
+Students are introduced to basic theory, history, and practical applications of remote
+sensing technology, with an emphasis on high spatial resolution multispectral aerial
+imagery collected using unmanned aircraft systems. Other topics include geographic
+information systems, aerial image interpretation, sensor resolution, orthomosaicing,
+georegistration, vegetation indices, and image classification. Prerequisite: UAS-201. (30-3)

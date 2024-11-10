@@ -1,0 +1,8 @@
+This course will provide the requisite computer, data communications, Internet and
+database skills to students embarking on careers in information assurance, at the senior
+levels. It is designed primarily for professionals who seek concentrated professional
+education in one or more of the many fields associated with IA. Students who complete
+this course successfully will be able to master the more technical application and
+analysis skills demanded by the Master of Science in Cybersecurity degree program,
+and the several certificate programs offered in various IA concentrations. Labs,
+simulations and special problems will be used throughout the course. (3) NOTE:

@@ -1,0 +1,8 @@
+issues, the role of federal agencies, accident statistics, causes of accidents, human
+factors, crew resource management skills, and accident prevention. The course
+discusses the safety requirements, hazard and risk analysis, failure modes and effect
+analysis, fault tolerance, basics of hardware and software reliability, levels of integrity,
+nature of faults and redundancy, and issues of verification, validation and certification.
+Cybersecurity issues pertinent to computer-based infrastructure, mobile robotics, and
+the information-driven nature of unmanned and autonomous ventures. Topics include
+380 | 2022 - 2023 CATALOG

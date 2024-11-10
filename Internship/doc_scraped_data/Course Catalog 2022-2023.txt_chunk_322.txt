@@ -1,0 +1,34 @@
+Programming and Computer Science 42 Credits
+CS-120 Intro to Programming Using Python 3
+CS-130 Introduction to Programming Using Java 3
+CS-150 Introduction to Programming in C 3
+CS-200 Programming in C++ 3
+CS-250 Introduction to Network Programming with C 3 OR CS-356 Dynamic Web Page
+Development 3 OR CT-406 Web Programming Languages 3
+CS-220 Database Management 3
+CS-225 Intermediate Java Programming 3
+CS-230 Data Structures 3
+CS-310 Computer Algorithms 3
+CS-330 iPhone App Development 3 OR CS-305 Android App Development 3
+CS-405 Introduction to Software Design with UML 3
+CS-418 Operating Systems 3
+CT-152 Introduction to UNIX 3
+CT-376 JavaScript 3
+Engineering 21 Credits
+SE-351 Software Testing 3
+CS-406 Requirements/Resource Analysis 3
+CS-452 Agile Methods 3
+SE-321 Human Computer Interaction 3
+SE-457 Senior Design Project I 3
+SE-458 Senior Design Project II 3
+Software Elective 3
+Mathematics and Science 30 Credits
+MA-114 Algebra and Trigonometry 4
+MA-124 Discrete Mathematics 3
+MA-128 Introduction to Statistics 3
+MA-261 Calculus I 4
+MA-262 Calculus II 4
+PH-201 General Physics I 3
+PH-202 General Physics II 3
+Math or Science Elective 3
+Math or Science Elective 3

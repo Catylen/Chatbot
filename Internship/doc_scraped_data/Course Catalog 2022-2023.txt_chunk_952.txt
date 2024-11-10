@@ -1,0 +1,15 @@
+This class explores the overarching security architectures and vectors of
+information assurance from a management perspective. The course will provide a
+basic understanding of all aspects involving IA management, needs analysis, risk
+assessments, policy formulation, security planning, and integrating technologies.
+Students will gain an appreciation for systems, networks, processes, methodologies,
+documentation requirements, recovery processes, certification and accreditation
+processes as well as “best practice” implementation, training and continuous
+improvement. Discussions in this course will give the correct acumen of personnel
+security, physical security, and technical operational security as these principles relate
+and interface with information security principles. Defense-in-depth principles will also
+be covered for designing proper physical security programs. Prerequisites: IAE 685. IAE
+682 recommended. (3)
+IAE-690 - Healthcare Information System Security
+This course addresses healthcare Information Security within the framework of the
+guiding principles of Information Assurance (confidentiality, integrity, and availability).

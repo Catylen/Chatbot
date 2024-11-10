@@ -1,0 +1,25 @@
+Astronautical Engineering Doctoral Core 30 Credits
+AE-800 Astronautical Engineering Research Background
+6
+AE-810 Astronautical Engineering Research Methodologies 6
+AE-820 Astronautical Engineering Future Demands
+6
+AE-830 Strategies for Astronautical Engineering
+6
+AE-840 Astronautical Engineering Research Proposal		
+6
+Astronautical Engineering Doctoral Research and Writing 30 Credits
+AE-900 Astronautical Engineering Doctoral Writing I		
+6
+AE-910 Astronautical Engineering Doctoral Writing II 6
+AE-920 Astronautical Engineering Doctoral Writing III 6
+AE-930 Astronautical Engineering Doctoral Writing IV 6
+AE-940 Astronautical Engineering Doctoral Defense 6
+
+The Doctor of Philosophy in Business Analytics and Data Science is designed to prepare
+accomplished professionals for senior positions in either public or private sectors. The
+program enables professionals from the field to understand and evaluate the scope
+and impact of decision sciences and associated technology from both institutional
+and industry perspectives. The program will provide doctoral level research experience
+allowing innovative and practical contributions to the management and data science
+body of knowledge.

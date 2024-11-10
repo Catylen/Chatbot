@@ -1,0 +1,4 @@
+engine such as Unity. Students learn how to use 2D and 3D graphics, sound files, and
+user driven programming to build a 3D game. Students learn how to design and build a
+scene, manage game characters, manage game levels, manage and store game data.
+Prerequisite: CS-230 and PH-201 or PH-261. (2-2-3)

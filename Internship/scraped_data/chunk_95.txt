@@ -1,0 +1,11 @@
+Program Objectives and Learning Outcomes 
+
+Educational Objectives:
+
+Students will critically analyze problems in a variety of disciplines and to identify relevant and useful information to support the attainment of desired outcomes.
+Students will think critically by drawing appropriate conclusions from examining the output of methodological applications of applied analytics.
+Students will conceptualize, apply and integrate effective strategies to acquire, store, analyze and deploy information effectively.
+Students will evaluate data management technologies in the context of data quality, and security and privacy regulations to determine their potential impact on information resources.
+
+Learning Outcomes:
+Upon graduation:

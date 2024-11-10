@@ -1,0 +1,16 @@
+management system (FMS), a fundamental component of modern aircraft avionics.
+Topics include flight plans, GPS, INS, navigation, control display units, electronic flight
+instrument system, and navigation displays. Prerequisite: AVT-313 (3-0-3)
+AVT-421 - Global Navigation and NAVAIDS
+Advanced navigation systems include HSI, RMI, Loran, Doppler, VOR, NDB and GPS.
+Will include navigation theory, in-flight emergencies, electronic instrumentation,
+and advanced flight computing problems. Extensive use of in-class computer flight
+simulation will be exercised. Provides the radio navigation skills necessary for the
+instrument pilot. Prerequisite: AVT-241 (3-0-3)
+AVT-457 - Aviation Senior Project I
+Students/teams select a project area, develop an understanding of the project scope
+that includes research and documentation of related work, prepare a feasibility
+study, develop project requirements, propose solutions and multiple designs, analyze
+proposed designs, select a final proposed design, and prepare and present a preliminary
+design review (PDR). Students are expected to apply proper aviation concepts and
+project management to their work. Additional components may be required in some

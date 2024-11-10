@@ -1,0 +1,20 @@
+IAE-500 Introduction to Information Assurance 3
+CS-620 Operating System Principles for Information Assurance* 3
+CRI-501Critical Infrastructure Introduction 3
+IAE-630 SCADA Networks and ICS Security 3
+IAE-685 Principles of Cybersecurity 3
+CRI-510 Critical Infrastructure I: Performance and Risk Analysis of Infrastructure 		
+Systems 3
+CRI-520 Critical Infrastructure II: Security Management of Critical Infrastructure 3
+IAE-675 Computer Forensics and Incident Handling 3
+IAE-677 Malicious Software 3
+IAE-679 Vulnerability Mitigation 3
+IAE-682 Internal Protection** 3
+CRI-710 Critical Infrastructure Capstone 3
+*Students who can demonstrate knowledge of the UNIX operating system and C
+programming language may request that an appropriate elective be used to substitute
+for CS-620 by contacting the department chair.
+** It is recommended that students complete IAE-685 before taking this course,
+but this is not a requirement. Students who can either demonstrate knowledge of
+information assurance topics at an undergraduate level through undergraduate
+transcripts, certifications, or work experience may have IAE-500 waived with appropriate

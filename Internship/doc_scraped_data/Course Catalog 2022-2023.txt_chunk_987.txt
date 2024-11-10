@@ -1,0 +1,9 @@
+326 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+This course focuses on logic sets and sequences; algorithms, divisibility, and matrices;
+proof, induction, and recursion; counting methods and probability; relations, closure and
+equivalence relations, graphs and trees; and Boolean algebra. Prerequisite: MA-112, MA114 or placement test score. (3-0-3)

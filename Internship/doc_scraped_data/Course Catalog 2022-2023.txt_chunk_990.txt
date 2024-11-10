@@ -1,0 +1,16 @@
+This course gives an introduction to the mathematics of cryptography. A survey of
+cryptography from Roman times up to today’s current techniques. Cryptographic
+content for the course includes classical ciphers and their decryption (shift, affine and
+Vigenere ciphers), key exchange protocols (main example: Diffie-Hellman), public key
+ciphers (main example: RSA), block ciphers, modes of operation, hash functions and
+digital signatures. Mathematical formulations of security goals will be discussed as a
+method for determining weaknesses in designs. Prerequisites: MA-124 and CS-130 or
+CS-150. (3-0-3)
+MA-330 - Linear Algebra
+This course introduces the study of linear systems of equations, vector spaces, and
+linear transformations. Students will solve systems of linear equations as a basic tool
+in many mathematical procedures used in science and engineering. Topics include
+solving linear equations, performing matrix algebra, calculating determinants, finding
+eigenvalues and eigenvectors and developing an understanding of a matrix as a linear
+transformation relative to a basis of a vector space. Prerequisite: MA-262. (3-0-3)
+MA-340 - Ordinary Differential Equations

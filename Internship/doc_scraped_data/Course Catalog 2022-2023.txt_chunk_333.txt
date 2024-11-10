@@ -1,0 +1,21 @@
+131 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+CS-230 Data Structures 3
+CS-310 Computer Algorithms 3
+CS-316 Intelligent Systems 3
+Due to the similar nature of required courses, students in Computer Engineering and
+Computer Sciences majors will not be eligible to apply for this minor.
+
+Cybersecurity (18 credits)
+
+Required Courses
+NT-150 Computer Networking 3
+IAE-201 Introduction to Information Assurance Concepts 3
+IAE-250 Comprehensive Computer and Network Security 3
+IAE-260 Secure Systems Administration and Operation 3
+IAE-325 Secure Data Communications and Cryptography 3
+IAE-402 Introduction to Incident Handling and Malicious Code 3
+Due to the similar nature of required courses, cybersecurity majors are not eligible to apply
+for this minor.

@@ -1,0 +1,15 @@
+Modern organizations operate in a very dynamic and fast-moving environment which
+requires collaboration with personnel both internally and externally via state of the art
+communications systems and technologies. Operations Center (OC) can be chartered
+for daily operations as well as response to specific crisis or situations. This course will
+address the design and operation of an OC to include Mission, Network, Intelligence
+and Security missions. This course is designed to address how such OCs are chartered,
+designed, built, operated, and maintained. This course can be taught in multi-disciplinary
+or departmental approach. The course is built upon a virtualized infrastructure which
+provides a look at the systems, databases, applications, personnel, and procedures
+required to perform the assigned mission. Tours of local OC will be scheduled and
+students will conclude the course with a capstone exercise which they will plan and
+execute. MOC/NOC/SOC. Prerequisite: IAE-201 (3-0-3) NOTE: Students enrolled in this
+course incur an additional lab fee of $100.
+IAE-500 - Introduction to Information Assurance
+This course will provide the requisite computer, data communications, Internet and

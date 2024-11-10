@@ -1,0 +1,15 @@
+prepare and deliver an oral presentation summarizing the body of research and defend
+the same through viva voce (i.e., oral examination). The student’s Chair, Committee and
+Ph.D. Review Board will confer to determine if the student has provided a sufficient and
+necessary final oral defense of the research. (6)
+DS-270 - Organization of Data
+The storage, manipulation, assessment, and display of data, as well as associated
+challenges, are covered in the course “Organization of Data”. With a distinctive approach
+that emphasizes both the consequences of data use and concerns as well as database
+construction and tool use, DS 270 brings databases to life. The fundamentals and
+core concepts of databases and the technologies they are related to are covered in
+this introductory course. The design, development, and deployment of enterprise-wide
+information systems are all crucial to the topics that will be covered in this course.
+Students will gain knowledge of the social, moral, and ethical problems that accompany
+such implementations as they progress through their investigation. The following are
+some of the course’s objectives: Offer an introduction to databases and database

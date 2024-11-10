@@ -1,0 +1,15 @@
+various language tools for crafting Internet-based and Web-based applications. (3)
+IE-712 - Design of Cloud Networks & Services
+This course will help students understand the design and architecture of networks
+and network services that enable the delivery of business-grade cloud services.
+Students will understand how virtualized data-center infrastructure lays the groundwork
+for cloud-based services, automated self-service portals, how to classify cloud
+services and deployment models, and understand the actors in the cloud ecosystem.
+Students will review the elements, requirements, challenges, and opportunities
+associated with network services in the cloud, optimize data centers via network
+segmentation, virtualization-aware networks, virtual network services, and service
+overlays, and systematically secure cloud services. Students will learn about the
+crucial role of organizations such as Federal Risk and Authorization Management
+Program (FedRAMP), National Institute of Standards and Technology (NIST), Cloud
+Security Alliance (CSA), and the International Standards Organization (ISO) in creating
+standards. Students will be challenged with cutting-edge, hands-on labs from leading

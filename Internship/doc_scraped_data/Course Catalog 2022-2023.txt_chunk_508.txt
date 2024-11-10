@@ -1,0 +1,17 @@
+Provides an in-depth introduction to the components that compose satellite ground
+systems in the commercial, military, and civil sectors from the inception of the space
+program to present day. Discusses conceptual and planned software development,
+integration, and testing, launch operations, sustainment engineering, decommissioning
+of ground systems components and the system engineering processes involved
+in these activities. Introduces students to the tools and methods needed to create
+dynamic ground system components based on automation and autonomic principles.
+Cover CCSDS, ISO-900X, CMMI, UML, mission planning, flight dynamics principles and
+risk mitigation/anomaly resolution practices. Introduces STOL, CECIL, XML, and XTCE
+languages. Prerequisites: AE-150, CS-150 and EN-102. Corequisite: AE-311. Offered
+during Fall semester only. (3-0-3)
+AE-351 - Orbital Mechanics
+Newton’s equations and Kepler’s laws. Use of spherical coordinates to solve for orbital
+equations. Corrections to basic equations caused by earth’s geometry, the moon, and
+the sun. Other effects depending on orbital parameters. Corequisite: MA-340. Offered
+during Fall semester only. (3-0-3)
+AE-361 - Remote Sensing

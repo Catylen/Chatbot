@@ -1,0 +1,12 @@
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+Students/teams build and test their selected designs (completed in CS-457). Each
+student team delivers a tested prototype and defends its project in front of a panel of
+experts. Students/teams submit a final report that includes description of the design,
+realization, and test processes as well as test results, discussion, and conclusion.
+Failure to deliver a completed design and a working prototype that meets engineering,
+software, and/or security specifications by the end of the semester may result in failing
+the course. *Note: Course must be completed with a grade of “C” or higher to meet
+undergraduate graduation requirements. Prerequisite: CS-457 (3-0-3)

@@ -1,0 +1,25 @@
+212 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+AE-350 - Autonomous Ground Systems
+
+sensor design. Prerequisite: PH-262 and AE-150. Offered during Spring semester only.
+(3-0-3)
+AE-390 - Aviation Meteorology
+Prepares students with the knowledge necessary to comprehend the fundamentals
+of meteorology, analyze weather factors, hazards and in-flight weather conditions and
+weather conditions as they relate to aircraft and flight performance using aviation
+meteorology charts and internet weather resources. Prerequisite: None. (3-0-3)
+AE-400 - Special Topics in Astronautical Engineering
+Research into astronautical engineering subjects. Student primarily works in a guided
+study format with a mentor. (3-0-3)
+AE-401 - Computational Dynamics
+Advanced Orbital Mechanics: Effects of various gravitational variations of the earth,
+moon sun and other bodies on orbital equations. Perturbation and modeling of orbital
+equations. Use of numerical methods and commercial computer modeling to determine
+orbital paths. Prerequisites: MA-340 and AE-351. Offered during Spring semester only.
+(3-0-3)
+AE-402 - Special Topics in Astronautical Engineering II

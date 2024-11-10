@@ -1,0 +1,16 @@
+The Internet and increased bandwidth management technologies has brought us a
+new venue to communicate with each other in either full duplex, half-duplex, or simplex
+modalities. Dot Com companies present us with radio stations, on demand streaming
+audio and video, and live casting of audio and video. To understand the integration,
+deployment, and optimization of these technologies, this course compares technical
+aspects, market positioning, and strengths and weaknesses of various media products
+in the market. (3)
+IE-715 - Identifying & Integrating Computer Collaborated Technology
+Software and hardware companies have utilized a component approach to
+product development in order to address the requirement that Internet and Intranet
+communications applications operate in a on-demand mode. This is the technical
+underpinning of the “anywhere, any time” mantra of the Internet. However, these
+components do not always integrate easily. This course identifies the various
+component technologies, standards, and issues with integration to provide on-demand
+communication capabilities. (3)
+IE-717 - Invent & Use Intellectual Property

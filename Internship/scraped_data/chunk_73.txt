@@ -1,0 +1,18 @@
+If uploading more than one file repeat steps 3-6.
+
+
+
+
+Once you have uploaded your file(s) the type of document(s) you uploaded will display at the bottom of the page.
+Then, click “View Application Status” at the top of the “Electronic File Upload” page in MDCAPS to view the “Status” of each document you successfully uploaded.
+
+
+
+
+A status of “Submitted” means your documents were uploaded successfully.
+A status of “Accepted” means MHEC has reviewed your document and the documentation is acceptable.
+A status of “Rejected” means MHEC has reviewed your document and the information you provided is Incomplete. You will receive a notification from our office informing you why the document is Incomplete.
+
+
+
+A reminder that all files must be in PDF, jpg, png, doc, or docx format when uploading documents through MDCAPS.

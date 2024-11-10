@@ -1,0 +1,14 @@
+This course grows students’ familiarity with the Unity engine and editor. Students will
+explore a variety of concepts, tools, and frameworks, with the ultimate goal of building
+the skills necessary to create a game in Unity. These topics will include interfaces,
+environments, physics, animation, lighting and sound. This course was developed using
+the Unity Curriculum Framework, and the IGDA 2020 guidelines. Students are expected
+to have basic familiarity with principles of game design, and a working understanding of
+the Unity level editor. Prerequisites: GDV-101 and CS-150. Course offered through LCMC
+Rize consortium partner - GDM III (3-0-3)
+GDV-410 - Unity II: Advanced Unity Programming
+This course is intended to provide students with the skills and knowledge to bring their
+mastery of the Unity game engine and C# programming up to a professional standard.
+Students will learn how to perform a range of vital code-based tasks within the Unity
+platform and will grow their skills in building core gameplay functionality, supporting
+systems and platform-specific optimizations. This course was built in collaboration

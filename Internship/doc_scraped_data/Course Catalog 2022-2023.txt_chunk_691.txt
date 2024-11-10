@@ -1,0 +1,4 @@
+learn the underlying concepts and architectures of parallel and accelerated computing
+systems and gain exposure to specific development technologies such as CUDA
+programming for GPUs.Students should be familiar with a high-level programming
+language such as C and basic computer architecture. (3)

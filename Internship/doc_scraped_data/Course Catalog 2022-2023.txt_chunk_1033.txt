@@ -1,0 +1,20 @@
+Introduces use and analysis of electronic circuits and input mechanism of various
+sensors, design of analog signal conditioning systems based on the system
+requirement, as well as understanding the theory and the art of modern instrumentation
+and measurements (I&M) systems. Topics include BJT and MOSFET circuit model
+and analysis; operational amplifier; instrumentation amplifier; survey of sensor input
+mechanisms; analog signal conditioning and sensor application; measurement system
+architecture; errors in measurement; standard used in measurement. Two hours lecture
+and three hours laboratory. Prerequisite: EL-200. (2-3-3)
+MEC-375 - Engineering Safety
+Safety and health in the manufacturing, construction, and utilities industries, including
+pertinent laws, codes, regulations, standards, and product liability considerations.
+Organizational and administrative principles and practices for safety management and
+safety engineering, accident investigation, safety education, and safety enforcement.
+(3-0-3)
+MEC-400 - Special Topics in Mechatronics
+This course covers application of engineering principles of research into a special
+
+337 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY

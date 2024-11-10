@@ -1,0 +1,15 @@
+This course provides an overview of the disciplines of governing data by examining the
+basic concepts, principles and practices of a data governance program and techniques
+used to measure success. The essential components of an enterprise-wide program are
+covered and a roadmap to execute a successful data governance program is outlined.
+The course makes data governance real by illustrating the concepts, principles, and
+practices using case studies. Prerequisite: BUS-367. (3-0-3)
+BUS-400 - Research Methods
+Introduction to business research methods. Through the coursework students will
+learn elements of the research process including problem definition, literature review,
+and hypothesis development. Types of research design and data collection methods
+such as sampling strategies, data analysis and interpretation, qualitative research
+approaches, ethical issues in research, and the reporting of research results will also be
+included. The course encourages students to step outside the classroom and engage in
+research projects based on the real life case studies. Prerequisites: MA-128 and EN102. (3-0-3)
+BUS-410 - Strategic Management

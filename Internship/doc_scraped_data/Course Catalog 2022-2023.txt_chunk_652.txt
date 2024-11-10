@@ -1,0 +1,16 @@
+The language of choice for this course is C. The C syntax that will be covered includes
+functions; variables and memory allocations including pointer notation; conditional
+statements and looping. Students will also learn binary to hexadecimal and decimal
+conversions along with basic computer architecture. Memory management, data input
+output and file manipulations will be among some other topics discussed and applied
+during this course. Prerequisite: MA-111 or MA-112 and CS-120 or placement test.
+Formerly titled Introduction to Programming Using C. (3-2-3)
+CS-200 - Programming in C++
+Students learn how to program in C++ using an object oriented approach. Design of
+classes and objects, inheritance and polymorphism, use of pointers and data structured
+based projects are also covered nin this course. Prerequisite CS-130 or CS-150. (2-2-3)
+CS-220 - Database Management
+An overview of database systems, with an emphasis on relational databases.
+Terminology, basic analysis and design using Entity-Relationship diagrams and
+relational schemas. Database implementation, queries and updates in a modern
+relational database management system. An overview of database administration,

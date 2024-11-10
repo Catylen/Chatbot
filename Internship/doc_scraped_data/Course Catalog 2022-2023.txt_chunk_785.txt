@@ -1,0 +1,17 @@
+Waveguide theory: modes of operation. Waveguide components: tuners, windows,
+sifters, tees and couplers, filters, mixers, isolators, circulators. Microwave tubes.
+Klystrons: multicavity and reflex. Magnetron, traveling wave tubes, backward wave
+oscillators, amplifier techniques, microwave semiconductors: operations and
+applications. Microwave measurement techniques. Prerequisite: MA-340 and PH-262.
+Offered during fall semester only. (2-2-3)
+EE-419 - Electrostatics
+Stationary electric and magnetic fields. Gauss’s Law, Laplace and Poisson’s equations.
+Solutions to static field problems. Ampere’s Law, Faraday’s Law. Prerequisites: PH-263
+and MA-340. Offered during fall semester only. (3-0-3)
+EE-452 - Advanced Microcontroller System Design
+Extension of EE-362. Project course utilizing commercially available microcontroller
+EVB boards. Fuzzy logic introduction. Programming using fuzzy logic rules and high
+performance design techniques. Students design, select, build, and generate code for
+microcontroller-based systems. Prototypes are evaluated and debugged before final
+assembly. Written report and oral presentation required. Prerequisite: EE-362. Offered
+spring semester only. (1-4-3)

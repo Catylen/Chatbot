@@ -1,0 +1,15 @@
+relations. Alternating currents. Prerequisite: PH-201. (2-2-3)
+PH-253 - Energy and the Environment
+This course covers fundamentals of energy generation (conversion), current diversity
+of energy resources from fossil fuels to renewable and alternative sources, and
+environmental impact of the generation and use of energy. Topics include the
+availability, economics and environmental consequences of energy generation,
+distribution and consumption from oil, coal, gas, hydrogen, nuclear, wind, solar,
+geothermal, hydro, biomass and other alternative sources currently under development
+and study by the scientific and engineering communities. Efficient use of energy in the
+domestic, transportation and industrial sectors will be discussed. This course may be
+used as a general, technical, science or engineering elective. Prerequisite: PH-201 (3-03)
+PH-261 - Engineering Physics I
+This is a calculus-based physics course. It covers displacement, velocity and
+acceleration, equations of motion, Newton’s laws of motion and their applications,
+gravitation, work and energy, impulse and momentum, conservation laws, rotational

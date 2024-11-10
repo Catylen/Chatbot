@@ -1,0 +1,19 @@
+Upon approval from the University Reviewers and Ph.D. Review Board, the student will
+prepare and deliver an oral presentation summarizing the body of research and defend
+the same through viva voce (i.e., oral examination). The student’s Chair, Committee and
+Ph.D. Review Board will confer to determine if the student has provided a sufficient and
+necessary final oral defense of the research. (6)
+BUS-101 - Introduction to Data Science
+Fundamental coursework on the standards and practices for collecting, organizing,
+managing, exploring, and using data. Topics include preparation, analysis, and
+visualization of data and creating analysis tools for larger data sets. Co-requisite: MA112. (3-0-3)
+BUS-114 - Advanced Excel
+This course stresses the ten core areas of advanced Excel usage: advanced formula;
+tables and formatting; conditional formatting; advanced charting; pivot tables and
+pivot reporting; VBA and macros; using Excel productively; data tables, simulations and
+solver; Excel integration with other tools; and optimizing Excel. Practice with data sets
+will allow students to use Excel in realistic simulations. (3-0-3)
+
+227 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY

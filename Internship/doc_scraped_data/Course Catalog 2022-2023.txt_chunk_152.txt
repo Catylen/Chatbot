@@ -1,0 +1,20 @@
+Tuition Refund Schedules
+8-Week Term Courses
+100% Student drops before the first day of classes
+75% Student drops during the first week of classes
+50% Student drops during the second week of classes
+25% Student drops during the third week of classes
+0% Student drops after the third week of classes
+16-Week Term Courses
+100% Student drops before the first day of classes
+75% Student drops during the first or second week of classes
+50% Student drops during the third week of classes
+25% Student drops during the fourth week of classes
+0% Student drops after the fourth week of classes
+Military Tuition Assistance Refund Policy
+Military Tuition Assistance (TA) is awarded to a student under the assumption that the
+student will attend school for the entire period for which the assistance is awarded.
+When a student withdraws, the student may no longer be eligible for the full amount of
+TA funds originally awarded. To comply with the Department of Defense policy, Capitol
+Technology University will return any unearned TA funds on a proportional basis through
+at least the 60% portion of the period for which the funds were provided. TA funds are

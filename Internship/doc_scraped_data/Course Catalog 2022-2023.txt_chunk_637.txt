@@ -1,0 +1,16 @@
+security and resilience through successful critical infrastructure partnership and
+collaboration. Relevant policies and guidance, risk management framework, federal
+Critical Infrastructure security and resilience, and information sharing programs will be
+covered in depth. (3)
+CRI-510 - CI 1: Perf & Risk Anl of Inf Systems
+The national and economic security of the United States depends on the reliable
+functioning of Critical Infrastructure. This course presents a comprehensive systems
+approach to infrastructure asset management across areas of public and private
+infrastructure. Topics include the framework of integrated asset management
+illustrated in transportation, water and wastewater systems, the economic evaluation
+of infrastructure options, and using life cycle cost analysis (LCCA) and cost-benefit
+analysis (CBA). Prerequisite: CRI-501. (3)
+CRI-520 - CI 2: Security Management of Critical Infrastructure
+This course will explore how threats, vulnerabilities, and consequences determine risk
+and the security management of Critical Infrastructure. Primary focus will be on the
+areas of vulnerability assessment and security management of critical infrastructure

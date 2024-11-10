@@ -1,0 +1,15 @@
+Information systems represent a critical resource to organizations; yet, there are many
+unknowns about how to successfully design and implement those systems and many
+firms today continue to struggle with the deployment process. This seminar explores
+issues associated with the implementation of information systems in organizations –
+including requirements analysis, project management, outsourcing, and virtual teams
+– using a variety of theoretical or conceptual lenses such as control and coordination,
+organizational change, and trust. The emphasis of this course is on understanding
+Information Systems implementation from an organizational perspective. (3)
+DSM-910 - Analytics and Decision Analysis
+Course focus is predominantly on predictive analytics. Topics include both theoretical
+and a practical applications of key methods of prediction, and data mining. The course
+will extensively use SAS and Tableau to solve problems. Case-study approach to
+problem solving is used. Prerequisite: DSM-802 (3)
+DSM-915 - Applied Statistics & Visualization for Analytics
+Introduces multivariate regression and random forests for modeling data. Addresses

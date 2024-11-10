@@ -1,0 +1,16 @@
+student will gain an overall understanding of the inherent security risks associated with
+patient information medical apps and devices, how to protect healthcare information
+on mobile devices, including identifying vulnerabilities, associated threats, risks, how
+to mitigate against those risks; and the regulatory guidelines governing and health and
+safety risks associated with mobile medical apps and devices, along with the privacy
+impacts. Prerequisite: IAE 685 (3) NOTE: Students enrolled in this course incur an
+additional lab fee of $100.
+IAE-705 – Master’s Capstone
+The course is in graduate seminar format. Students integrate prior course work and
+personal experiences into researching an approved topic to produce a project-based
+paper. Students may petition for a job-related substitute course. (3)
+IAE-825 - Applied Research in Information Assurance
+This course prepares students to select topics and conduct successful research in
+information assurance’s many fields. Topics include research such as the Computer
+Fraud and Abuse Act, the Electronic Communication Privacy Act and the National
+Research Act. Special considerations governing research using human subjects will be

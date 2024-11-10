@@ -1,0 +1,34 @@
+Undergraduate Studies
+
+Mathematics and Science 22 Credits
+MA-112 Intermediate Algebra 3
+MA-114 Algebra and Trigonometry 4
+MA-128 Introduction to Statistics 3
+BUS-101 Introduction to Data Science 3
+CH-120 Chemistry 3
+PH-201 General Physics I 3
+Mathematics or Science Elective #13
+Humanities and Social Science 21 Credits
+EN-101 English Communications I 3
+EN-102 English Communications II 3
+HU-225 Writing for the Internet 3
+HU-331 Arts and Ideas 3
+SS-171 Introduction to Psychology 3
+SS-220 Critical Thinking 3
+SS-351 Ethics 3
+
+Information Technology (BS)
+The Bachelor of Science in Information Technology produces programmers who can
+design and develop the next generation of technology applications. In addition to
+specialized areas such as iPhone application development and JavaScript, students
+also learn the fundamentals of computer science, programming, and software design.
+All students will complete a capstone in which they propose, design, build, test and
+deliver a working software application.
+Student Outcomes
+Upon graduation, graduates will be able to
+•
+
+Analyze a complex computing problem and to apply principles of computing
+and other relevant discipline to identify solutions
+
+•

@@ -1,0 +1,15 @@
+This course begins with an understanding of why risk management evaluations are
+useful. The general methodologies for security risk assessment and security test
+and evaluation, including the interviews are discussed and documentation research
+necessary, the student is provided practical lab exercises to provide a hands-on analysis
+of a fictitious site. Detection, recovery, and damage control methods in contingency/
+disaster recovery planning research, documentation and training; methods of and
+procedures for contingency planning and security policy formulation and enforcement.
+(3)
+IAE-675 - Computer Forensics & Incident Handling
+This course begins with lectures discussing the laws and rights to privacy by individuals
+and what organizations may or may not do. Online ethics are considered. It then
+moves on to understanding incident handling and how incident response teams work,
+managing trouble tickets, and basic analysis of events to determine if an incident has
+occurred. It concludes with computer forensics issues and practices, and rules of
+evidence. This course prepares students for the AccessData Certified Examiner (ACE)

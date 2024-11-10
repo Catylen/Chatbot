@@ -1,0 +1,8 @@
+during Fall semester only. (3-0-3)
+AE-361 - Remote Sensing
+This is an introductory remote sensing and sensor course with a focus on methods,
+instruments and techniques used to obtain satellite imagery. Students will be
+introduced to physical principles of remote sensing, Earth and other planetary observing
+systems and sensors, and various digital processing techniques related to satellite
+sensing imagery. Topics include optics, solar radiation, principles of satellite imaging,
+image quality analysis, introduction to charged coupled devices (CCDs), and basics of

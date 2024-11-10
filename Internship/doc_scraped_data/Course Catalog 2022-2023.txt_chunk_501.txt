@@ -1,0 +1,28 @@
+Security Management (12 credits)
+This certificate provides students with an understanding of network systems
+security, including detection, recovery, damage control, and privacy laws. Students
+are i ntroduced to critical issues, including user involvement, security training, ethics,
+trust and informed management. Subject matter includes secure data transfer and
+storage with a history of cryptography and a study of public- and private-key algorithms.
+The program also addresses risk management, intellectual property, security policy
+formulation and enforcement, as well as computer forensics and incident handling.
+Required Courses
+IAE-640 Access and Identity Management 3
+IAE-674 Security Risk Management 3
+IAE-684 Complementary Security (CISSP) 3
+IAE-685 Principles of Cybersecurity 3
+
+Secure Cloud Computing (12 credits)
+Required Courses
+IAE-680 Perimeter Protection
+
+209 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+IAE-674 Security Risk Management 3
+IAE-690 Healthcare Information Security 3
+IAE-692 Mobile Medical Device/App Security 3
+CS-710 Big Data Warehousing and Analytics Systems 3

@@ -1,0 +1,40 @@
+Course Requirements
+Bachelor of Science 121 Credits
+Course Credits
+Computer Science and Web 54 Credits
+CS-120 Intro to Programming Using Python 3
+CS-130 Introduction to Programming Using Java 3
+CS-150 Introduction to Programming in C 3
+CS-220 Database Management 3
+CS-225 Intermediate Java Programming 3
+CS-230 Data Structures 3
+NT-150 Computer Networking 3
+CT-102 Introduction to Internet Applications 3
+CT-152 Introduction to UNIX 3
+CT-206 Scripting Languages 3
+CT-376 JavaScript 3
+CT-406 Web Programming Languages 3
+IAE-201 Introduction to Information Assurance Concepts 3
+IAE-250 Comprehensive Computer and Network Security 3
+IAE-311 Mobile Computing Security 3
+SE-321 Human Computer Interaction 3
+SE-457 Senior Design Project I 3
+SE-458 Senior Design Project II 3
+Business 9 Credits
+BUS-174 Introduction to Business Management 3
+BUS-208 E-Commerce and the Law 3
+BUS-289 Entrepreneurship/Small Business Management 3
+Mathematics and Sciences 16 Credits
+MA-114 Algebra and Trigonometry 4
+MA-124 Discrete Mathematics 3
+MA-128 Introduction to Statistics 3
+PH-201 General Physics I 3
+PH-202 General Physics II 3
+
+109 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Undergraduate Studies
+
+•

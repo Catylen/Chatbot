@@ -1,0 +1,16 @@
+Discussion of some basic types of computer graphic devices. Graphics and text modes,
+point plotting and line drawing, area filling image array plotting, mathematics and
+generation off two and three-dimensional translations. Rotations, scaling, reflections,
+orthogonal and perspective transformations. Projects are assigned as part of the
+homework requirements. Prerequisite: MA-330 and either CS-230 or CS-225. Offered on
+demand. (3-0-3)
+CS-440 - Advanced Machine Learning
+This course will provide coverage of advanced machine learning algorithms and their
+applications. Topics include supervised and semi-supervised learning, neural networks,
+deep learning, reinforcement learning and the applications of advanced machine
+learning techniques to image, text and stream processing. Prerequisite: CS-240 or CS360 (3-0-3)
+CS-452 - Agile Methods for Software Engineering
+Modern alternatives to traditional software engineering project management which
+promote collaboration between self-organizing/cross-functional teams, adaptive
+planning, evolutionary development, early delivery, and continuous improvement.
+Students will explore several popular agile processes and frameworks which may

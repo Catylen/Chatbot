@@ -1,0 +1,13 @@
+Applications of Kirchhoff laws to multiple source and complex series-parallel
+circuits. Determinants and matrices. Mesh and nodal analysis. Network Theorems:
+Thevenin, Norton, superposition, maximum power transfer. Review of complex number
+manipulation. Application to capacitive and inductive circuits, impedance. Complex
+Mesh analysis. Network theorems applied to complex RLC networks. Frequency
+response of RL and RC circuits. Plotting frequency response. Bode plots. Laboratory
+emphasis on the use of standard test equipment to verify theory. MATLAB Part II: input
+and output statements, importing data from spreadsheets, text files and other formats
+into MATLAB, conditional statements, loops, arrays, array functions. Prerequisites: EL100 Corequisite: Math (MA-114 or MA-114 Placement Test equivalent or MA-261 or MA261 Placement Test equivalent). (2-2-3)
+EL-200 - Electronic Devices & Circuits
+Principles and characteristics of semiconductor devices. Devices covered include
+diodes, Zener diodes, bipolar junction transistors, field-effect transistors, and
+operational amplifiers. Includes bias networks, operating points, maximum output and

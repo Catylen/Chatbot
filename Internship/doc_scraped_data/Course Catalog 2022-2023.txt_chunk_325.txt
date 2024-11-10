@@ -1,0 +1,36 @@
+Business Fundamentals 27 Credits
+BUS-101 Introduction to Data Science 3
+BUS-174 Introduction to Business and Management 3
+BUS-275 Human Resource Management 3
+BUS-279 Introduction to Leadership 3
+BUS-280 Macroeconomics 3
+BUS-281 Microeconomics 3
+BUS-282 Economics for Management 3
+BUS-289 Entrepreneurship and small Business Management 3
+BUS-391 E-Commerce 3
+Business Administration 24 Credits
+BUS-208 E-Commerce and the Law 3
+BUS-376 Marketing Principles 3
+BUS-378 Legal Environment 3
+BUS-393 Consumer Analysis 3
+BUS-410 Strategic Management 3
+BUS-454 International Business 3
+BUS-457 Senior Design Project I 3
+BUS-458 Senior Design Project II 3
+Information Technology 12 Credits
+BUS-250 Database for Managers 3
+BUS-301 Project Management 3
+BUS-362 Information Systems for Managers 3
+IAE-201 Introduction to Information Assurance 3
+Mathematics and Science 15 Credits
+BUS-250 Database for Managers 3
+MA-110 Business Management Math I 3
+MA-111Business Management Math II 3
+MA-128 Introduction to Statistics 3
+Science Elective 3
+Humanities and Social Sciences 18 Credits
+HU-331 or HU-332 Arts and Ideas 3
+SS-351 Ethics 3
+Humanities Electives 3
+Humanities Electives 3
+Social Science Electives 3

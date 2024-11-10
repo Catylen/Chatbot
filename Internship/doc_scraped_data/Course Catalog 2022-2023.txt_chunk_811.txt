@@ -1,0 +1,14 @@
+operational amplifiers. Includes bias networks, operating points, maximum output and
+optimum bias, and DC and AC load lines. Input and output impedances, and voltage and
+current gains for each amplifier configuration. Prerequisite: EL-150 (2-2-3)
+EL-204 - Digital Electronics
+Number systems, including binary, octal and hexadecimal bases. Binary arithmetic.
+Boolean algebra, Karnaugh map simplification. Design of combinational circuits.
+Decoders, multiplexers, flip-flops and other multi-vibrator circuits. Logic families
+including TTL, CMOS, ECL and others. Memory, shift registers and counters. (2-2-3)
+EL-210 – Radio Frequency Fundamentals
+This course covers RF fundamentals. Topics will include transmitting and receiving
+electromagnetic waves, radiation patterns, thermal noise, codes and standards related
+to antennas, installation practices, RF safety, and troubleshooting. Prerequisite: EL-261.
+(2-2-3)
+286 | 2022 - 2023 CATALOG

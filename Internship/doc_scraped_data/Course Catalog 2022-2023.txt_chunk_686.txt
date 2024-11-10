@@ -1,0 +1,15 @@
+CS-512 - Computer Language Design
+Using parsers and code generation techniques to fashion new mini-languages that can
+be used to creatively modify the interface between a user and the computer. Topics
+include language design; grammars; regular expression grammars; parsers and parser
+construction; parsing expressions; tokenizing; assemblers; engines vs. interpreters;
+logic, query and imperative language parsers and assemblers. (3)
+CS-513 - Gaming Theory-Real-Time 3D Graphics
+The growing importance of virtual realities in training, scientific modeling, and
+communication comes on the heels of increasing processor capabilities, new
+innovations in hardware, increasingly sophisticated programming languages, and
+advanced math-based modeling techniques. Real-time 3D graphics are at the leading
+edge of these developments. Topics include mathematical foundations and modeling
+techniques, mapping, anti-aliasing, real-time rendering, Binary Space Partition Trees,
+object control issues. Uses C++ and the OpenGL graphics interface. (Offered as a full
+semester course.) (3)

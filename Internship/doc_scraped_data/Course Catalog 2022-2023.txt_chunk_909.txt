@@ -1,0 +1,16 @@
+Students explore forensics and the investigation processes. Students explore current
+computer forensics tools, conduct live computer forensic analysis, conduct e-mail
+investigations, recovery of graphics files and data carving, and engage in report writing
+for high-tech investigations. This course prepares students for the AccessData Certified
+Examiner (ACE) and Mobile Phone Examiner Plus (MPE+) Certifications. Lab fee
+required. Prerequisites: IAE-260 and IAE-402. (3-0-3). NOTE: Students enrolled in this
+course incur an additional lab fee of $100.
+IAE-412 - File System Analysis
+This course explores the rudimentary foundations of data structures, encoding,
+FAT16/32, exFAT, NTFS, EXT2/3/4, and UFS1/2 file systems as well as a look into
+volume analysis, including multiple disk volumes and volume spanning. This course
+also discusses the basic fundamentals of hard disk drives and solid state drives, their
+components and their role in information systems. Prerequisites: MA-111 or MA-114
+and IAE-315. (3-0-3)
+IAE-430 - Intro to Industrial Control Systems Networks & Security
+Industrial Control Systems (ICS) have been in existence for decades in the United

@@ -1,0 +1,15 @@
+Prerequisite: AVT-141 (3-0-3)
+AVT-313 - Aircraft Systems & Cmp II-Trb & Aerodynamics
+This course is a continuation of the systems found on modern reciprocation aircraft and
+introduces those of turbine-powered aircraft. Topics covered will include hydraulic and
+pneumatic systems, landing gear, brakes, environmental control, ice and rain protection,
+fire protection, aircraft turbine engines, and high-speed aerodynamics. High-speed
+aerodynamics includes the study of forces and the resulting motion of objects through
+the air to include compressibility effects, shock waves, and high-speed aerodynamics.
+Prerequisite: AVT-311 (3-0-3)
+AVT-325 - Crew Resource Management
+This course will provide an in-depth study of Crew Resource Management (CRM),
+which involves having a thorough understanding of crew communications, teamwork,
+leadership, decision-making, and situational awareness. Included are CRM techniques
+designed for pilots and cabin crew of multi-crew operations as well as dispatchers,
+mechanics, and air traffic control personnel. (3-0-3)

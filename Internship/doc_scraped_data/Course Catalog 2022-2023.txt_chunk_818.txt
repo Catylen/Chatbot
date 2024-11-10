@@ -1,0 +1,16 @@
+EL-261 - Introduction to Communication Circuits & Systems
+Fundamental concepts in communications. Amplitude and frequency modulation.
+Waveform and waveform analysis. Spectral content of signal. Circuits used to
+generate signal. Signal recovery circuits. Introduction to digital modulation and digital
+waveforms. Students build and test circuits. MATLAB Part IV: using Communications
+System Toolbox for analysis, design, simulation and verification of communication
+systems. Prerequisites: EL-200. Corequisite: MA-261. Offered during spring semester
+only. (2-2-3)
+EL-262 - Microprocessors and Microassembly
+Introduction to microprocessors. Architecture. Fetch and execute cycles.
+Microprocessor instruction set and assembly language programming. Hardware
+configuration, pin functions and modes of operation of a typical microprocessor. Basic
+I/O timing, control, and memories. Prerequisite: EL-204. (2-2-3)
+EL-301 - Advanced Communications Circuits & Systems
+A continuation in the study and analysis of communications circuits as they apply to
+communications systems. Circuits such as voltage-controlled oscillators, modulators,

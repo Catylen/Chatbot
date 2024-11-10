@@ -1,0 +1,16 @@
+particle duality, the Heisenberg uncertainty principle, Schrodinger’s wave equation and
+solutions, WKB approximation, time-dependent perturbation theory methods, interaction
+of matter with radiation, application to atomic and molecular spectra, and lasers and
+quantum computing. Prerequisites: MA-262 and PH-262. (3-0-3)
+PHL-813 - Professional Ethics & Leadership
+This course examines the role of ethics in society. Cultural diversity, legal behaviors and
+the impact of moral behaviors on private and public organizations are presented in case
+studies. The various roles and impacts of unethical behaviors by system developers,
+users, managers, executives and consultants will be analyzed and the positive and
+negative impacts discussed as they pertain to the overall trustworthiness. (3)
+PHL-880 - Special Topics in Management
+This course provides students the opportunity to examine in-depth issues relevant
+to Management and Decision Sciences. It is expected that students will produce a
+publishable paper. (3)
+PHL-900 - Management Theory in a Global Economy
+This course provides an overview of seminal management theories and their relevance,

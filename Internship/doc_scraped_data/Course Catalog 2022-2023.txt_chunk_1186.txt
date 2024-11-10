@@ -1,0 +1,15 @@
+UAS-201 - Unmanned and Autonomous Systems Sensors
+This course covers payload systems capable of being installed on air (UAV), ground
+(UGV), and water-based vehicles (UMV). The student will gain an understanding
+of various sensory payloads and appropriate applications that may be used on
+multiple platform types. The student will learn to select sensors depending upon
+mission requirements, platform capabilities, data types, and environmental impacts.
+An introduction will be made to tools for data analysis after capture and storage.
+Prerequisite: UAS-101, UAS-102. (3-0-3)
+UAS202 - Unmanned and Autonomous Systems Ground Vehicles
+This course provides the principles and concepts of unmanned and autonomous
+vehicles used for ground applications. Students will explore the problems of perception,
+navigation, communications, control, sensors and payloads, and fundamentals of
+locomotion in the environments found on the land. The capabilities and limitations
+will be examined and the student will be able to select the appropriate platform types
+and sensors to meet application requirements. Current trends such as driverless cars,

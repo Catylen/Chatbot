@@ -1,0 +1,15 @@
+anatomy of well-known viruses and worms to understand how they work. Mobile code
+issues as they apply to web and application technologies and resulting insecurities will
+be discussed in detail. Students will then review the underlying methodologies used by
+the anti-virus vendors and freeware offerings to protect electronic assets from harm or
+other compromise. Prerequisite CS-620 or waiver. (3) NOTE: Students enrolled in this
+course incur an additional lab fee of $100.
+IAE-679 - Vulnerability Mitigation
+This “Defense-in-Depth” course provides the student detailed understanding of the need
+for internal and external vulnerability assessment. An integral technical part of any risk
+management program, this course goes hand-in-hand with the more analytical practices
+in IAE-674. Prerequisite CS-620 or waiver. Co-requisites: IAE-685. (3) NOTE: Students
+enrolled in this course incur an additional lab fee of $100.
+IAE-680 - Perimeter Protection
+In this “defense-in-depth” course, firewalls and network IDS issues are discussed. A
+detailed understanding of firewall configuration and rule sets, load balancing, web

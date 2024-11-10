@@ -1,0 +1,32 @@
+Course Requirements
+Bachelor of Science 122 Credits
+Course Credits
+Unmanned and Autonomous Systems (UAS) -Technical Core 46 Credits
+UAS-101 Introduction to UAS 3
+UAS-102 Mechanics of UAS 3
+EL-100 Introduction to DC/AC Circuits 3
+UAS-110 Air Traffic Control Communications 3
+UAS-120 UAS Operator Certification 4
+UAS-130 UAS Safety Management Systems 3
+UAS-140 UAS Operations 3
+UAS-150 UAS Crew Planning 3
+UAS-201 UAS Sensors 3
+UAS-202 UAS Ground Vehicles 3
+UAS-210 UAS Design 3
+UAS-220 Introduction to Processing Remotely Sensed Data 3
+UAS-230 Unmanned Surface and Underwater Vehicles 3
+UAS-240 Unmanned Space Vehicles 3
+UAS-250 Unmanned Vehicle Environments 3
+Unmanned and Autonomous Systems - Management Core 18 Credits
+UAS-310 Unmanned Vehicle Missions 3
+UAS-320 Unmanned Vehicle Business Decisions 3
+UAS-330 Unmanned Systems Crew Resource Management 3
+UAS-410 Unmanned Vehicle Laws and Regulations 3
+UAS-457 Senior Design Project I 3
+UAS-458 Senior Design Project II 3
+
+130 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Undergraduate Studies

@@ -1,0 +1,31 @@
+Cybersecurity 12 Credits
+CT-152 Introduction to Unix 3
+IAE-201 Introduction to Cybersecurity 3
+IAE-250 Comprehensive Computer and Network Security 3
+IAE-325 Secure Data Communication and Crypto 3
+Business 9 Credits
+BUS-270 Financial Accounting I 3
+BUS-283 Managerial Accounting 3
+BUS-372 Financial Management 3
+Critical Infrastructure 9 Credits
+CRI-210 Critical Infrastructure I 3
+CRI-211 Critical Infrastructure II 3
+CRI-212 Critical Infrastructure III 3
+Mathematics and Sciences 19 Credits
+MA-112 Intermediate Algebra 3
+MA-114 Algebra and Trigonometry 4
+MA-128 Statistics 3
+CH-120 Chemistry 3
+PH-201 General Physics 3
+UAS-101 Introduction to Unmanned and Autonomous Systems 3
+Facilities Management 42 Credits
+FM-120 Intro to Facilities Management 3
+CM-125 Construction Graphics and Plan Reading 3
+CM-220 Construction Methods and Materials w/ lab to cover II 3
+CM-230 Estimating I 3
+CM-250 Legal Issues in Construction 3
+FM-260 Facilities Management Leadership & Strategy 3
+FM-280 Facilities Project Management 3
+FM-301 Facilities Project Management and Finance 3
+FM-330 Building Operations and Maintenance 3
+FM-350 Facility Information Management and Technology Management 3

@@ -1,0 +1,16 @@
+This course explores security terms, definitions, concepts, and issues that face
+industries today. This course also will examine how the concept of security, and
+being secure, integrates into the overall enterprise mission. The importance of user
+involvement, security training, ethics, trust, and informed management will be explored.
+(3)
+IAE-671 - Legal Aspects Computer Security & Information Privacy
+This course provides an overview of the legal rights and liabilities associated with
+operation and use of computers and information, including the legal and regulatory
+compliance issues critical for chief information security officers. It discusses the key
+statutes, regulations, treaties, and court cases (in the United States and abroad) that
+establish legal rights and responsibilities as to computer security and information
+privacy. The course also helps students to learn how to reduce their risk of potential
+legal liability for computer security or information privacy failures, and how to enforce
+their security and privacy rights against other parties. Case studies and lessons learned
+from information security failures are used throughout the course. (3)
+IAE-672 - Cryptography

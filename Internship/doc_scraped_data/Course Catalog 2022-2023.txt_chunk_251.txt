@@ -1,0 +1,25 @@
+Terrorism and Counterterrorism 33 Credits
+CTR-101 Nature of Conflict 3
+CTR-102 Terrorism 3
+CTR-201 Islam in the Modern World 3
+CTR-202 Terrorism and Conventional and Improvised Explosive Devises 3
+CTR-203 Terrorism and Chemical, Biological, Radiological, and Nuclear Weapons 3
+CTR-301 Terrorist Operations 3
+CTR-302 Terrorist Threat Assessments 3
+CTR-401 Homegrown Violent Extremism (Domestic Terrorism) 3
+CTR-402 Violent Ethno-supremacist and Ultranationalist Groups (Worldwide) 3
+CTR-457 Counterterrorism Senior Project I 3
+CTR-458 Counterterrorism Senior Project II 3
+Intelligence/Critical Infrastructure/Cybersecurity/Unmanned and Autonomous Systems
+27 Credits
+INT-101 Introduction to Intelligence and Global Security 3
+UAS-101 Introduction to Unmanned and Autonomous Systems 3
+UAS-102 Mechanics of Unmanned and Autonomous Systems 3
+IAE-201 Introduction to Information Assurance Concepts 3
+IAE-250 Comprehensive Computer and Network Security 3
+CRI-210 Critical Infrastructure I 3
+CRI-310 Critical Infrastructure II 3
+IAE-351 Intro to Cyber Network Operations 3
+CRI-410 Critical Infrastructure III 3
+Math and Computer Science 25 Credits
+MA-112 Intermediate Algebra 3

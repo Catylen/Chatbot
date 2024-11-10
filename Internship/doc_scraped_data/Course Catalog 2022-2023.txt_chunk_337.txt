@@ -1,0 +1,14 @@
+Computer and Network Security (12 credits)
+This upper-level certificate provides students with a fundamental knowledge of general
+network security concepts, which can then be applied to an advanced training program
+in specific security software and platforms. Students learn the basics of practical and
+theoretical network and computer security. The first course introduces students to
+Introductory computer programming to support the advanced courses. The remaining
+courses provide students with an understanding of computer and network security
+issues, including encryption, SSL, privacy issues, directory services protocols such as
+LDAP, intrusion detection, viruses, firewalls and network management.
+Required Courses
+CS-120 Introduction to Programming using Python 3
+IAE-201 Introduction to Information Assurance Concepts 3
+IAE-250 Comprehensive Computer and Network Security 3
+IAE-260 Secure Systems Administration and Operation 3

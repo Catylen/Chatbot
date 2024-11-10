@@ -1,0 +1,19 @@
+285 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+EGM-920 - Engineering Management Doctoral Writing III
+
+necessary final oral defense of the research. Prerequisite: EGM-930. (6)
+EL-100 - Introduction to DC/AC Circuits
+Basic electrical concepts and laboratory techniques. Current, voltage, resistance and
+power. Ohm’s law, series and parallel resistive circuits. Kirchhoff’s voltage and current
+laws. Loading effects on meters and supplies. Capacitors and Inductors. Charging
+and discharging. RC and RL time constants. Introduction to AC. Sinusoidal waveforms,
+phasors and use of the J operator. Reactance and admittance. Average values and
+RMS. Laboratory emphasis is on the proper use of standard meters, testing equipment
+and circuit breadboarding. MATLAB Part I: Introduction to MATLAB, variables, MATLAB
+functions, data types, writing a MATLAB program, using basic plotting functions.
+Corequisite: MA-112. (2-2-3)

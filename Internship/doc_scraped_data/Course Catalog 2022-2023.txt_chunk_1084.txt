@@ -1,0 +1,4 @@
+underpinning robotic systems in use and development today. Intended to give students
+the tools to understand robotic systems, to explore robotics for their own purposes,
+and to pursue advanced study in the field. The course will cover the fundamentals of
+manipulators, sensors, actuators, end effectors and product design for automation,

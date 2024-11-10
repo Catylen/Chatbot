@@ -1,0 +1,3 @@
+motors, induction motors. Equivalent circuit modeling of motors. Start-up conditions.
+Transformers, Transmission of Electrical Energy, Energy Distribution and Harmonics.
+Prerequisites: EL-150 and MA-261. (3-0-3)

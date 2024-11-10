@@ -1,0 +1,3 @@
+factors, and regulatory issues. Emphasis is on the total system including reliability,
+maintainability, system support, and total system performance toward fulfillment of
+user needs and results in the operational environment. Prerequisite: None. (3)

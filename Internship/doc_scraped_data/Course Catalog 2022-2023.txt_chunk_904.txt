@@ -1,0 +1,15 @@
+Cryptography is indispensable for providing confidentiality of information in computer
+systems. This course explains the inner workings of cryptographic primitives and
+how to correctly use them. Students will learn how to reason about the security of
+cryptographic constructions and how to apply this knowledge to real-world applications.
+Students will examine many deployed protocols and analyze mistakes in existing
+systems. The course discusses public-key techniques that let two or more parties
+generate a shared secret key. Students will cover the relevant number theory and
+discuss public-key encryption and basic key-exchange. Prerequisite: IAE-301, MA-114
+(3-0-3)
+IAE-390 - Penetration Testing
+This course explores the foundational concepts, methods and techniques in preparing
+and conducting penetration tests. Throughout the course students are introduced to
+various tools as well as unravel complex methods for exploiting client-side, service side
+and privilege escalation attacks. Most importantly students learn how to construct a
+final report outlining discovered vulnerabilities, make suggested recommendations to

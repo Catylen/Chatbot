@@ -1,0 +1,16 @@
+PH-201 - General Physics I
+This is a non-calculus-based physics course intended for credit in engineering
+technology courses. PH-261 is to be used for electrical, computer, and software
+engineering courses. PH-201 addresses mechanics, focusing on units, conversion
+factors, vector diagrams, translational equilibrium, friction, torque and rotational
+equilibrium, uniformly accelerated motion, projectiles, Newton’s Law, work energy
+and power, kinetic and potential energy, conservation of energy, and impulse and
+momentum. It also addresses heat, focusing on temperature scales, thermal properties
+of matter, heat and temperature change, heat and change of phase, physics of heat
+transfer, and applications. Prerequisite: MA-114. Students completing this course may
+not enroll in PH-261 for additional credit. (2-2-3)
+PH-202 - General Physics II
+Non-calculus-based physics intended for credit in engineering technology courses. Use
+PH-262 for electrical, computer and software engineering courses. Light and sound:
+wave motion, nature of light, reflection and mirrors, refraction, prisms, dispersion lenses;
+simple harmonic motion; sound transmission, resonance, interference. Doppler Effect.

@@ -1,0 +1,15 @@
+Capstone design project. Design and analysis of a complete mechatronic system
+using controllers, sensors, and actuators. Advance systems programming with
+current industrial network programs and GUIs. Implementation of project and process
+management principles as well as professional documentation and presentation. Two
+hours lecture and three hours laboratory. Prerequisites: EE-285 and MEC-455. (2-3-3)
+MIL-800 - Military Leadership Research Background
+The student will focus on the study of the latest military leadership strategies, tactics,
+and developments. The student will synthesize the growing effect of current military
+leadership practices on military operations, national military-civilian relationships, and
+international relationships. The student will identify military leadership failures and
+areas for improvement. The faculty will directly support and mentor the exploration
+phase of the planning. (6)
+MIL-810 - Military Leadership Research Methods
+Under a Chair and committee, a student will continue evaluating the military leadership
+field. The student will also develop research methodologies and strategies suitable

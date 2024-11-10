@@ -1,0 +1,5 @@
+IE-709 - Computer Object-Oriented Script Language
+For the first time in two decades, software developers now have to be proficient in
+multiple programming languages to deploy thin client or fat client Internet-based
+applications. Choosing the right set of languages has a dramatic impact on application
+performance and e-commerce. This course is designed to compare and contrast the

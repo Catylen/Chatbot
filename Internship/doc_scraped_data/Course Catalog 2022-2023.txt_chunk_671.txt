@@ -1,0 +1,4 @@
+on DBMS architecture and implementation issues such as storage structures,
+multidimensional index structures, query optimization, concurrency control and
+recovery, distributed processing, database security, and parallel database systems.
+Prerequisite: CS-220 or equivalent. (3-0-3)

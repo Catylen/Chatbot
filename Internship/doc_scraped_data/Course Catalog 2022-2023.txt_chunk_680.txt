@@ -1,0 +1,15 @@
+CS-501 - Introduction to Python Programming
+The Python programming course will assist students with their understanding of the
+application, programming, and analytical use of Python as a means to making intelligent
+decisions based on the results of pulling and parsing through big data. Python is
+typically used for sorting and analyzing large data files and evaluating online sites to
+illustrate the larger issue of any type of research project or study. The fast pace of never
+ending digitalized data and emerging technology research makes Python programming
+language the ideal resource for collecting and presenting such vast amounts of data in
+a sensible and easy to understand format. (3)
+CS-502 - Predictive Analytics
+In this course students will learn the data mining and data science methodologies and
+technologies needed to implement a predictive analytics solution in a given problem
+domain. The course will emphasize supervised learning techniques, but will also
+introduce and overview machine learning concepts in general. Students will learn the
+hands-on techniques to implement data preparation, model building, model evaluation

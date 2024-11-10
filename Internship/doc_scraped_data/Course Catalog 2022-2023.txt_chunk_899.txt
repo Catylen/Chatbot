@@ -1,0 +1,13 @@
+impacts those portable computing devices. Wireless network security is discussed as it
+pertains to decisions on which network security works best with particular applications
+loaded into wireless computing devices. The course covers security of CMRS and PCS
+(Cellular Mobile Radio Service and Personal Communications Service), CMRS and PCS
+second, third and fourth generations (2G, 3G and 4G) , laptops equipped with Wireless
+Network Interface Cards (WNICs), Personal Digital Assistants (PDAs), Bluetooth and
+Zigbe devices and “Radio Frequency Identity (RFID) devices. Retail store security and
+proximity payment application security are also discussed. Note: students are required
+to purchase a mobile device specifically to fulfill course lab requirements. Prerequisite:
+IAE-250. (2-2-3)
+IAE-320 - Mobile Device Forensics
+Mobile device forensics is a branch of digital forensics relating to recovery of digital
+306 | 2022 - 2023 CATALOG

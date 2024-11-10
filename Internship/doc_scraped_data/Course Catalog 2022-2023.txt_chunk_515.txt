@@ -1,0 +1,13 @@
+Students/teams build and test their selected designs (completed in AE-457). Each
+student team delivers a tested prototype and defends its project in front of a panel of
+experts. Students/teams submit a final report that includes description of the design,
+realization, and test processes as well as test results, discussion, and conclusion.
+Failure to deliver a completed design and a working prototype that meets engineering,
+software, and/or security specifications by the end of the semester may result in failing
+the course. *Note: Course must be completed with a grade of “C” or higher to meet
+undergraduate graduation requirements. Prerequisite AE-457. (3-0-3)
+AE-463 - Space Systems Engineering Simulation & Modeling
+This course focuses on software-based simulation relating to current era space and
+ground operations industry toolkits. The course has four components: basic concepts,
+use of the STK toolkit and other network simulation tools such as OPNET, evaluation
+of a COTS system, and student presentations and papers. The initial lectures will

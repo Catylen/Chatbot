@@ -1,0 +1,15 @@
+CS-351 - Assembly Language Programming
+This course introduces the student to assembly language, specifically which is used
+with the Intel 80x86 computer architecture. Topics include data representation,
+branching and looping, procedures, string operation, bit manipulation and macros.
+Secure coding techniques will be taught by exploring integer overflow and buffer
+overflow attacks. By learning how to write in assembly language, the student will
+better understand how programs are executed in a computer and how to optimize
+performance of programs written in high-level languages, such as C++. The student will
+be assigned programming projects as homework. Prerequisite: CS-130 or CS-150 (3-0-3)
+CS-356 - Dynamic Web Page Development
+This course teaches the student how to generate dynamic web pages using data from
+a database. The course begins with an overview of the C# programming language and
+object-orientation. Using ASP.NET, this course explores the processing of web forms
+and controls, state management, validation and error handling, SQL database access
+and secure web site coding. Programming projects, including a group project, are

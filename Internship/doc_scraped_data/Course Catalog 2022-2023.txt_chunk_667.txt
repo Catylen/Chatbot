@@ -1,0 +1,16 @@
+In this course, students will be introduced to a variety of basic principles, and
+techniques involved in carrying out data mining on textual datasets or textual attributes.
+Topics include document representation, tokenization, parsing, text categorization,
+text clustering, topic modeling, and sentiment analysis. Concepts of Natural Language
+Processing (NLP) and Information Retrieval (IR) relevant to text mining will also be
+covered. Prerequisite: CS-240 (3-0-3)
+CS-370 - Computer Vision
+This course provides an introduction to computer vision. The topics will cover basics
+of image processing, segmentation, edge/line detection and object recognition. The
+students will also learn applications of these techniques to various application domains
+which can include some of the following: surveillance, traffic and road recognition,
+medical imaging, affective computing, visual tracking, and activity monitoring.
+Prerequisite: CS-120 or CT-206 or CS-150 (3-0-3)
+CS-400 - Special Topics in Computer Science
+Applications of computer science principles or research into computer science
+subjects. Student primarily works in a guided study format with a mentor. Permission

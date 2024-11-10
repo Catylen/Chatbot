@@ -1,0 +1,15 @@
+Amplifier theory. Analysis of circuits in small signal operation, equivalent circuit
+models, frequency response and Bode plots. Cascaded stages with direct, capacitor
+and transformer coupling of amplifier stages, loads and signal sources. Analysis
+of power transfer, efficiency, thermal effects, and distortion of amplifier circuits in
+large signal operation, amplifier operating classes and push-pull amplifier circuits.
+Operational Amplifier applications. Regulators. Oscillators: Wein Bridge, RC phase shift,
+Hartley, Colpitts, Clapp, Negative resistance and crystal types. MATLAB Part III: using
+Simscape Electronics for modeling integrated circuits such as operational amplifiers.
+Prerequisites: EL-200. (2-2-3)
+EL-255 - Introduction to Control and Robotic
+Open and closed loop control systems compared with examples. Conditions, which
+determine a robot. Permanent magnet, brushless, series and shunt motors. Stepper
+motors. Reversing circuits and speed control techniques. Gear trains and effect on
+speed, acceleration and torque. Robot power supplies, robot arm and gripper, degrees
+of freedom and work envelope. Frequency response of control system components.

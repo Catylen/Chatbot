@@ -1,0 +1,5 @@
+demodulation, antennas and propagation loss, interference, and system performance.
+Cell structure and frequency re-use. Digital signaling principles. Channel access in
+cellular systems. System aspects of current mobile systems: 2G (GSM), 2.5G (GPRS ,
+EDGE) and 3G (UMTS, HSDPA), GERAN and UTRAN, Long Term Evolution (LTE). Pre-req:
+EL-210. (2-2-3)

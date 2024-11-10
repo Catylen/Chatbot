@@ -1,0 +1,3 @@
+well as Web-based clients on desktops, servers and PDAs. This class will examine the
+mechanisms employed to bring legacy as well as modern computing to the information
+economy. (3)

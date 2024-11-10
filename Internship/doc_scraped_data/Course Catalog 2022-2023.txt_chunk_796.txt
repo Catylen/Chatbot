@@ -1,0 +1,3 @@
+circuits. Materials and component selection. Vibrational analysis, thermal analysis and
+packaging. Classification of hardware for commercial, military or space applications.
+MIL-spec and IPC standards discussed. (3)

@@ -1,0 +1,14 @@
+how to correctly use them. Students will learn how to reason about the security of
+cryptographic constructions and how to apply this knowledge to real-world applications.
+Students will examine many deployed protocols and analyze mistakes in existing
+systems. The course discusses public-key techniques that let two or more parties
+generate a shared secret key. Students will cover the relevant number theory and
+discuss public-key encryption and basic key-exchange. Students are expected to have
+knowledge of Calculus I and a scripting language such as python. Prerequisite: IAE-685
+and CS-620 or permission of department chair. (3)
+IAE-673 - Secure Information Transfer & Storage
+This course provides the student a history of cryptography from Caesar’s cipher to
+elliptic-curve cryptography of today. Students study public and private key algorithms
+and understand their functionality, and how they work with network protocols. One-way
+hashes and digital signatures are discussed and used by the students in submissions
+to the instructor. Public-key infrastructure with certificate authorities and web-of-trust

@@ -1,0 +1,7 @@
+detailed understanding of firewall configuration and rule sets, load balancing, web
+farms, wireless access, web security issues and network intrusion detection is explored
+to prepare the student with the basic tools to coordinate the design and implementation
+of perimeter network defenses for a high volume, high access site. Prerequisite:
+Completion of at least 24 credit hours in IAE coursework. This class is best completed
+in the last term. (3) NOTE: Students enrolled in this course incur an additional lab fee of
+$100.

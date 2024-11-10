@@ -1,0 +1,15 @@
+development task, in respond to Broad Agency Announcements. Creating preliminary
+response, including quad charts and white papers. Techniques for providing a rough
+order of magnitude (ROM) cost. Preparing the full final proposal, including abstract,
+statement of work, schedule, milestones, deliverables, risk mitigation, preplanned
+follow-on efforts, procurement, subcontracts, describing the labor mix, and developing
+a full cost proposal. Attention will be given to protection of proprietary information,
+protection of intellectual property, and to compliance with Federal Acquisition
+Regulations (the FAR). The course will culminate with the execution of a mock project,
+with final deliverables, and final closeout of the project. Examples from Federal R&D
+projects in public domain will be used throughout the course. Offered during fall
+semester. (3)
+EE-710 - Designing for Reliability & Manufacturing
+Design methodology and standards applied in the construction and assembly of
+electronic circuits for reliability. Redundancy, parallel structure and majority rule
+circuits. Materials and component selection. Vibrational analysis, thermal analysis and

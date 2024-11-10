@@ -1,0 +1,5 @@
+optical sources and detectors. Transmitter and receiver circuits for analog and digital
+communication. Design consideration for practical optical communication links using
+power budget and rise-time analysis. Discussion and comparison of latest multiplexing
+and coupling techniques used in optical networks. Contains labs. Prerequisites: EL-261
+and MA-261. (2-2-3)

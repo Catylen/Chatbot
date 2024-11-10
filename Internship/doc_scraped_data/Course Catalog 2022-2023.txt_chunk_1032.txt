@@ -1,0 +1,6 @@
+and MA-262. (3-0-3)
+MEC-330 - Fluid Mechanics
+Continuum, velocity field, fluid statics, manometers, basic conservation laws for
+systems and control volumes, dimensional analysis. Euler and Bernoulli equations,
+viscous flows, boundary layers, flow in channels and around submerged bodies, onedimensional gas dynamics, turbomachinery. Applications in hydraulic, pneumatic, and
+fluidics discussed. Two hours lecture and three hours laboratory. Prerequisites: MEC310 and MA-262.

@@ -1,0 +1,5 @@
+programming using Objective C. Model-View-Controller architecture in xcode. Graphical
+User Interface library and components. File system on the iphone; SqlLite and the
+iphone. Students learn how to make a complete iphone app with significant functionality
+and industry-standard user interface from scratch. Security issues with iphone software
+development. Prerequisite: CS-150 and CS-230 (3-0-3)

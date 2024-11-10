@@ -1,0 +1,16 @@
+aid, economic trade, sanctions, global environmental policy, etc. Assessing measures
+of effectiveness in the components of national power will be discussed, as well. Case
+studies will be used to illustrate the course’s topics.
+INT-600 - Intelligence Com. Int Proc Int Analytic
+The course provides an overview of significant software tools that are used in
+intelligence analysis of global security. These software tools include applications such
+as social network analysis (SNA), root cause analysis (RCA), alternative competing
+hypotheses (ACH), data mining, Excel, project management, risk management, and
+others. Students will be trained to apply such software tools in case study projects.
+INT-700 - Seminar in Intelligence and Global Security I
+In the seminar (also known as a Capstone Course), students will be assigned to produce
+two seminar papers. In the first, they will apply a structured intelligence methodology
+to analyze a case study, and in the second, they will apply a software tool to visualize
+and analyze another case study. Both seminar papers will be presented to the class for
+further discussion.
+INT-710 – Seminar in Intelligence and Global Security II

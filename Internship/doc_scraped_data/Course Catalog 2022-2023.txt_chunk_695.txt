@@ -1,0 +1,16 @@
+CS-701 - Artificial Intelligence
+The artificial intelligence revival of the late 1980s has produced many new and
+innovative approaches to the creation of intelligent systems. Such systems permeate
+today’s computer environment supporting everything from computer games to
+autonomous robotic systems and intelligent agents. The focus of this course will vary
+over time. Topics include knowledge representation and rule-based systems, fuzzy-logic
+systems, learning systems such as artificial neural networks and genetic algorithms,
+genetic programming and evolutionary computing, hybrid intelligent systems, and
+intelligent agents. (3)
+CS-705 - Multithreaded & Distributed Program
+Modern applications such as GUI interfaces use multithreaded programming to
+achieve responsiveness and to make efficient use of computer resources. In addition,
+the Internet has made distributed programming an integral part of almost every
+computing system. In today’s world programmers and computer professionals must
+understand the principles underlying both these paradigms. Topics include concepts
+and applications of multithreaded and distributed programs. Process interaction using

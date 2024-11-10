@@ -1,0 +1,14 @@
+This course explores the protections available to the practitioner through host operating
+systems and third-party equipment and software, to protect the inner network from
+the attacker who has successfully circumvented the perimeter or from the disgruntled
+insider. Use of methodologies including host-based intrusion detection methods, audit
+settings and review PC Firewalls, host operating hardening for Linux and Windows
+operating systems, and Virtual LANs will be reviewed. It is recommended that students
+complete IAE-685 before taking this course, but this is not a requirement. (3) NOTE:
+Students enrolled in this course incur an additional lab fee of $100.
+IAE-684 - Complementary Security (CISSP)
+Complementary Security is best defined as taking holistic, defense-in-depth approach
+to designing a complete Information Security Program. In the course, students will learn
+how individual domains of security from the (ISC)2 CISSP Common Book of Knowledge
+work together to properly address cyber risks within an organization. At the end of the
+course, students will be able to: (a) utilize industry best practices and frameworks to

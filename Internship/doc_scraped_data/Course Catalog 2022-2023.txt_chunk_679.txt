@@ -1,0 +1,22 @@
+253 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+CS-432 - Computer Graphics
+
+Unified Process, Crystal Clear Methods, Extreme programming, Lean, Scrum. Benefits
+and pitfalls of this approach as compared to more traditional models will be discussed.
+Prerequisite: CS-225 or CS-230 or CS-200
+CS-457 - Senior Design Project I
+Students/teams select a project, develop an understanding of the project scope that
+includes research and documentation of related work, prepare a feasibility study,
+develop project requirements (constraints) and engineering, software, and/or security
+specifications, propose solutions and multiple designs, analyze proposed designs,
+select a final proposed design, and prepare and present a preliminary design review
+(PDR). Students are expected to apply proper systems engineering and project
+management to their work. Additional components may be required in some projects.
+Students/teams submit a final report at the end of the semester. Pre-requisite: Senior
+standing. (3-0-3)
+CS-458 - Senior Design Project II

@@ -1,0 +1,16 @@
+This course will survey the rapidly evolving field of the law and public policy governing
+the use of autonomous systems of all types of Unmanned Aircraft Systems (UAS)
+in the National Airspace (NAS). The course will proceed based on six “modules”
+addressing various aspects of the new field of UAS and autonomous vehicle Law. These
+modules are: (1) Emerging FAA Regulatory Framework; (2) Government Use of UAS,
+autonomous systems, and the Fourth Amendment; (3) State Regulation of Government
+and Commercial autonomous systems; (4) Tort Liability for autonomous and UAS
+Operations; (5) Emerging Frameworks for autonomous systems and Privacy; and (6)
+Overview of Intellectual Property Issues for the unmanned and autonomous industry.
+Upon successful completion of the course, the student will have a working knowledge
+of the legal issues relevant to the autonomous vehicle and UAS industry. Prerequisite:
+None. (3)
+UAS-660 - Safety Management Systems & Unmanned and Autonomous Systems
+Cybersecurity
+Overview of related unmanned and autonomous safety topics, including current safety
+issues, the role of federal agencies, accident statistics, causes of accidents, human

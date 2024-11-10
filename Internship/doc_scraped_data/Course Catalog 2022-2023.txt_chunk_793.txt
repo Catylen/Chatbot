@@ -1,0 +1,18 @@
+EE-600 - Mathematical Analysis
+Advanced mathematics for scientists and engineers as either a review or an advanced
+introduction. Differential equations, Laplace transforms, linear algebra, vector analysis,
+introduction to tensor analysis, complex variables and probability. Many calculation
+techniques using an appropriate software tool are introduced. (3)
+EE-607 - Electromagnetic Interference & Compatibly
+Overview of Electromagnetic Interference with examples. Conducted and radiated
+emission. Mutual Capacitance and Inductance. Coupling Paths. Crosstalk. Shielding
+Theory and Applications. Modeling of circuits in noise applications. Parasitics and
+their reduction. Ferrite beads and chokes. Open Area Test Sites. Anechoic chambers.
+TEM cells. Reverberation chambers. Frequency and time domain analysis of noise.
+Grounding issues and their reduction. Bonding Electrostatic Discharge. Extremely Fast
+Transients, Surge EMI filters Cables, Connectors and Components. Electromagnetic
+pulses and Lightning. Offered during spring semester. (3)
+EE-708 - Master’s Project Research
+This course will cover all aspects of proposing and executing a research and
+
+282 | 2022 - 2023 CATALOG

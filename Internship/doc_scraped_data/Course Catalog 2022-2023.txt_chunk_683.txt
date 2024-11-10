@@ -1,0 +1,12 @@
+CS-504 - Theory of Computation
+An investigation into the fundamental ideas and models underlying computing.
+Automata languages, determinism, Chomsky hierarchy, computability, Turing machines,
+Church’s Thesis, complexity, NP-completeness, intractability. (Offered as a full semester
+course.) (3)
+CS-505 - Intro to Software Design with UML
+Object Oriented principals and concepts, such as classes, objects and interfaces;
+as well as inheritance, encapsulation, polymorphism and aggregation; etc. Students
+will explore the Unified Process and Object-Oriented software life cycle. CASE tools
+and iterative and incremental software development approaches are also covered.
+Advantages of Object-Oriented design patterns are demonstrated. (3)
+CS-506 - Requirements and Resource Analysis

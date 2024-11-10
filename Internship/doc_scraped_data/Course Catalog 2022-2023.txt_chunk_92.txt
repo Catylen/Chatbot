@@ -1,0 +1,11 @@
+Grade Point Average
+At the end of each semester, averages are computed for each student’s record to
+indicate the general level of his or her academic standing. The first is the scholarship
+level for the semester. The second is the cumulative grade point average, indicating the
+scholarship level for all work taken at the university to date.
+In cases where a student retakes a course, only the highest grade is used in computing
+the CGPA. The previous grade remains on record as information only. To graduate,
+
+29 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY

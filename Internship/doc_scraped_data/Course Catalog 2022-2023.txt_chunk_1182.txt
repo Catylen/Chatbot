@@ -1,0 +1,8 @@
+execution. Students must complete the appropriate flight lessons to satisfactorily
+complete the course. Prerequisite: None (4-0-4). NOTE: Students enrolled in this course
+incur an additional lab fee of $500.
+UAS-130 - Unmanned and Autonomous Systems Safety Management Systems
+This course presents an overview of related unmanned and autonomous safety
+topics, including current safety issues, the role of federal agencies, accident statistics,
+causes of accidents, human factors, crew resource management skills, and accident
+prevention. Prerequisite: UAS-101 and UAS-102. (3-0-3)

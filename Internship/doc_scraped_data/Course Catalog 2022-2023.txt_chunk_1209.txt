@@ -1,0 +1,6 @@
+students will learn basic visualization design and evaluation principles, and learn how
+to acquire, parse, and analyze large datasets. Students will also learn techniques for
+visualizing multivariate, temporal, text-based, geospatial, hierarchical, and network/
+graph-based data. Additionally, students will utilize software tools to prototype many
+of these techniques on existing datasets. Students must have some previous statistics
+course or experience. Prerequisite: UAS-520. (3)

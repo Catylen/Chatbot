@@ -1,0 +1,14 @@
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+Requirements analysis is crucial to avoid failure of a system or project. The
+requirements should be well documented, measurable, verifiable, plausible to fulfill, easy
+to keep track of and precise. Students will learn to identify stakeholders and elucidate
+needed information from them to formulate software requirement specification
+agreements. They will learn how to perform goal modeling, software prototyping,
+and use case development, so that they can identify and document Architectural
+Requirements, Structural Requirements, Behavioral Requirements, Functional
+Requirements, Performance Requirements, and Derived Requirements, amongst others.
+They will also examine the resources and skill sets needed to support the requirements.
+(3)

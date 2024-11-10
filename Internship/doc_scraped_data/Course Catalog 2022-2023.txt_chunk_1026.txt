@@ -1,0 +1,14 @@
+MBA-703 - Software Acquisitions
+This course covers the acquisition of open systems and commercial off-the-shelf
+(COTS) products, an increasingly vital element of corporate and government software
+development. Properly managed software acquisition offers potential for significant
+time and cost savings over a system’s lifetime. The transition from proprietary, custombuilt systems to systems based on standards and commercial products is not easy,
+however. Managers and their staff must understand the risks and opportunities
+associated with this acquisition approach. (3)
+MBA-705 - Organizational Change & Information Systems Implementation
+Information systems represent a critical resource to organizations, yet there are many
+unknowns about how to successfully design and implement those systems and many
+firms today continue to struggle with the deployment process. This seminar explores
+issues associated with the implementation of information systems in organizations–
+including requirements analysis, project management, outsourcing, and virtual teams
+using a variety of theoretical or conceptual lenses such as control and coordination,

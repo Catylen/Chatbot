@@ -1,0 +1,21 @@
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+MA-325 - Mathematics of Cryptography
+
+mechanics and rate problems. It also covers solutions of second order equations by
+undetermined coefficients and variations of parameters. Applications to circuits are
+also included as well as an introduction to systems of equations and operational and
+numerical methods. Prerequisite: MA-262. (3-0-3)
+MA-345 - Probability & Statistics Engineers
+This course focuses on sets and methods of counting, as well as probability density
+functions, expected values, and correlations. Forms of distribution addressed included
+binomial, Poisson, exponential, and normal. Additional topics covered include the
+central limit theorem, statistical estimation, an introduction to stochastic processes,
+and applications to noise and reliability. Prerequisite: MA-262. (3-0-3)
+MA-355 - Numerical Analysis
+This course covers number systems, floating-point arithmetic, and error analysis, as
+well as Taylor, interpolating and mini-max polynomials. Integration and differentiation,
+methods of solving equations, and systems of linear equations are also addressed.
+Prerequisite: MA-262, and CT-115, CS-150 or CS-130. (2-2-4)

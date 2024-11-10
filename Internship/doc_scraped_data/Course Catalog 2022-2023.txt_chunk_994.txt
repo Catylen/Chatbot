@@ -1,0 +1,16 @@
+This course covers the definition of “transform,” focusing on the Laplace transform of
+algebraic, exponential, and trigonometric functions. It also addressed basic theorems
+including shifting, initial, and final-value theorems; unit-step, periodic, and delta
+functions; methods of inverting transforms; solutions of differential equations by
+transform methods; Fourier series and coefficients; expansion of functions in Fourier
+series; complex Fourier coefficients; Parseval’s Theorem; and Fourier transform and its
+properties. Prerequisite: MA-340. (3-0-3)
+MA-525 - Statistics Using Excel
+This course provides an understanding of basic statistical principles and tests and
+their application using Excel. Topics include collecting and organizing data, theorems,
+descriptive and inferential statistics, probability, discrete and normal distributions,
+sampling distributions, central limit theorem, estimation and hypothesis testing and
+regression analysis. Prerequisite: undergraduate statistics course or work experience.
+(3)
+MAF-800 - Manufacturing Research Background
+The student will focus on the study of Manufacturing process and developments over

@@ -1,0 +1,5 @@
+cascading style sheets (CSS), images, and dynamic images, with emphasis on page
+layout, navigation bars and forms. Scripting languages are used to enhance Web
+page features. Graphic, video and audio file standards, such as GIF, TIF, JPEG, WAV
+and MIDI are discussed. SGML and XML are defined, and role of XML in enabling the
+communication of data between disparate applications is discussed. Students are

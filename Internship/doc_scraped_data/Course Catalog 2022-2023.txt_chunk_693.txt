@@ -1,0 +1,5 @@
+include programming projects focused on Information Assurance problem solving
+utilizing the C programming language primarily. Students are expected to be familiar
+with virtual machines, the UNIX command line and a basic programming language.
+Basic knowledge of C programming and UNIX helpful. (3) Note: This course is not an
+approved elective for the MS in Computer Science program.

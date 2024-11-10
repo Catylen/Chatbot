@@ -1,0 +1,6 @@
+Prerequisite: BUS-101. (3-0-3)
+BUS-245 - Writing & Communication in Data Science
+This course emphasizes communication skills for professional situations, including
+effective quantitative summary and public speaking. The course includes preparing and
+producing technical documents for specific audiences as well as analyses for general
+audiences. Prerequisite: EN-102. (3-0-3)

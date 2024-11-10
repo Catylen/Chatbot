@@ -1,0 +1,22 @@
+Minors
+Undergraduate minors enable students to add a concentration to their academic
+credentials. Students seeking an undergraduate minor must have earned at least 15
+credits in residence at Capitol Technology University, with a cumulative GPA of 2.0 or
+higher before declaring a minor. Once students have earned more than 100 credits,
+they are no longer eligible to declare a minor. A student may only have one declared
+minor. No course substitutions are permitted. No more than nine transfer credits may
+be applied to a minor, and no more than six credits may apply to both a major degree
+program and a minor.
+
+Computer Science (18 credits)
+Computer science minors learn the basics of programming, using two languages: Java
+and C, as well as database management, algorithms, data structures and analytical
+skills used by industry professionals.
+Required Courses
+CS-130 Introduction to Programming Using Java 3
+CS-150 Programming in C 3
+CS-220 Database Management 3
+
+131 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY

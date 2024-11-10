@@ -1,0 +1,6 @@
+approaches including convolutional neural networks and other deep learning
+approaches, and students will learn how to apply these technologies to a given problem
+in the computer vision domain. Prerequisite: CS-502 (3)
+CS-712 - Research Methods
+This is part one of a two course sequence in research and writing. In part one, students
+work to identify a research topic and, as initial research begins, they investigate

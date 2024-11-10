@@ -1,0 +1,5 @@
+In the modern digital age, data has become an integral part of human life. From social media platforms to financial institutions, healthcare systems to e-commerce, data is continuously generated and consumed in immense volumes. As we enter the era of big data and artificial intelligence, one field has emerged from the shadows to the forefront of the job market: Data Science. A Bachelor of Science in Data Science is becoming an increasingly attractive choice for young people deciding their career paths. Here's why.
+	
+A High Demand Field
+Firstly, the demand for data scientists is skyrocketing. The Harvard Business Review famously labeled Data Science as the "sexiest job of the 21st century" back in 2012, and since then, the demand for data scientists has only grown. According to a report by IBM, jobs in data science and analytics are projected to grow by nearly 28% by 2024. The explosion of big data and companies' need to make sense of it all have turned data scientists into corporate rock stars.
+Competitive Salary

@@ -1,0 +1,6 @@
+hands-on techniques to implement data preparation, model building, model evaluation
+and model deployment, using the leading industry language Python. Students will
+demonstrate an ability to apply predictive analytics techniques to a given problem.
+Students should be familiar with a high-level programming language, preferably Python.
+(3)
+254 | 2022 - 2023 CATALOG

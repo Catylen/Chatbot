@@ -1,0 +1,16 @@
+IAE-884 - Special Topics V in Information Assurance
+This course provides students the opportunity to examine in-depth issues relevant to
+information assurance. Students must request a faculty member who is a topic specific
+expert to facilitate the course. This course may result in a publishable paper in the IA
+field. (3)
+IE-701 - Principles of Design Engineering Computer Networks
+Networking and the Internet have introduced us to a new set of devices and protocols
+that link personal computers to servers, and servers to servers. This course explores all
+the hardware and software that drives local and Internet computing. Special emphasis
+on connectivity and throughput is explored. (3)
+IE-703 - Thin & Fat Client Deployment w/SOA
+Client/Server has been extended to multi-tiered environments, distributed
+communications via CORBA,COM/DCOM, service-oriented architecture (SOA) and Cloud
+computing models. To examine this shift and to understand the technologies involved,
+this course focuses on how these models are used to enable thin-and fat-clients as
+well as Web-based clients on desktops, servers and PDAs. This class will examine the

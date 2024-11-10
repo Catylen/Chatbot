@@ -1,0 +1,9 @@
+This course introduces the principles of machine learning (and data mining),
+representative machine learning algorithms, and their applications to real-world
+problems. Topics covered include basic approaches to clustering, classification
+and approximation of data functions, feature selection and dimension reduction,
+performance evaluation of alternative models, and relative strengths and weaknesses
+of alternative approaches. The course includes a laboratory component to provide
+students with hands-on experience in applying algorithms to problems in a variety of
+fields. The prerequisites for the course are basic knowledge of programming, basic
+knowledge of probability and statistics, and discrete mathematics. (3)

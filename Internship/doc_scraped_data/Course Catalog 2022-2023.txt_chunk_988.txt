@@ -1,0 +1,15 @@
+forms; exponential, logarithmic, trigonometric and hyperbolic functions; differentiation
+and integration, and graphing. Prerequisite: MA-114. (4-0-4)
+MA-262 - Calculus II
+This course centers on methods of integration, including completing the square,
+substitution, partial fractions, integration by parts, trigonometric integrals, power series,
+and parametric equations. It also addresses partial derivatives, directional derivatives,
+and an introduction to multiple integrals. Prerequisite: MA-261. (4-0-4)
+MA-263 - Calculus III
+This course focuses on multivariable and vector calculus; integrals in two- and threedimensional coordinate systems; cylindrical and spherical coordinates; vector functions
+and their derivatives; gradients, divergence, and curl; and Stokes theorem, Green’s
+theorem, and Gausses theorem. Prerequisite: MA-262. (4-0-4)
+MA-300 - Mathematical Methods for Engineering
+This course provides a basic understanding of MATLAB software for engineering, such
+as the basic matrix, matrix manipulation, college algebra and trigonometric concepts. In
+addition, MATLAB techniques for solving problems by means of calculus and differential

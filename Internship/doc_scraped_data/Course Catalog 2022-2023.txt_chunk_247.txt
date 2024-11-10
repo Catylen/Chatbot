@@ -1,0 +1,32 @@
+Construction Management 39 Credits
+CM-120 Introduction to Construction Management 3
+CM-125 Construction Graphics and Plan Reading 3
+CM-220 Construction Methods and Materials w/lab to cover II 3
+CM-230 Estimating I 3
+CM-250 Legal Issues in Construction 3
+CM-260 Statics and Strengths of Materials (after math and physics) 3
+CM-270 Safety Management 3
+CM-301 Construction Project Management 3
+CM-330 Estimating II 3
+CM-350 Construction Planning and Scheduling 3
+CM-375 Mechanical and Electrical Systems 3
+CM-380 Environmental Systems 3
+CM-450 Management of Field Operations 3
+Capstone 6 Credits
+CM-457 Internship in Construction Management 3
+CM-458 Senior Design Project 3
+Critical Infrastructure 9 Credits
+CRI-210 Critical Infrastructure I 3
+CRI-310 Critical Infrastructure II 3
+CRI-410 Critical Infrastructure III 3
+Business 9 Credits
+BUS-270 Financial Accounting I 3
+BUS-283 Managerial Accounting 3
+BUS-372 Financial Management 3
+Cybersecurity 15 Credits
+CS-120 Introduction to Python 3
+CT-152 Introduction to UNIX 3
+IAE-201 Introduction to Cybersecurity 3
+IAE-250 Comprehensive Computer/Network Security 3
+IAE-325 Secure Data Communications and Crypto 3
+Mathematics and Science 19 Credits

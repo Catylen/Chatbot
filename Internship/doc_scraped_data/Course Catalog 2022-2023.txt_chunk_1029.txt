@@ -1,0 +1,6 @@
+lecture and three hours laboratory. (2-3-3)
+MEC-220 - Principles of Mechatronics
+This course will introduce you to Mechatronics as a multidisciplinary engineering
+discipline that includes electronics, electrical, mechanical, computer systems
+engineering, together with information technology. Theory lectures will introduce the
+core components of mechatronic systems: electrical and electronic components and

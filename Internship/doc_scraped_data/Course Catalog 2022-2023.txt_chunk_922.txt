@@ -1,0 +1,16 @@
+Students enrolled in this course incur an additional lab fee of $100.
+IAE-571 - Software Assurance Assessment
+This course covers the fundamentals of establishing a required level of software and
+system assurance, applying methods and determining measures to assess whether the
+required level of assurance has been achieved. Topics include assessment methods;
+defining product measures, process measures and other performance indicators;
+measurement processes and frameworks; performance indicators for business
+survivability and continuity; and comparing selected measures to determine whether the
+software/system meets its required level of assurance. These fundamentals are applied
+to newly developed software and systems as well as during the acquisition of software
+and services. (3)
+IAE-572 - Software Assurance Development
+This course covers the fundamentals of incorporating assurance practices, methods,
+and technologies into software development and acquisition life-cycle processes and
+models. With this foundation, the course provides students with rigorous methods
+for eliciting software and system assurance requirements, using threat identification,

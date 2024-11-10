@@ -1,0 +1,36 @@
+130 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Undergraduate Studies
+
+applicable domains (air, space, ground, and maritime), including assessing
+appropriateness of major elemental components, evaluating limitations and
+constraints, formulating theory of operation, and supporting the perceived
+need.
+
+Unmanned and Autonomous Systems - Data Core 21 Credits
+CS-120 Introduction to Programming Using Python 3
+CS-150 Introduction to Programming in C 3
+CS-220 Database Management 3
+CT-206 Scripting Languages 3
+IAE-201 Introduction to Information Assurance Concepts 3
+UAS-420 Data Acquisition and Post-Processing 3
+UAS-430 UAS Data Visualization and Presentation 3
+
+Undergraduate Studies
+
+English, Humanities, and Social Sciences 18 Credits
+EN-101 English Communications I 3
+EN-102 English Communications II 3
+HU-331 or HU-332 Arts and Ideas 3
+SS-351 Ethics 3
+Social Science Elective 3
+Humanities Elective 3
+Mathematics and Physical Sciences 19 Credits
+MA-114 Algebra and Trigonometry 4
+MA-124 Discrete Mathematics 3
+MA-128 Introduction to Statistics 3
+PH-201 General Physics I 3
+PH-202 General Physics II 3
+AE-390 Aviation Meteorology 3

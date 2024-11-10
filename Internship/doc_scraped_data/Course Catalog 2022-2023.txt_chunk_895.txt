@@ -1,0 +1,14 @@
+Building on IAE-201, this course provides learners with detailed and hands-on
+knowledge of computer and network security. The course emphasizes current
+topics such as network security, compliance and operational security, threats and
+vulnerabilities, application security, access control, as well as cryptography. Additionally,
+underlying theory and concepts are presented in order to extend learners’ understanding
+of computer and network security. Weekly laboratory exercises are utilized to reinforce
+practical, real-world security techniques. Classes are a mixture of lecture, current event
+discussions, and laboratory exercise review and will prepare learners for the CompTIA
+Security+ certification. Pre-requisite: IAE-201 (3-0-3) *FORMERLY IAE-301 NOTE:
+Students enrolled in this course incur an additional lab fee of $100.
+IAE-260 - Secure System Administration & Operations - UNIX
+This course is an overview of securing the UNIX operating system. The content will
+include a basic introduction of shell programming, process management, and processor
+management, storage management, scheduling algorithms, resource protection and

@@ -1,0 +1,17 @@
+MA-128 - Introduction to Statistics
+This course addresses probability: definitions, theorems, permutations and
+combinations; binomial, hypergeometric, Poisson and normal distributions; sampling
+distribution and central limit theorem; and estimation and hypothesis testing.
+Prerequisite: MA-110, MA-111 or MA-112. (3-0-3)
+MA-230 - Introduction to MATLAB
+Introduction to MATLAB is a short course covering its basic operations and features,
+intended for students with little or no experience with the Software. We will work
+through applications in engineering, physics and mathematics, and provide a grounding
+for developing tools for students own projects. Topics include import/export data,
+create and manipulate variables, program and run scripts (M-files), use graphics tools
+to display data, and use the built in help features. Prerequisites: CT-115. MA-114
+Corequisites: MA-261, PH-261/201. (3-0-3)
+MA-261 - Calculus I
+This course covers lines, circles, ellipses; functions and limits, differentiation, power
+rule, higher-order derivatives, product, quotient and chain rules, implicit differentiation,
+and applications. Regarding integration, it addresses definite integrals; indeterminate

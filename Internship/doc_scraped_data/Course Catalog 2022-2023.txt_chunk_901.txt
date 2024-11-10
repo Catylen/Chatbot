@@ -1,0 +1,14 @@
+This course will explore the unique challenges presented by wireless networking,
+including the management of dual network devices (Bluetooth, 3G, 4G, and WiFi).
+Students will evaluate emerging business and technical initiatives, such as bring your
+own device (BYOD) and securely implement mobile IP networks based on IPv4, IPv6
+and the 3GPP. Students will learn penetration testing strategies to effectively evaluate
+currently implemented security controls, utilizing cutting edge tools such as BackTrack
+5, Vistumbler, Wireshark, and inSIDDer for network discovery and packet analysis.
+Additionally, students will be exposed to the site survey, network management and
+analysis capabilities of industry leading software such as Air Magnet, Ekahau and
+OmniPeek. Students are required to purchase an Alfa wireless adapter and acquire a
+wireless router for this class. This course prepares students for the Certified Wireless
+Security Professional (CWSP) Certification. Pre-requisites: IAE-250 and CT-240. (3-0-3)
+IAE-325 - Secure Data Communications & Cryptography
+This course follows the protocol education provided in IAE-250 with a more detailed

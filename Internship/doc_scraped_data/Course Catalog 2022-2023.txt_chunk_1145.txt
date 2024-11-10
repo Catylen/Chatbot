@@ -1,0 +1,16 @@
+include software testing at the unit, module, subsystem and system levels; coverage
+criteria, manual and automated techniques for test validation and data generation;
+formal testing processes and standards (with an emphasis on CMMI); rational tools
+suite; inspections; black box vs. white box testing; functional testing; and testability
+analysis. Prerequisites: CS-225 or CS-230 or CS-200. (2-2-3)
+SE-457 - Senior Design Project I
+Students/teams select a project, develop an understanding of the project scope that
+includes research and documentation of related work, prepare a feasibility study,
+develop project requirements (constraints) and engineering, software, and/or security
+specifications, propose solutions and multiple designs, analyze proposed designs,
+select a final proposed design, and prepare and present a preliminary design review
+(PDR). Students are expected to apply proper systems engineering and project
+management to their work. Additional components may be required in some projects.
+Students/teams submit a final report at the end of the semester. Pre-requisite: Senior
+standing. (3-0-3)
+SE-458 - Senior Design Project II

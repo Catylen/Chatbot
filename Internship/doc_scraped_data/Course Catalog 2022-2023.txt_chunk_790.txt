@@ -1,0 +1,16 @@
+Students/teams build and test their selected designs (completed in EE-457). Each
+student team delivers a tested prototype and defends its project in front of a panel of
+experts. Students/teams submit a final report that includes description of the design,
+realization, and test processes as well as test results, discussion, and conclusion.
+Failure to deliver a completed design and a working prototype that meets engineering,
+software, and/or security specifications by the end of the semester may result in failing
+the course. *Note: Course must be completed with a grade of “C” or higher to meet
+undergraduate graduation requirements. Prerequisite: EE-457 (3-0-3)
+EE-459 - Electromagnetic Field Theory
+Continuation of EE-419. Time-varying electric and magnetic fields. Boundary conditions.
+Maxwell’s equations and applications to wave phenomena. Relation of classical circuit
+theory to Maxwell’s equations. Prerequisites: PH-263 and MA-340. Offered during spring
+semester only. (3-0-3)
+EE-460 - Electromagnetic Fields
+Stationary electric and magnetic fields. Gauss’s Law, Laplace and Poisson’s equations.
+Solutions to static field problems. Ampere’s Law, Faraday’s Law. Time-varying electric

@@ -1,0 +1,2 @@
+Students will explore several popular agile processes and frameworks which may
+include some of the following, amongst others: Adaptive Software Development, Agile

@@ -1,0 +1,141 @@
+Degree Details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The B.S. in Data Science degree is a total of 122 credits, which covers business management, business analytics, mathematics and sciences, English and social science courses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curriculum
+
+Bachelor of Science - 122 Credits
+Business Management - 33 Credits
+
+
+
+BUS-270 Financial Accounting
+3
+
+
+BUS-275 Human Resource Management
+3
+
+
+BUS-279 Introduction to Leadership
+3
+
+
+BUS-289 Entrepreneurship and Small Business Management
+3
+
+
+BUS-301 Project Management
+3
+
+
+BUS-358 Internship
+3
+
+
+BUS-378 Legal Environment of Business
+3
+
+
+BUS-386 Organizational Theory/Behavior
+3
+
+
+BUS-410 Strategic Management
+3
+
+
+SDE-457 Senior Design Project I
+3
+
+
+SDE-458 Senior Design II
+3
+
+
+
+Analytics - 42 Credits
+
+
+
+DS-101 Introduction to Data Sciences
+3
+
+
+CS-120 Intro to Programming Using Python
+3
+
+
+CS-150 Programming in C
+3
+
+
+CS-220 Database Management
+3
+
+
+CS-240 Introduction to Data Mining
+3
+
+
+BUS-240 Statistical Methods in Data Science
+3
+
+
+BUS-245 Writing and Communication in Data Science
+3
+
+
+BUS-284 Data Identification and Collection Strategies
+3
+
+
+BUS-310 Data Mining for Effective Decision Making
+3
+
+
+CS-350 Data Visualization
+3

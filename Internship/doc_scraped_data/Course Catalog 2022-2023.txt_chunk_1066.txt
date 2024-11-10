@@ -1,0 +1,16 @@
+The student will also develop a business case, examine ways of winning buy-in from
+the people whose support is essential to success, and develop a product charter.
+Prerequisite: PRM-500. (3)
+PRM-520 - New Products Process
+The success of new products is highly dependent on the quality of a company’s product
+development practices and processes. This course explores how structured and
+consistent processes across an organization contribute significantly to the successful
+development of products. The Stage-Gate, Integrated Product Development (IPD),
+Waterfall, Agile, Lean, and Design Thinking product development models all have
+advantages in specific situations. Students will learn the principles of each model and
+how to apply one or more of those models to particular circumstances. Students will
+also gain advanced knowledge of the software development process (e.g., Agile, Scrum,
+Jira, Git, DevOps, QA, etc.) and the UX design process and tools (e.g., User Research,
+Prototyping, Usability Testing, INvision, Balsamiq. etc.) to work effectively with
+developers, UX designers, and data scientists/analysts. Prerequisite: PRM-500. (3)
+PRM-530 - Product Management Tools & Metrics

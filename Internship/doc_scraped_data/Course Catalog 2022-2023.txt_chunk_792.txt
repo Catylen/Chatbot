@@ -1,0 +1,24 @@
+281 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+EE-458 - Senior Design Project II
+
+EE-461 - Communications Theory
+Fourier analysis. Signal and spectral analysis of AM and FM systems. Noise
+representations; power spectral density and quadrate decomposition. Signal-to-noise
+improvement in AM and FM demodulators. Maximum likelihood digital signal detection.
+Signal space representation of modulated signals. Modulated signal detection and
+bit-error rate calculations for OOK, BPSK, QPSK, QAM, M-ary PSK and M-ary FSK.
+Prerequisites: EL-261 and MA-345. (3-0-3)
+EE-463 - Control II
+Introduction to state diagrams and state equations. Solutions of state equations for
+simple systems. Root-locus techniques, compensation, optimization of stability and
+error. Multiparameter root locus. Nyquist criterion and time domain design. System
+performance indexes: ISE, IAE, ITAE and ITSE. Modern control engineering: state
+variable methods, controllable and observable/estimator, observer design and design
+of optimal control system. Prerequisites: EE-453. Offered during spring semester only.
+(3-0-3)
+EE-500 - Advanced Signals and Systems

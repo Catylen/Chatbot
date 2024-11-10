@@ -1,0 +1,15 @@
+Upon approval from the University Reviewers and Ph.D. Review Board, the student will
+prepare and deliver an oral presentation summarizing the body of research and defend
+the same through viva voce (i.e., oral examination). The student’s Chair, Committee, and
+Ph.D. Review Board will confer to determine if the student has provided a sufficient and
+necessary final oral defense of the research. (6)
+SE-301 - Software Engineering
+Introduction to software design. Software performance, modularity, portability and
+reliability. Students apply engineering principles to create software solutions to
+specified problems. Software testing and CASE tools introduced. Emphasis on UML and
+object-oriented code. Prerequisite: CS-220. Offered during Fall semester only. (2-2-3)
+SE-321 - Human Computer Interaction
+Students learn user-centered design of computer systems with the goal of high
+usability. Emphasis is on designing systems that are efficient, easy-to-use, enjoyable
+and effective. Explores the selection of interaction style, hardware, and the use of
+color, font, text and images. Explores design implications due to user characteristics

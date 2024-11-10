@@ -1,0 +1,22 @@
+PRM-540 - Leveraging Expert Systems
+This course focuses on Expert Systems, Big Data, and Business Analytics within the
+context of product management. The student’s knowledge base will expand through
+an exploration of the role of Expert Systems in product development and lifecycle
+management. The student will also demonstrate how the Product Manager can apply
+Big Data and Business Analytics to help improve product competitiveness and find new
+opportunities. Prerequisite: PRM-500 (3)
+PRM-600 - Designing & Developing Great Products
+Students will design a new product in this course. The student will develop prototypes
+of increasing precision. The student will evaluate design feedback from customers and
+continue improving their product. During the process, students will also analyze a range
+of development issues and best practices, including the use of sprints, establishment of
+appropriate infrastructure, progress tracking, and working with remote and third-party
+teams. Prerequisite: PRM-500 (3)
+PRM-610 - Managing the Life of a Product
+This course will prepare the student for a product launch through close coordination
+
+345 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses

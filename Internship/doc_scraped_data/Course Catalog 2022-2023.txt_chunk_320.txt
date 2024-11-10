@@ -1,0 +1,32 @@
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Undergraduate Studies
+
+Course Requirements
+Bachelor of Science 121 Credits
+Course Credits
+
+EN-102 English Communications II 3
+HU-220 Critical Thinking 3
+HU-225 Writing for the Internet 3
+HU-331 Arts and Ideas 3
+SS-171 Introduction to Psychology 3
+SS-351 Ethics 3
+
+The Bachelor of Science in Software Engineering teaches students to design and
+program computers and computer-based systems. The program produces practical
+software engineers who can analyze and determine the needs of a system and apply
+engineering principles to create software and hardware solutions. Students study
+modern programming languages, algorithm development, software design and testing,
+as well as computer organization and architecture, micro-controller system design,
+programmable chip technology, and knowledge acquisition using UML. All students will
+complete a capstone in which they propose, design, build, test and deliver a working
+software application.
+Student Outcomes
+Upon graduation, graduates will be able to
+•
+
+Identify, formulate and solve complex engineering problems by applying
+principles of engineering, science and mathematics
+
+•

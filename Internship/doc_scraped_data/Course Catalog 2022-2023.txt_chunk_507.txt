@@ -1,0 +1,22 @@
+211 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+AE-200 - High Vacuum Testing Techniques
+
+planning. Prerequisite: AE-150. Offered during Spring semester only. (3-0-3)
+AE-260 - Ground Systems Testing
+In this course, students will study software testing techniques that are applicable to
+any satellite ground system. Topics covered include what is a ground system and
+why we test, different types of ground system testing, developing test cases, creating
+test matrices and reports, writing testing requirements and understanding different
+requirement level, what defines a good test / bad test, and SFOTC automated testing.
+Prerequisite: AE-250 or permission of the instructor/department chair. (3-0-3)
+AE-311 - Spacecraft Systems
+Design of spacecraft for different applications and missions. Passive and active
+devices. Designing with redundancy and reliability. Heating and cooling thermal issues.
+Power handling, telemetry, and communications with antenna design. Propulsion,
+Thrusters, and maneuvering. Command and control systems. Prerequisite: AE-150 or
+equivalent background. Offered during Fall semester only. (3-0-3)

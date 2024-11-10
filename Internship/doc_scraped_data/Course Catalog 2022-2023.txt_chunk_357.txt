@@ -1,0 +1,14 @@
+The Doctor of Philosophy in Computer Science provides students with the opportunity
+to conduct extensive and sustained original research at the highest level in the field of
+operational technology. Computer Science (CS) is a multifaceted discipline. CS is the
+hardware and software that detects or causes a change, through the direct monitoring
+and control of industrial equipment, assets, processes, and events. CS is also the
+technology that interfaces with the physical world, including Industrial Control Systems
+(ICS), Supervisory Control and Data Acquisition (SCADA) Distributed Control Systems
+(DCS), and the Internet of Things (IoT). The PhD in Computer Science is a unique
+doctoral program designed to meet the demands of the highest skilled professionals to
+become the leaders who will be involved in the advancement, expansion, and support
+of the Computer Science industry. Computer Science has existed since the discovered
+ability to use and store business data with machines and electricity has powered
+machinery and equipment in factories, buildings, transportation, systems, the utility
+industry, and more. However, the accelerating convergence of CS with Information

@@ -1,0 +1,4 @@
+addition, MATLAB techniques for solving problems by means of calculus and differential
+equations are introduced. Successful completion of this course will enable students
+to begin the study of more advanced topics such as the statics and dynamics classes
+taken by most engineering majors. Prerequisites: MA-261 and MA-230. (3-0-3)

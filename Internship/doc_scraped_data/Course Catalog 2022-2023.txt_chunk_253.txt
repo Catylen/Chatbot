@@ -1,0 +1,30 @@
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Undergraduate Studies
+
+Course Credits
+
+BUS-101 Introduction to Data Science 3
+HU-331 Arts and Ideas 3
+SS-351 Ethics 3
+BUS-301 Project Management 3
+SS-171 Introduction to Psychology 3
+HU-220 Critical Thinking 3
+BUS-114 Advanced Excel 3
+
+The Bachelor of Science in Cyber Analytics prepares students to meet the needs of
+government, industry, and non-profits to evaluate statistical data to determine the state
+of the organization’s security posture. These statistics must be combined with relevant
+facts specific to the entity, including competitors, market position, and socio-political
+factors to determine the threat landscape. The program combines a foundation in
+cybersecurity with hands-on project-based coursework, providing analytic experience
+that can be applied to a wide range of technology areas. All students will complete a
+capstone in which they propose, design and develop a cyber analytics project.
+Student Outcomes
+Upon graduation, graduates will be able to
+•
+
+Analyze a complex computing problem and to apply principles of computing
+and other relevant discipline to identify solutions
+
+•

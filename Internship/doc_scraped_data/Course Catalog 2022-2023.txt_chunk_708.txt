@@ -1,0 +1,4 @@
+Perceptron, back propagation, self-organizing maps, Hopfield nets. Analysis and
+limitations of neural networks; programming neural networks using OOP. Prerequisites:
+MA-261. CS-130 or CS-225 with grade of B or better; Junior or Senior status; Good
+programming skills, knowledge of matrices and some calculus. (3-0-3)

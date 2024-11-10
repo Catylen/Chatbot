@@ -1,0 +1,5 @@
+subjects. Student primarily works in a guided study format with a mentor. Permission
+required from the instructor and academic dean. This course may be repeated with
+different projects. (1-4)
+CS-405 - Intro to Software Design with UML
+Undergraduate version of CS-505. Object Oriented principals and concepts, classes,

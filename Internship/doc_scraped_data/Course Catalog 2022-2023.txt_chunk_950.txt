@@ -1,0 +1,4 @@
+course, students will be able to: (a) utilize industry best practices and frameworks to
+design a complete and customizable Information Security Program for any organization;
+(b) understand how to manage the program from an executive (CISO) level; (c) and have
+the knowledge necessary to take the CISSP exam. Prerequisite: IAE-685 (3)

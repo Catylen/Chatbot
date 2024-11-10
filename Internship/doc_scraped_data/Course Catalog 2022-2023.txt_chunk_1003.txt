@@ -1,0 +1,7 @@
+plots. Addresses more advanced methods such as scatterplot matrices enhanced by
+smoothed or density contours, and search tools for finding graphics with suggestive
+patterns. Course will introduce R software for analysis. A final project will involve
+visualization of a real data set. Prerequisite: MBA-510. (3)
+MBA-520 - Big Data Warehousing & Analytic Systems
+This course will equip the student with the necessary skills to solve complex problems
+and design solutions using Big Data. The student will be able to gain an understanding

@@ -1,0 +1,15 @@
+Continuation of Digital Design I. Students explore larger-scale digital arithmetic and
+logic development using VHDL and a current FPGA development board. Students design
+and build circuits according to design objectives in two parts: students design, compile
+and verify their circuits using timing simulation on computers; then build and test
+circuits for upload to an FPGA. Final project involves design, assembly and testing of a
+VHDL-based system. Prerequisite: EE-304. Offered during spring semester only. (2-2-3)
+EE-359 - High-Frequency Circuit Design
+Students are taught to design, build and test microwave amplifiers using S-parameters
+and Smith Charts in conjunction with modern circuit design and simulation software.
+Both bipolar and field effect transistors are used to design amplifiers to specifications
+regarding signal flow gain, noise figure and intercept point. Students fabricate
+microstrip circuit boards using an in-house milling machine and then test the completed
+amplifiers in the laboratory. Actual and simulated results are presented. Prerequisite:
+EE-309. (2-2-3)
+EE-362 - Microcontroller System Design

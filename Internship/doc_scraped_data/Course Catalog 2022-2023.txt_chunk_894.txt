@@ -1,0 +1,7 @@
+system security; IP security; user authentication schemes; web security; email security
+protocols; intrusion detections; viruses; firewalls; Virtual Private Networks; network
+management and security policies and procedures. Laboratory projects are assigned
+as part of the homework requirements. Classes are a mixture of lecture, current event
+discussions, and laboratory exercises. Prerequisites: MA-110 or MA-112 or MA-114 or
+MA-261. (3-0-3) NOTE: Students enrolled in this course incur an additional lab fee of
+$100.

@@ -1,0 +1,5 @@
+or CS-200. Corequisite: MA-124. (3-0-3)
+CS-240 - Introduction to Data Mining
+This course will introduce basic concepts of data mining including data exploration,
+preparation, supervised and unsupervised learning algorithms, model evaluation and
+deployment. Students will learn to utilize one or more tools used in data mining to

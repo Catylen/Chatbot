@@ -1,0 +1,19 @@
+TC-312 - Voice Over Internet Protocol
+This course offers students a hands-on approach for learning how Voice Over IP works,
+how it’s planned and how it’s implemented. The students will be expected to complete
+a series of labs on equipment and simulators to build shared data and voice networks.
+Students will work with specialized high performance networking equipment such as
+phones and switches that primarily support three functions. Students will configure
+VLAN networks to support the VOIP infrastructure. The commercial software such
+as Cisco Communication Manager Express (CME) and Cisco Unified Communication
+Manager (CUCM) will be used. Prerequisite: CT-240 or equivalent. (2-2-3)
+TC-319 - Network Infrastructure Security
+This course focuses on how to secure network infrastructures through hands on labs,
+since many attacks are geared to degrade, compromise and even disable network
+infrastructures. Some of the tasks covered will be the securing of network switches
+
+369 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Resources

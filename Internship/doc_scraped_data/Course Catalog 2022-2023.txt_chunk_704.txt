@@ -1,0 +1,23 @@
+259 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+CS-714 - Computer Science Seminar
+
+methodologies and strategies suitable for understanding Computer Science and
+address the data sources, information, and intelligence to test a hypothesis or research
+question. It is expected the student will be building upon CS-800 in refining and
+developing their research task and plan. (6)
+CS-820 - Computer Science Future Demands
+Under a Chair and committee, a student will research the future demands in the
+Computer Science industry and how these influence specific research questions. Data
+collection and applications will be central to evaluating the needs of Computer Science
+on the short, medium and long term. The literature review will be more specific in focus
+and direction at this stage. (6)
+CS-830 - Strategies for Computer Science
+The student will undertake a robust and comprehensive analysis of the strategies for
+the growth and evolution of the Computer Science industry under the direction of their
+Chair/committee. (6)
+CS-840 - Computer Science Research Proposal

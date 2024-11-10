@@ -1,0 +1,19 @@
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+IAE-310 - Strategies for Cyber Competition
+
+evidence or data from a mobile device under forensically sound conditions. The scope
+of devices can include mobile phones and any digital device that has both internal
+memory and communication ability, including PDA and GPS devices and tablet
+computers. This course focuses on the forensic study of mobile devices due to the
+rapid proliferation of smartphones and applications such as contacts, photos, calendars
+and notes, SMS and MMS messages, video, email, web browsing information, location
+information, and social networking. This increased usage has also seen a marked
+increase in cybercrime involving smartphones. Students will learn how to perform
+the forensic examination of mobile devices using the most advanced tools available.
+Note: Students are required to purchase a mobile device specifically to fulfill course
+lab requirements. This course prepares students for the AccessData Mobile Phone
+Examiner Plus (MPE+) Certification. Prerequisite: IAE 201 and 311. (3-0-3). Lab Fee
+Required.

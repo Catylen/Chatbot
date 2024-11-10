@@ -1,0 +1,14 @@
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Resources
+
+This course presents the challenges to unmanned and autonomous systems (UAS)
+encountered in their operational capacities. The student is exposed to the aspects
+of extreme environments where the vehicles and communications must operate in
+all conditions. The presence of adverse factors and disturbances could disrupt the
+function of the communications and controllers and lead to significant degradation
+of performance, causing instability and possible damages. Students learn to match
+platform capabilities, communications abilities, and payloads with the mission
+requirements to meet the demands of a variety of environments. The students develop
+an understanding of extreme or uncertain environments, the limitations inflicted on UAS
+systems, and possible methods to overcome them. Prerequisite: UAS-140. (3-0-3)

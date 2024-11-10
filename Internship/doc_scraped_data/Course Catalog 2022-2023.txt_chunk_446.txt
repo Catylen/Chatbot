@@ -1,0 +1,27 @@
+Course Requirements
+Master of Science 33-36 Credits
+Course Credits
+
+Cybersecurity 21 Credits
+IAE-500 Introduction to Information Assurance* 3
+IAE-675 Computer Forensics and Incident Handling 3
+IAE-677 Malicious Software 3
+IAE-679 Vulnerability Mitigation 3
+IAE-680 Perimeter Protection 3
+IAE-682 Internal Protection 3
+IAE-685 Principles of Cybersecurity 3
+Computer Science 3 Credits
+CS-620 Operating System Principles for Information Assurance** 3
+*IAE-500 can be waived with appropriate documentation.
+**Course substitution can be granted for CS-620 for students who demonstrate
+knowledge of UNIX and C programming.
+All required courses are offered exclusively online in an 8-week asynchronous format.
+For descriptions of required courses, see listing beginning on page 211.
+
+Aviation Maintenance (M.Res.)
+The Master of Research (M.Res.) in Aviation Maintenance degree is a unique program
+designed to meet the long-standing needs of disseminating research skills to those
+working with and dealing with the aviation related to all aspects of maintenance. The
+proposed M.Res. in Aviation Maintenance is for current professionals in the field of
+
+184 | 2022 - 2023 CATALOG

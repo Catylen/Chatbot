@@ -1,0 +1,16 @@
+UAS-457 - Senior Design Project I
+Students/teams select a project, develop an understanding of the project scope that
+includes research and documentation of related work, prepare a feasibility study,
+develop project requirements (constraints) and engineering, software, and/or security
+specifications, propose solutions and multiple designs, analyze proposed designs,
+select a final proposed design, and prepare and present a preliminary design review
+(PDR). Students are expected to apply proper systems engineering and project
+management to their work. Additional components may be required in some projects.
+Students/teams submit a final report at the end of the semester. Pre-requisite: Senior
+standing. (3-0-3) NOTE: Students enrolled in this course incur an additional lab fee of
+$350
+UAS-458 - Senior Design Project II
+Students/teams build and test their selected designs (completed in 457). Each student
+team delivers a tested prototype and defends its project in front of a panel of experts.
+Students/teams submit a final report that includes description of the design, realization,
+and test processes as well as test results, discussion, and conclusion. Failure to deliver

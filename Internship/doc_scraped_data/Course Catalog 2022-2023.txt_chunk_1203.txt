@@ -1,0 +1,15 @@
+UAS-502 - Unmanned & Autonomous Vehicle Systems
+This course provides an overview of theory and practice of unmanned and autonomous
+vehicle systems, including hardware, software, command, control, and communication
+(C3) structures of mobile robotic systems development. Topics include an overview
+of platforms (including land, air, marine, and space platforms), actuators and motion
+control, sensors and perception (including GPS, inertial, magnetic, active ranging,
+computer vision, photo detectors, and encoders), planning and navigation (including
+reactive, deliberative, and hybrid approaches to autonomy). Case studies, readings from
+current literature, and guest lectures present best practices in the field. The course
+includes a microprocessor-based project. Prerequisite: None. (3)
+UAS-510 - Unmanned Systems Autonomy & Automation
+This course provides students with an opportunity to examine the benefits, limitations,
+and capabilities of autonomous control technology and support for unmanned systems.
+The student will examine and evaluate elements, components, technology, and
+processing methods associated with autonomous and semi-autonomous operation

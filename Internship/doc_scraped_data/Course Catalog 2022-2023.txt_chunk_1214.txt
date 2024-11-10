@@ -1,0 +1,5 @@
+progress, and identifying the unique challenges of the technical aspects of autonomous
+systems and the ability to control them. Topics will include techniques for life cycle cost,
+performance measurement, modern methods of effective project management, quality
+management, risk management, functional analysis, and communications. Prerequisite:
+UAS-650. (3)

@@ -1,0 +1,3 @@
+to the instructor. Public-key infrastructure with certificate authorities and web-of-trust
+infrastructure methods is addressed. It is recommended that students complete IAE685 before taking this course, but this is not a requirement. (3) NOTE: Students enrolled
+in this course incur an additional lab fee of $100.

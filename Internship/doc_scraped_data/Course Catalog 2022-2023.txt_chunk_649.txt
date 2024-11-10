@@ -1,0 +1,15 @@
+The course will cover basic concepts and elements of computer programming using
+Python. Topics include variables, constants, operators, expressions, statements,
+branching, loops, and functions. Additionally, Python specific data structures, built-in
+functions, library modules and working with external files will be applied in developing
+working code. (3-0-3)
+CS-130 - Intro to Programming Using Java
+Introduces students to the discipline, methodologies, and techniques of software
+development. The emphasis is on developing essential programming skills, an
+understanding of object-oriented design and good software engineering practices using
+the Java programming language. Program constructs include selection, looping, arrays,
+graphical output of data, the use of the standard Java class library, and construction
+of simple user-defined classes. Programming projects are assigned as part of the
+homework requirements. Prerequisite: MA-110 or MA-112 or MA-114. Corequisite CS120 for BS in Computer Science majors only. (3-2-3)
+CS-150 - Programming in C
+This introductory course in programming will enable students to understand how

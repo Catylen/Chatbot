@@ -1,0 +1,22 @@
+The Master of Science in Computer Science is structured to focus on new technologies,
+graphics aimed at virtual realities, and the Internet. The program provides students
+with the advanced knowledge and skills necessary to design and use computerbased systems, with an emphasis on emerging technologies, including embedded
+languages, wireless technologies, miniaturization (PDAs), and data security. Students
+study computer language design, intelligent systems design, and multi-threaded and
+distributed programming and may specialize in an area of their choice, including
+information architecture, network security or advanced computer science. All students
+complete a capstone in which they identify a research topic and develop a major projectbased research paper.
+Student Outcomes
+Upon graduation, graduates will be able to
+•
+
+Critically and creatively conceptualize and evaluate diverse points of view
+and integrate their specialized knowledge in computer science across various
+fields
+
+•
+
+Apply their knowledge to critically analyze and evaluate the various
+conceptual frameworks in computer science
+
+•

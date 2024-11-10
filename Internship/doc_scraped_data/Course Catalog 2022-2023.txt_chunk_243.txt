@@ -1,0 +1,35 @@
+Undergraduate Studies
+
+Computer Programming 15 Credits
+CT-102 Introduction to Internet Applications 3
+CT-152 Introduction to UNIX 3
+CT-206 Scripting Languages 3
+CT-376 Javascript 3
+CT-406 Web Programming Languages 3
+Critical Infrastructure 9 Credits
+CRI-210 Critical Infrastructure I 3
+CRI-310 Critical Infrastructure II 3
+CRI-410 Critical Infrastructure III 3
+Mathematics and Science 22 Credits
+MA-112 Intermediate Algebra 3
+MA-114 Algebra & Trigonometry 4
+MA-124 Discrete Mathematics 3
+CH-120 Chemistry 3
+PH-201 General Physics I 3
+CS-130 Intro to Programing Using Java 3
+CS-150 Intro to Programming Using C 3
+Construction Management 12 Credits
+CM-120 Intro to Construction Management 3
+CM-125 Construction Graphics and Plan Reading 3
+CM-220 Construction Methods and Materials 3
+CM-250 Legal Issues in Construction 3
+Construction Software 15 Credits
+CTC-200 Construction IT and Cybersecurity Issues 3
+CTC-220 BIM and Graphic Software 3
+CTC-240 Estimating Software 3
+CTC-260 Scheduling Software 3
+CTC-280 Construction Project Management Software 3
+
+85 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY

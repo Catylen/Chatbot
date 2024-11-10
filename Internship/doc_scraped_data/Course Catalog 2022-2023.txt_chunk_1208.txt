@@ -1,0 +1,14 @@
+Includes hands-on experience with one or multiple user interface technologies. The
+theoretical foundation for designing interfaces is complemented by practical classroom
+exercises and the design and development of a prototype in a team-based setting using
+previously learned principles. Prerequisite: UAS-502. (3)
+UAS-640 - Data Analysis & Visualization
+This course is an introduction to key design principles and techniques for interactively
+visualizing data. Includes the review, design, planning, analysis and statistical
+interpretation of data to support unmanned and autonomous applications. The major
+goals of this course are to understand how visual representations can help in the
+analysis and understanding of complex data, how to design effective visualizations, and
+how to create interactive visualizations using modern web-based frameworks. Students
+will build on statistical theory and learn advanced techniques that can be applied to
+problem solving, research analysis and numerical interpretation of data. In addition,
+students will learn basic visualization design and evaluation principles, and learn how

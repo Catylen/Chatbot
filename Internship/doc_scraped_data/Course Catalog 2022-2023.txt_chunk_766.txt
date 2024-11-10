@@ -1,0 +1,15 @@
+DSM-920 - Big Data Warehousing & Analytic Systems
+This course will equip the student with the necessary skills to solve complex problems
+and design solutions using Big Data. The student will be able to gain an understanding
+of how to design databases to manage large volumes of data from multiple sources,
+and how that data can be analyzed and translated into meaningful results. The
+student will be introduced to the field of Analytics, gain an understanding of Enterprise
+Data Warehousing models, be introduced to Data Mining techniques and tools used
+for mining the data warehouse, and build specific Data Marts. The student will be
+introduced to predictive analysis and will be expected to develop models to extract
+data, perform trend analysis, establish patterns, and make projections. Prerequisites:
+Ability to use Structured Query Language with a basic relational database system;
+ability to read pseudo code, and understand basic data structures like arrays; and, an
+understanding of algebra and basic probability and statistics would be helpful, though
+not required. Prerequisite: DSM-915
+DSM-945 - Optimization Techniques for Management Development

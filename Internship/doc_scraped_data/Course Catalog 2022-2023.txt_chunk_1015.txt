@@ -1,0 +1,16 @@
+MBA-646 - Federal Contract Project Management
+This course provides an overview of the theory and practice of managing a project
+in an organizational setting. Fundamental concepts are covered to provide a solid
+understanding and foundation of managing each phase of the project life cycle,
+adhering to organizational and cost constraints, setting goals for stakeholders, and
+utilizing best practices to complete the project on time and within budget. Project
+management is examined in the realm of various technology fields. (3)
+MBA-647 - Methods of Project Management
+Methods of Project Management focuses on IT project management and is built
+around the Project Management Body of Knowledge (PMBOK). You will learn how IT
+projects differ from other kinds of projects and how the methods and techniques of
+project management must be modified/adapted for IT projects. In addition, you will
+gain an increased understanding of what managers do (or should be doing) and why
+managers ask you to do the things that they do. The course presents methods, tools,
+and techniques that can be used to effectively manage IT projects, both large and small.
+Prerequisite MBA-646 or equivalent. (3)

@@ -1,0 +1,37 @@
+•
+
+Utilize ethical principles in evaluating solutions, policies and practices
+relevant to computer science
+
+188 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+Computer Science (MS)
+
+•
+
+Communicate effectively and persuasively utilizing both oral and written
+modalities
+
+Course Requirements
+Master of Science 30 Credits
+Course Credits
+Core Courses 15 Credits (Complete 5 of the following 7 courses)
+CS-502 Predictive Analytics 3
+CS-507 Database Systems Implementation 3
+CS-510 Algorithms 3
+CS-604 Accelerated and Parallel Computing 3
+CS-605 Intelligent Automation 3
+CS-701 Artificial Intelligence 3
+CS-714 Computer Science Seminar 3
+Electives-5 courses (drawn from the following lists)
+Artificial Intelligence
+CS-511 Statistical Methods in Data Science 3
+CS-610 Machine Learning and Neural Networks 3
+CS-710 Big Data 3
+CS-711 Computer Vision and Deep Learning 3
+CS-716 Advanced Artificial Intelligence 3
+Courses

@@ -1,0 +1,8 @@
+evidence. This course prepares students for the AccessData Certified Examiner (ACE)
+and Mobile Phone Examiner Plus (MPE+) Certifications. Prerequisite: IAE-685 and CS620 or waiver. (3) NOTE: Students enrolled in this course incur an additional lab fee of
+$100.
+IAE-677 - Malicious Software
+This course examines malicious software detection and malicious software defenses
+including tripwire and signature software techniques. Viruses, worms and Trojan horses,
+logic bombs and malicious CGI scripts will be discussed. Students will review the
+316 | 2022 - 2023 CATALOG

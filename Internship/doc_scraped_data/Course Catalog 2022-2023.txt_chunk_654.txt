@@ -1,0 +1,15 @@
+This course provides a deeper look into the Java language with a special emphasis on
+object oriented design. Topics include multidimensional arrays, inheritance, interfaces,
+polymorphism, graphical user interfaces, exception handling, I/O, multithreading and
+Java Database Connectivity (JDBC). Programming projects are assigned as homework.
+Prerequisite: CS-130 Corequisite: CS-220. Offered spring semester only. (3-0-3)
+CS-230 - Data Structures
+Advance pointers and dynamic memory usage. Concepts of object-oriented design
+and programming. Includes classes, friend functions, templates, operator overloading,
+polymorphism, inheritance, exception handling, containers, iterators and the standard
+template library. Applications involve the use of simple data structures such as stacks,
+queues, linked lists and binary trees. Recursion, searching and sorting algorithms. The
+above concepts are implemented through a series of hands-on programming projects,
+all of which are completed as part of the homework requirements. Prerequisite: CS-225
+or CS-200. Corequisite: MA-124. (3-0-3)
+CS-240 - Introduction to Data Mining

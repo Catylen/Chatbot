@@ -1,0 +1,15 @@
+Application of engineering principles of research into a special project. Projects vary
+from semester to semester. Students primarily work in a guided study environment with
+a faculty mentor. Prerequisites: permission of instructor and department chair and at
+least junior standing. This course may be repeated with different projects. (1-4-3)
+EE-403 - Environment/Renewable Energy Systems
+Teaches the students theory and practice for direct production of electricity from
+alternate energy sources such as solar, wind and geothermal. Course material includes
+characteristics of direct energy conversion, and storage devices used in alternate
+energy sources. Impact of solar heating and lighting on building design is also
+introduced. Concepts of engineering economics are discussed as well. This course will
+expose students to concepts applied in electrical, civil and mechanical engineering and
+architecture. Prerequisite: Senior status. (3-0-3)
+EE-404 - Large-scale Digital Design
+Analysis and modeling of digital systems, VLSI, VHDL timing, objects and classes.
+VHDL-based design processes, concurrent and sequential assignments. Variable

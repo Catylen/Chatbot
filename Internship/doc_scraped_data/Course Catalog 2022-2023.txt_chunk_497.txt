@@ -1,0 +1,28 @@
+•
+
+Create appropriate policies and risk management plans for the legal and
+ethical considerations for specific types of Unmanned and Autonomous
+Systems.
+
+•
+
+Develop policies and risk management plans for the multiple types of sensors
+used for data collection aboard Unmanned and Autonomous Systems.
+
+•
+
+Develop policies and risk management plans for the types of detect, sense
+and avoid systems.
+
+•
+
+Differentiate the various levels of UAS automation and autonomy and
+associated policies and risk management plans and techniques.
+
+207 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+•
+
+Define the proper UAS safety policy, procedures, and risk management.

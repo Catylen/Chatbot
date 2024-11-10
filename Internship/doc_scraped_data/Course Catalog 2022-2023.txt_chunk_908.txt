@@ -1,0 +1,5 @@
+malicious programs. Students will explore the tools required for analysis and reverse
+engineering of malicious code, learn malware defense techniques, how malware
+functions, and will perform live analysis and reverse engineering exercises. Prerequisite:
+IAE-402 (3-0-3) NOTE: Students enrolled in this course incur an additional lab fee of
+$100.

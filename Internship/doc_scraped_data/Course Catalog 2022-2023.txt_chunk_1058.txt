@@ -1,0 +1,16 @@
+This course covers calculus-based physics. A continuation of PH-261, topics include
+wave motion, vibration and sound, electricity and magnetism, Coulomb’s Law, electrical
+fields, and induction. Prerequisite: PH-261. (3-2-4)
+PH-263 - Engineering Physics III
+This is a calculus-based physics course. It covers an introduction to light, lenses,
+and diffraction; photons and their interaction with matter; wave-particle duality, basic
+quantum discoveries leading to the Bohr atom and atomic spectra; and the interaction
+of electrons and photons with matter with special emphasis on the design of detectors
+and electronic devices that use quantum effects. Prerequisite PH-262. (3-2-4)
+PH-400 - Einstein’s Theory of Relativity
+Introduction to Einstein’s Special and General Theory of Relativity. Topics covered:
+the physics of Lorentz contraction, time dilation, the “twin paradox” and energy,
+momentum in Special Relativity; mass in Relativity, Schwarzschild metric, Black Holes
+and Cosmology, behavior of light and applications to Global Positioning Systems.
+Prerequisites: PH-263 and MA-340. (3-0-3)
+PH-463 - Quantum Physics

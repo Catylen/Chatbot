@@ -1,0 +1,4 @@
+from information security failures are used throughout the course. (3)
+IAE-672 - Cryptography
+Cryptography is indispensable for providing confidentiality of information in computer
+systems. This course explains the inner workings of cryptographic primitives and

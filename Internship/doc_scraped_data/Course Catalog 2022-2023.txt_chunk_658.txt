@@ -1,0 +1,6 @@
+modern security threats. The course explores core secure coding principles, strategies,
+coding techniques, and tools that aid programmers in developing more resilient and
+robust code. Students will develop and analyze C language code that demonstrates
+mastery of these secure coding principles. The course will also rely on industry
+standards and best practices such as SEI-CERT coding standards and OWASP top 10
+web application security risks. Prerequisite: CS-250 (3-0-3)

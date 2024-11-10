@@ -1,0 +1,14 @@
+This course covers homeland security as it is practiced globally, using significant
+countries around the world that face major and multi-natured domestic security threats
+as case studies. These countries include the United States, Canada, China, Great Britain,
+India, Israel, Russia, South Africa, United States, Sweden, and others. The homeland
+security threats facing these and other nations examined include climate change,
+cyber-attacks, man-made and natural disasters, terrorism, virus pandemics, border
+breaches, ungoverned territories, and others. Students will learn about the principles
+and components of emergency management, including analytic methodologies
+and software tools (including risk management tools) utilized by homeland security
+agencies around the world, with several of them used to produce class reports.
+Prerequisite: CTR-600; INT-600.
+CTR-660 - Comparative Cyber Security
+This class explores how government agencies around the world address cyber securityrelated threats facing them at the government and private sector levels (including
+their critical infrastructure sectors). Intelligence analytic- and emergency management

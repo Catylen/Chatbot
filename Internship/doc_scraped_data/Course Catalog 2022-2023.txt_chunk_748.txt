@@ -1,0 +1,15 @@
+and hacking groups that engage in cyber weapon attacks will be covered, focusing
+on the types of cyber-attacks that are conducted, as well as the motivations behind
+such attacks. Defense- in-depth principles, methodologies and tools required for
+effective cyber security programs will be covered. Also covered will be the principles
+and components of cyber-security- related emergency management that are required
+to mitigate such threats. In addition to the weekly discussion, students will produce a
+research paper that will focus on cyber threats against “country X” and its cyber-security
+response measures. Prerequisite: CTR-650.
+CTR-680 - Seminar in Terrorism & Counterterrorism
+Students will review counterterrorism-related Enterprise Security Risk Management
+(ESRM) methodologies and the approaches to identifying and prioritizing assets, risks,
+and mitigations that provide a return on investment (ROI). This will be based on the
+formula of Risk = Threat, Vulnerability, and Consequence. Leading experts in industry
+and government will be featured lecturers. Students will learn to effectively apply
+security risk management methodologies as a tool in their daily work. Prerequisite: Next

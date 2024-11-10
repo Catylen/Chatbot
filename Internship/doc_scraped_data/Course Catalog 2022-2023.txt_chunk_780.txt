@@ -1,0 +1,23 @@
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+EE-354 - Digital Design II
+
+peripheral interface and parallel I/O routines. A/D converter, real-time interrupts
+and timer applications. A series of three group projects are required leading up to
+a final stand-alone project. Prerequisite: EL-262 or microcomputer, micro-assembly
+background. (2-2-3)
+EE-364 - Computer Architecture
+Design and architecture of modern computers. System components: processor, memory
+and interfaces. Instruction sets and operations. Reduced instruction sets (RISC) and
+RISC architecture. Processor design to support RISC instruction set. Evolution to parallel
+processing and multiprocessing. Prerequisite: EL-204. Offered during spring semester
+only. (2-2-3)
+EE-382 - Robotic Systems
+An introduction to the design and control of autonomous robots. Mechanical
+considerations and review. Interfacing issues and programming. Sensors for
+perception and environmental detection and navigational ability. Students will develop
+algorithms and use machine learning techniques to generate programs to control
+electromechanical systems to perform tasks. Team based projects and laboratories.
+Prerequisites: EL-262. (2-2-3)

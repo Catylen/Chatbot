@@ -1,0 +1,15 @@
+intellectual value in the new paradigm. In addition, the latest changes to intellectual
+property law and regulation as a result of Internet commerce will be examined. (3)
+IE-719 - Capstone Course
+The capstone course is in graduate seminar format. Students will integrate the prior
+course work and personal experiences into a major paper or a project. (3)
+IE-730 - Supervisory Control And Data Acquisition Networks & Industrial Control
+Systems
+Industrial Control Systems (ICS) have been in existence for decades in the United
+States. These systems are relatively unknown to the general public and were designed
+to control our critical infrastructure such as utilities (electricity, nuclear power, and water
+treatment plant). Until recently, these systems were connected to company networks by
+privately owned IT networks based on private line technology. Public utility companies
+have begun to connect ICS networks to public networks such as the Internet as they
+transition to TCP/IP based networks. This trend is accomplishing the much-needed
+modernization of the nation’s IT networks supporting the critical infrastructure and

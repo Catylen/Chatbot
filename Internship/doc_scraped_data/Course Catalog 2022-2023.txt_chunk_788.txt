@@ -1,0 +1,16 @@
+state error and error coefficients calculation. Design of compensator. System bode
+plots, crossover frequencies, gain and phase margins. The course will stress use of a
+variety of famous industrial computer-aided control system design software packages.
+Prerequisite: MA-340 (2-2-3)
+EE-456 - Digital Signal Processing
+Discrete-time methods applied to continuous-time processes. Use of Z, fast-Fourier and
+discrete transforms. Design methods for digital filters. Digital filter software packages
+introduced. Prerequisite: EE-406. Offered during spring semester only. (2-2-3)
+EE-457 - Senior Design Project I
+Students/teams select a project, develop an understanding of the project scope that
+includes research and documentation of related work, prepare a feasibility study,
+develop project requirements (constraints) and engineering, software, and/or security
+specifications, propose solutions and multiple designs, analyze proposed designs,
+select a final proposed design, and prepare and present a preliminary design review
+(PDR). Students are expected to apply proper systems engineering and project
+management to their work. Additional components may be required in some projects.

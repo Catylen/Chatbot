@@ -1,0 +1,3 @@
+and secure web site coding. Programming projects, including a group project, are
+assigned as part of the homework requirements. Prerequisites: CS-220 and CS-225 or
+CS-230 and CS-200. (3-0-3)

@@ -1,0 +1,15 @@
+This advanced course will equip the student with the necessary skills to solve complex
+problems and design solutions using Big Data. The student will be able to gain an
+understanding of how to design databases to manage large volumes of data, and
+how that data can be analyzed and translated into meaningful results. The student
+will be introduced to the field of Analytics, gain an understanding of Enterprise Data
+Warehousing models, be introduced to Data Mining techniques and tools used
+for mining the data warehouse, and build specific Data Marts. The student will be
+introduced to predictive analysis, and will be expected to develop models to extract
+data, perform trend analysis, establish patterns, and make projections. CS-511
+recommended. (3)
+CS-711 - Computer Vision and Deep Learning
+This course will cover modern developments in computer vision and image processing,
+particularly the use of machine learning and deep learning technologies to achieve
+solutions to computer vision problems. The course covers relevant deep learning
+approaches including convolutional neural networks and other deep learning

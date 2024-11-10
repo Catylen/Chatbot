@@ -1,0 +1,39 @@
+111 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Undergraduate Studies
+
+Course Requirements
+Bachelor of Science 121 Credits
+Course Credits
+
+CRI-210 Critical Infrastructure I 3
+CRI-211 Critical Infrastructure II 3
+CRI-212 Critical Infrastructure III 3
+
+Cybersecurity 12 Credits
+NT-150 Computer Networking 3
+IAE-201 Introduction to Information Assurance Concepts 3
+IAE-250 Comprehensive Computer and Network Security 3
+IAE-351 Intro to Cyber Network Operations 3
+Mathematics 10 Credits
+MA-112 Intermediate Algebra 3
+MA-114 Algebra and Trigonometry 4
+MA-128 Introduction to Statistics 3
+Science 6 Credits
+CH-120 Chemistry 3
+PH-201 General Physics I 3
+Business 3 Credits
+BUS-301 Project Management 3
+Humanities and Social Sciences 30 Credits
+EN-101 English Communications I 3
+EN-102 English Communications II 3
+SS-171 Introduction to Psychology 3
+SS-175 Introduction to Sociology 3
+HU-220 Critical Thinking 3
+HU-225 Writing for the Internet 3
+HU-331 Arts and Ideas 3
+Humanities Elective #1 3
+Humanities Elective #2 3
+SS-351 Ethics 3

@@ -1,0 +1,15 @@
+importance to federal agencies and can directly impact the federal government’s ability
+to carry out its designated missions and business operations. The guiding document
+outlines 14 requirement families for the CUI program. The guidance applies to security
+controls in various National Institute of Standards and Technology (NIST) controls
+and the Department of Defense Cybersecurity Maturity Model Certification (CMMC)
+Domains. Students will learn the requisite publications and guidance elements as
+they apply to implementation by the federal government, state, local authorities, and
+private industry. The course will provide the skills and tools to achieve results for CUI
+effectively. Relevant Federal regulation, policies, guidance, and an in-depth look at the
+risk management framework will be covered. Students will conduct hands-on exercises
+as an introduction to the risk assessor specialty. (3-0-3)
+IAE-480 - Perimeter Protection
+In this Defense-in-Depth course, firewalls and network IDS issues will be discussed.
+A detailed understanding of firewall configuration and rule sets, load balancing, web
+farms, wireless access, web security issues and network intrusion detection will be

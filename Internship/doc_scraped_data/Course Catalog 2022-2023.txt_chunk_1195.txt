@@ -1,0 +1,15 @@
+and autonomous systems (UAS) and methods of making better informed decisions.
+Students will explore multiple commercial business problems, define requirements,
+and design solutions based on system capabilities, business need, costs, productivity,
+regulatory restrictions, safety, and risk. Business cases will be reviewed for aerial,
+ground, and water UAS. Prerequisite: UAS-120, UAS-310. (3-0-3)
+UAS-330 - Unmanned Systems Crew Resource Management
+Principles of organizational behavior, interpersonal relationship skills, and critical
+behavioral dynamics used by Unmanned Aircraft Systems (UAS) crews. Information
+processing, Human Error, Communications Processes, Problem Solving, Workload
+Management, and Situational Awareness with particular attention given to dealing with
+teleoperation and automation in UAS application. (3-0-3)
+UAS-410 - Unmanned Vehicle Laws & Regulations
+This course introduces students to laws and regulations related to unmanned and
+autonomous systems (UAS) operations. The issues of local, state, federal, and
+international laws and agreements are presented with regard to aerial, ground, water,

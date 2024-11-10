@@ -1,0 +1,9 @@
+processing methods associated with autonomous and semi-autonomous operation
+of unmanned systems. The content of the course includes supported capabilities,
+reference framework, man-machine collaboration, cognitive capability, interaction
+and manipulation, allocation of functions and responsibilities, high-level tradeoffs,
+limitations, and associated advancements. This course prepares students to better
+understand the implications and capabilities associated with autonomy in unmanned
+systems. It will include examinations of associated technology, programming,
+processing, and interoperability required to understand the application of autonomy and
+automation. Prerequisite: UAS-502. (3)

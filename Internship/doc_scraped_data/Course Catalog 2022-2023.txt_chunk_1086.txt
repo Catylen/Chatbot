@@ -1,0 +1,15 @@
+kinematics, control, programming of manipulators, along with an introduction to pattern
+recognition and computer vision. Prerequisite: none. (3-0-3)
+ROB-200 - Robotics Systems Engineering & Analysis
+This course examines methods of specifying, designing, analyzing and testing robotics
+systems. The principles and processes of robotics systems engineering are introduced
+and applied to the development of robotic devices. The focus is on a robotic system
+engineered to perform complex behavior. Robotic systems embed computing elements,
+integrate sensors and actuators, operate in a reliable and robust fashion, and demand
+rigorous engineering from conception through production. The course is organized
+as a progression through the systems engineering process of conceptualization,
+specification, design, and prototyping with consideration of verification and validation.
+Students completing this course will engineer a robotic system through its complete
+design and initial prototype. Prerequisites: ROB-100, EL-100 and EL-150 (3-0-3)
+ROB-300 - Industrial Robotics
+This course will cover the principles and techniques involved in industrial robotics.

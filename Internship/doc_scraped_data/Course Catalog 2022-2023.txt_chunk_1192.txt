@@ -1,0 +1,4 @@
+appropriate platform types and payloads to meet mission and application requirements.
+Applications explored include earth orbital, interplanetary, solar system, and planetary/
+celestial body exploration. Prerequisite: UAS-150, UAS-220. (3-0-3)
+UAS-250 - Unmanned Vehicle Environments

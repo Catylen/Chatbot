@@ -1,0 +1,14 @@
+Project IV covers the basic concepts of probability, common distributions, statistical
+methods, data analysis, developing a critical approach to the analysis of contingency
+tables, examining the basic ideas and methods of generalized linear models, linking
+logit and log-linear methods with generalized linear models, and developing basic
+facility in the analysis of discrete data using SAS, R, and Python. The project will also
+cover operations research techniques and their application to decision making such
+as mathematical optimization, networks modeling, stochastic modeling, and multiobjective modeling. Other topics covered include computer simulation, decision analysis
+using decision trees, and quantitative value functions. The project will culminate with
+visualization techniques. Students will learn different means of combating information
+overload as well as visual encoding as a method to supplant cognitive calculations with
+simpler perceptual inferences, improve comprehension, memory, and decision making.
+(6)
+TEC-740 - Project V: Capstone Project
+Project V is the Capstone project. This project provides an opportunity for students

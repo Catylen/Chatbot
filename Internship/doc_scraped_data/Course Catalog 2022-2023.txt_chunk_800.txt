@@ -1,0 +1,16 @@
+One of the major ways in which games are marketed to consumers is the convention.
+Shows like the Tokyo Game Show, PAX and E3 attract audiences ranging from 60,000
+- 300,000 and serve as one of the best opportunities for game studios to generate
+excitement and favorable word-of-mouth for upcoming projects. Successfully executing
+a company presence at one of these shows requires a working understanding of
+budgeting, goal-setting, demo creation, logistics, staffing, merchandising, and ROI
+evaluation, all topics covered in this course. Prerequisites: GDV-101 and Sophomore
+Standing. Course offered through LCMC Rize consortium partner - ESM II (3-0-3)
+EGA-421 - Distribution of Games: Role of Publisher
+The role of a publisher in the games industry is to ensure that a game can get in
+front of its audience successfully. To do that, a publisher must consider a variety of
+distribution strategies and channels. This course explains the role of a publisher in
+game distribution and details the various channels by which a game can be distributed.
+Prerequisites: GDV-101 and BUS-276. Course offered through LCMC Rize consortium
+partner - ESM III
+EGM-800 - Engineering Management Research Background

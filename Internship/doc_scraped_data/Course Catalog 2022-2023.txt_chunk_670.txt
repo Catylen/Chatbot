@@ -1,0 +1,16 @@
+objects and interfaces; as well as inheritance, encapsulation, polymorphism and
+aggregation; Students will explore the Unified Process and Object Oriented software
+life cycle. CASE tools and iterative and incremental software development approaches
+are also covered. Advantages of Object Oriented design patterns are demonstrated.
+Prerequisite: CS-225 or CS-230 or CS-200. (3-0-3)
+CS-406 - Requirements and Resource Analysis
+Requirements analysis is crucial to avoid failure of a system or project. The
+requirements should be well documented, measurable, verifiable, plausible to fulfill, easy
+to keep track of and precise. Students will learn to identify stakeholders and elucidate
+needed information from them to formulate software requirement specification
+agreements, as well as examine the resources and skill sets needed to support
+the requirements. Among the strategies studied will be: goal modeling, software
+prototyping, and case development. Prerequisite: CS-225 or CS-230 or CS-200
+CS-407 - Database Systems Implementation
+This is an undergraduate version of the graduate database course CS-507. Emphasis
+on DBMS architecture and implementation issues such as storage structures,

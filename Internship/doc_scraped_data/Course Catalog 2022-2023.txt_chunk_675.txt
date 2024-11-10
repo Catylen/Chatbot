@@ -1,0 +1,15 @@
+scheduling, scheduling policies, deadlock, semaphore, consumer/producer relationship,
+storage management (real storage management policies in a multiprogramming
+environment), virtual memory management (segmentation and paging), secure memory
+management, access control lists and kernal protection. An overview of contemporary
+operating systems with these principles. Students program in a high-level language.
+Projects are assigned as part of the homework requirements. Prerequisites: CS-150, CT152, CS-230 and senior status. (3-0-3)
+CS-430 - Game Programming on iPhone Platform
+Students learn how to develop a game on the iPhone/iPad portable. Students learn
+the xcode development environment and use the Model-View-Controller architecture.
+Students will learn animation of objects, control of characters, collision avoidance
+and tracking the state of a game. Real world projects will be assigned as part of
+requirements. Prerequisite: CS-230. (3-0-3)
+CS-431 - Graphics & Game Programming
+Students learn how to develop and build a game using an industry-standard game
+engine such as Unity. Students learn how to use 2D and 3D graphics, sound files, and

@@ -1,0 +1,29 @@
+Business and Management 39 Credits
+BUS-174 Introduction to Business Management
+BUS-200 Business Communications
+BUS-275 Human Resource Management 3
+BUS-279 Introduction to Leadership 3
+BUS-282 Economics Management 3
+BUS-283 Managerial Accounting 3
+BUS-289 Entrepreneurship and Small Business Management 3
+BUS-301 Project Management 3
+BUS-362 Information Systems for Managers 3
+BUS-376 Marketing Principles 3
+BUS-378 Legal Environment of Business 3
+BUS-410 Strategic Management 3
+BUS-454 International Business 3
+Mathematics & Data Science 19 Credits
+MA-112 Intermediate Algebra 3
+MA-114 Algebra & Trigonometry 4
+MA-128 Introduction to Statistics 3
+DS-101 Introduction to Data Science 3
+CH-120 Chemistry 3
+PH-201 General Physics I 3
+Electives 42 Credits
+Technical Elective (CM-120, FM-120, INT-101, or NT-150) 3
+Technical Elective (CM-125, CT-152, or CRT-101) 3
+Technical Elective (IAE-201, SAF-120, SAF-214, CM-220, or CRT-201) 3
+Technical Elective (CS-220, CM-250, or CRT-202) 3
+Technical Elective (CS-230, SAF-300, CM-270, or CRT-203) 3
+Technical Elective (CM-230, CS-120, CS-220, CS-230, SAF-318, or SAF-304) 3
+Technical Elective (UAS-101, CM-260, IAE-321, or IAS-250) 3

@@ -1,0 +1,19 @@
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+IAE-250 – Compr Computer & Network Security
+
+CT-152. FORMERLY IAE-315 (3-0-3) NOTE: Students enrolled in this course incur an
+additional lab fee of $100.
+IAE-261 - Secure Systems Administration & Operation - Windows
+This course is an overview of securing the Windows operating system. The content will
+include a basic introduction of shell programming, process management, processor
+management, storage management, scheduling algorithms, resource protection and
+system programming. The course will include programming projects focused on
+Information Assurance problem solving utilizing the C programming language primarily.
+Students are expected to be familiar with virtual machines, the Windows command
+line interface and a basic programming language. Basic knowledge of C programming,
+scripting and Windows is helpful but not required. Prerequisites: IAE-201, CS-150 and
+CT-152. (3-0-3) NOTE: Students enrolled in this course incur an additional lab fee of
+$100.

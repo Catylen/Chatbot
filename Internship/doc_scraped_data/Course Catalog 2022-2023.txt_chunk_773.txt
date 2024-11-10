@@ -1,0 +1,22 @@
+EE-285 - Programming Logic Controllers & Networks
+Introduces programmable logic controllers (PLCs). Emphasizes ladder diagrams and
+programming of PLC. Introduces network systems such as DeviceNet, ProfiNet, and
+ProfiBus. Emphasizes the integration of PLCs in automation systems. Two hours lecture
+and three hours laboratory. Prerequisites: EL-200. (3-0-3).
+EE-300 - Power Supply and Regulator Design
+Design and analysis of power supplies and regulators. Includes special adjustable
+and fixed voltage regulator ICs, three-pin regulators, switch-mode supplies. DC to DC
+convertors. Supply topologies, power handling, current limiting methods. Prerequisites:
+EL-250 and MA-261. (2-2-3)
+EE-304 - Digital Design I
+Minimization of Boolean functions using Kamaugh Maps and Quine-McCluskey
+Tabulation. Multilevel circuits: FPGA’s. Combinational logic design with MSI LSI. Chip
+count reduction. Sequential circuit analysis and design. State tables and state diagrams.
+Asynchronous circuit design. Introduction to FPGA design software. Students design,
+simulate and build circuits. Prerequisite: EL-204. (3-0-3)
+
+277 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses

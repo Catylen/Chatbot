@@ -1,0 +1,8 @@
+evidence or data from a mobile device under forensically sound conditions. This
+course focuses on the forensic study of mobile devices due to the rapid proliferation
+of smartphones and applications such as contacts, photos, calendars and notes, SMS
+and MMS messages, video, email, web browsing information, location information,
+and social networking. Students will learn how to perform the forensic examination of
+mobile devices using both commercial and open source tools. Students will describe
+and analyze effects of mobile device malware on forensic examinations Students in this
+313 | 2022 - 2023 CATALOG

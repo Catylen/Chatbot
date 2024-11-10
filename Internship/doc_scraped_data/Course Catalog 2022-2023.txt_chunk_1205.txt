@@ -1,0 +1,14 @@
+This course provides the student with an understanding of the complexities of sensory
+operations and data processing in unmanned and autonomous systems (UAS). The
+student will examine multiple sensory devices including their capabilities, acquisition
+rates, and constraints as factors of device selection. The issues of data acquisition,
+formats, storage, processing, and communications within the vehicle, the system, and
+between multiple systems will be explored. Prerequisite: UAS-502. (3)
+UAS-530 - User Interface for Design & Evaluation
+This course introduces user interfaces for unmanned and autonomous systems through
+designing, implementing, and evaluating human-computer interfaces of various types.
+It focuses on the emerging field of human-robot interaction (HRI) which comprises
+a multitude of disciplines including: robotics, artificial intelligence, human factors,
+human computer interaction and cognitive psychology. Topics include: Approaches to
+human-system interactions for unmanned systems including graphical user interfaces,
+non-visual feedback (haptic, aural, etc.), gesture-based controls, voice-based controls,

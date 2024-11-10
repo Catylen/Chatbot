@@ -1,0 +1,18 @@
+CS-507 - Database Systems Implementation
+The course introduces DBMS (Database Management System) architecture and
+implementation issues such as storage structures, multidimensional index structures,
+concurrent access, data warehousing, and business intelligence. NoSQL concepts,
+including MongoDB are also introduced. (3)
+CS-510 - Algorithms
+Mathematical fundamentals of algorithms and algorithmic techniques. Running Time
+Analysis of an algorithm. Searching, Sorting, and other techniques associated with
+retrieving information. Advanced Data structures such as Binary Search Trees and
+Heaps. Graph algorithms. Dynamic Programming (Knapsack, Floyd, DNA Algorithms).
+Greedy algorithms (Coins, Scheduling, Huffman encoding). Course requires written
+programming assignments. (3)
+CS-511 - Statistical Methods in Data Science
+This course introduces numerical methods and statistics as a discipline of analyzing
+data i.e. estimating errors, modeling relationships between two or more variables,
+interpretation of the results. Concepts of machine learning and big data analytics will be
+introduced. Students will use industry standard tools like R and SAS. (3)
+255 | 2022 - 2023 CATALOG

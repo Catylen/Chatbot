@@ -1,0 +1,28 @@
+Software Engineering (12 credits)
+In this upper-level certificate, students learn about data structures and data mining,
+as well as the methods and methodologies involved in analyzing, designing and
+implementing reliable computer applications.
+Required Courses
+CS-230 Data Structures 3
+CS-240 Introduction to Data Mining 3
+CS-405 Introduction to Software Design with Unified Modeling Language 3
+CS-452 Agile Methods for Software Engineering 3
+
+Space Missions and Operations Specialist (12 credits)
+This upper-level certificate provides students with a general overview of satellites,
+including simple physics of satellite orbits and the history of NASA and scientific
+mission operations.
+Students learn satellite design with emphasis on power management, heating
+and cooling considerations, telemetry and communications and control systems.
+Coursework includes the study of orbital mechanics and the physics of the instruments
+used to monitor and analyze the earth and atmosphere
+Required Courses
+AE-150 Introduction to Space 3
+AE-250 Ground Systems Engineering 3
+
+134 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+AE-311 Spacecraft Systems 3
+AE-411 Space Systems Engineering 3

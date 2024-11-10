@@ -1,0 +1,15 @@
+circuits, sensors and actuators. In laboratory work, you will work on putting theory into
+practice in the context of a challenging project that is at the core of a national design
+and build competition. This course significantly develops the generic skills of teamwork,
+planning, leadership, and communication. Conventional lectures will be given on the
+theoretical aspects of these graduate capabilities. You will then apply these skills in
+the completion of specific learning activities such as design project, report, testing and
+prototyping. The dry run testing of the prototype Mechatronics mechanisms will provide
+an opportunity for you to receive feedback. Prerequisites: EL-150 and MEC-215. (3-0-3)
+MEC-310 - Engineering Mechanics - Dynamics
+Kinematics of particles in rectilinear and curvilinear motions. Kinetics of particles,
+Newton’s second law, energy and momentum methods. Systems of particles,
+Kinematics and plane motion of rigid bodies, forces and accelerations, energy and
+momentum methods. Introduction to mechanical vibrations. Prerequisites: MEC-210
+and MA-262. (3-0-3)
+MEC-330 - Fluid Mechanics

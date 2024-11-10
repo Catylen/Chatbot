@@ -1,0 +1,30 @@
+CAPITOL TECHNOLOGY UNIVERSITY
+
+AE-311 Spacecraft Systems 3
+AE-411 Space Systems Engineering 3
+
+Web Programming (12 credits)
+
+Required Courses
+CT-102 Introduction to Internet Applications 3
+CT-206 Scripting Languages 3
+CT-376 JavaScript 3
+CT-406 Web Programming Languages 3
+
+Website Development (12 credits)
+This certificate is designed for students interested in building websites. Students
+learn a variety of tools and applications such as HTML, Java Script, ASP, PHP,
+Microsoft FrontPage and Macromedia Director. Topics covered include website and
+browser requirements, platform selection, web server functions, client and server-side
+applications, cookies, and website security.
+Required Courses
+CT-152 Introduction to UNIX 3
+CS-130 Introduction to Programming Using Java 3
+CS-220 Database Management 3
+CT-376 Javascript 3
+
+135 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Undergraduate Studies

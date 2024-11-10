@@ -1,0 +1,13 @@
+The goal of this course is to provide an overview of the multi-faceted, global, and
+interdisciplinary field of security management. It takes a view from the top and
+presents future managers need to know about information security. The material
+covered addresses the managerial aspects of information security for future managers.
+Examples of information security issues and practices implemented in today’s business
+environment are presented and skills reinforced as they are learned through hands-on
+activities and a real-world case project. The course features numerous examples and
+case studies specific to security management, identifies specific security applications
+and examines the issues encountered within those areas. Prerequisite: DSM-920; RSC815 (3) RESIDENCY Students will also have the opportunity to receive guidance from
+faculty mentors in both the group and one-on-one environment in the development of
+the dissertation proposal.
+DSR-935 - Dissertation Preparation II
+DSC Cybersecurity students complete the dissertation milestones developed by the

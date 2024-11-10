@@ -1,0 +1,14 @@
+threats, assumptions, assurance, confidentiality, integrity, availability, access control
+matrix and policies, security models, requirements imposed by policies, protection
+models, covert channels, formal methods for security, intrusion detection, auditing, and
+other issues associated with dynamic and vehicular systems. Prerequisite: UAS-502. (3)
+UAS-670 - Unmanned and Autonomous Systems Management for Managers
+This course provides the student an understanding of planning, scheduling, and
+managing unmanned and autonomous projects. Course includes roles, responsibilities,
+administrative procedures, cost control, documentation, quality control, and
+applications. This course introduces concepts of leadership, organizational and
+technical management which are approached from a complex systems perspective
+to explain the behavior of autonomous and semi-autonomous systems. This course
+addresses the fundamental principles of system management and explores issues
+related to effective technical planning, scheduling and assessment of technical
+progress, and identifying the unique challenges of the technical aspects of autonomous

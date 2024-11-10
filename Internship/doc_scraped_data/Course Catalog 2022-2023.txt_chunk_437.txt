@@ -1,0 +1,29 @@
+Program-Specific Prerequisites
+Generally, to apply to a graduate degree program, you should have completed a
+bachelor’s degree or be completing a bachelor’s degree prior to enrollment and should
+have a 3.0 cumulative grade point average or higher. Some Master of Science programs
+have additional technical competency requirements.
+•
+•
+
+Applicants who possess an undergraduate degree in business are waived
+from completing MBA-600 Fundamentals of Professional Management.
+All other MBA students must complete it. MBA-600 provides a broad
+foundation in accounting, finance, economics and statistics.
+
+Computer Science
+•
+•
+
+A Bachelor of Science degree in Computer Science or related area is
+recommended, but not required.
+Students who do not have a BS in Computer Science or related area must
+have the following programming knowledge: Proficiency in computer topics,
+including programming (one or more of Python, Java or C++ recommended),
+object oriented programming (classes, objects, inheritance and
+polymorphism), data structures (queues, stacks, lists, linked lists and trees).
+
+Cybersecurity
+•
+
+•

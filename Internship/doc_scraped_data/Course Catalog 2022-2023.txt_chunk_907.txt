@@ -1,0 +1,15 @@
+IAE-402 - Intro to Incident Handling & Malicious Software
+This course provides a detailed understanding of incidents from attacks of malicious
+software. This course addresses the history and practice of coding that occurs in
+viruses, worms, spyware, Trojan horses, remote management back doors and root kits.
+Students learn preventative measures and tools and explore how to rid systems of
+malicious software and prevent re-infection. Recovery processes and backup methods
+are explored. In addition to covering basic incident handling preparation, response
+and recovery practices, the course goes into detail regarding malicious software.
+Prerequisite: IAE-260. (3-0-3) NOTE: Students enrolled in this course incur an additional
+lab fee of $100.
+IAE-405 - Malware Analysis/Reverse Engineering
+This course introduces students to malware research and analysis. The course will
+provide students an overview of malware research, intelligence gathering related
+to malware, and provide students basic skills required to analyze and dis-assemble
+malicious programs. Students will explore the tools required for analysis and reverse

@@ -1,0 +1,7 @@
+employed in counterterrorism, with each weekly module applying each one to a different
+counterterrorism topic. Beginning with an overview on the use of technologies in
+counterterrorism, relevant methodologies and tools will be applied and operationalized,
+such as Analyst’s Notebook, Social Network Analysis, Excel, Root Cause Analysis,
+Enterprise Security Risk Management, Metrics of Programmatic Effectiveness,
+Forecasting Methodologies, Datamining, Protective Intelligence Platforms, Artificial
+Intelligence, and others. Prerequisite: CTR-630 (3)

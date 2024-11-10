@@ -1,0 +1,2 @@
+some of the course’s objectives: Offer an introduction to databases and database
+technology. (3)

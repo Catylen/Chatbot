@@ -1,0 +1,14 @@
+owned Information Technology (IT) networks based on private line technology.
+Students will learn the elements of Operations Technology (OT) networks. Public utility
+companies have begun to connect ICS networks to available systems such as the
+Internet as they transition to TCP/IP based networks. This trend is accomplishing the
+much-needed modernization of the nation’s IT and OT networks supporting the critical
+infrastructure and setting the groundwork for developing the federally mandated Smart
+Grid and other essential ICS. The US Government must address the increased risk of
+ICS by partnering with private industry. Students will conduct hands-on lab exercises
+focused on protecting these critical systems. Prerequisite: IAE-250. (3-0-3)
+IAE-440 - Secure Access & Identity Management
+Students will learn fundamental and advanced IdM (Identity Management) topics,
+concepts and current issues. The course will prepare the students for real-world IdM
+challenges faced by professionals in industry and government today. Students will
+leave the course with an awareness and understanding of a variety of topics pertaining

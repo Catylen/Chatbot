@@ -1,0 +1,16 @@
+Writing applications for mobile devices using the Android operating system.
+Installing and using the Android SDK. Creating GUI layouts, menus and dialog boxes.
+Graphics and event handling. Interfacing with built-in GPS, accelerometer, audio and
+video. User and file input and output. Web interfaces and sockets. Writing native
+applications. Debugging native applications from a host. Preparing an application for
+publication. High-level programming will be performed using Java and XML. Native
+programming will be performed in C/C++. Programming in ARM-7 assembly language
+will be introduced. Prerequisites: CS-225 or CS-230. Some Unix/Linux experience is
+recommended. (3-0-3)
+CS-310 - Computer Algorithms
+This course covers mathematical fundamentals of algorithms and algorithmic
+techniques. Running time analysis of an algorithm, searching, sorting, and other
+techniques associated with retrieving information are covered. Advanced Data
+structures such as Binary Search Trees, Heaps, and graph algorithms are used. Dynamic
+programming (Knapsack, Floyd, DNA Algorithms), and greedy algorithms (Coins,
+Scheduling, Huffman encoding, etc.) are used. Course requires written programming

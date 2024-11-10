@@ -1,0 +1,16 @@
+Introduces students to the use of scripting and the scripting languages of Perl and
+Python. The class will cover the use of scripting to solve short problems, automate
+routine tasks, integrate across pieces of software, and prototype code ideas. The
+merits of code-complete design versus on-the-fly coding as well as coding and code
+documentation styles will be discussed. Tasks involving input/out, regular expressions,
+and file operations are included. Students are expected to fully script solutions for realworld tasks assigned as part of the course. Prerequisites: CS-120 or CS-130 or CS-150.
+(3-0-3)
+CT-240 - Internetworking w/ Routers/Switches
+Configuring routers and switches to build multiprotocol inter-networks such as RIP,
+EIGRP, OSP and BGP. VLAN and VLAN trunking are also included. In addition, Point
+to point protocols, encapsulation and VPN will be part of the hands-on labs. Security
+topics that include the implementation of firewalls and mitigating threats via various
+authentication technics will be part of the lab work. Prerequisites: NT-150 or professor
+approval. (2-2-3)
+CT-376 - Javascript
+This course introduces the student to client-side web programming. Students learn

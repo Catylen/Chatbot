@@ -1,0 +1,4 @@
+communications systems. Circuits such as voltage-controlled oscillators, modulators,
+mixers, phase-locked loops, frequency synthesizers, passive and active filters are
+analyzed and mathematically discussed. Students build and test their circuits.
+Prerequisites: EL-250, EL-261 and MA-261. Offered during fall semester only. (2-2-3)

@@ -1,0 +1,3 @@
+for circuit testing as part of the design process and progresses to the design and
+development of full-scale systems for testing of large production volumes. Detailed
+study of the operation of the IEEE STD-488 and its use in test systems assembly.

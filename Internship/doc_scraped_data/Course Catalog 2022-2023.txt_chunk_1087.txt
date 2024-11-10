@@ -1,0 +1,6 @@
+This course will cover the principles and techniques involved in industrial robotics.
+Emphasis will be placed on industrial robot applications, analysis of robot manipulators,
+components of industrial robots, robot programming and control. Students will explore
+the use of robotics and machine learning in the efficiency of industrial processes.
+Students will model, design, plan, program, select, and implement industrial robot
+systems. Prerequisites: ROB-200 and MEC-215. (3-0-3)

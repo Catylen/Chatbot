@@ -1,0 +1,6 @@
+data. Students learn to use key metrics to assess goals and return on investment,
+perform social network analysis to identify important social actors, subgroups, and
+network properties in social media. Students will learn specialized skills in Advanced
+Excel, Python, JavaScript (D3.js, Leaflet.js), HTML/CSS, API Interactions, Social Media
+Mining, SQL, Tableau, Advanced Statistics, Machine Learning, R, Git/GitHub, and more.
+Prerequisite: MBA-510 (3)

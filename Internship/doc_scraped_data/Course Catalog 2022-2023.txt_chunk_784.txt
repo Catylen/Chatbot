@@ -1,0 +1,21 @@
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+EE-400 - Special Projects in Engineering
+
+EE-406 - Signals and Systems
+Mathematical models, systems, signal classifications, I/O differential and difference
+equations, block diagram realizations, discrete-time systems. Convolutions: discretetime and continuous-time. The Z-transform in linear discrete-time systems, transfer
+functions. Trigonometric Fourier series, polar and rectangular forms, odd/even
+functions, response of a linear system to periodic input. Fourier transform, symmetry
+properties, transform theorems, linear filtering, modulation theorem. Laplace and
+Fourier transforms and their properties. Prerequisite: MA-262 and MA-340. Offered
+during fall semester only. (3-0-3)
+EE-409 - Network Analysis and Synthesis
+Comparison of analysis and synthesis. Transfer function and frequency response:
+phase and time delay. Familiarization with complex impedance and admittance
+functions. Active filter design: bandpass, bandreject, FDNR and gyrator. Impedance
+evaluation: Foster I, Foster II, Cauer I and Cauer II. Synthesis of Butterwork and
+Chebyshev filters. Sensitivity of networks to parameter changes. Prerequisite: EE-309
+(2-2-3)

@@ -1,0 +1,16 @@
+EL-212 - Transmission Lines
+Study of transmissions lines: characteristic impedance, propagation constant, standing
+wave ratio and reflection coefficient. Transmission line response to transients. Bounce
+diagrams. Lossless and lossy line analysis using classical approach as well as graphical
+approach (Smith Chart). Voltage and power calculations on transmission lines.
+Matching techniques for transmission lines and discrete circuits. Measurements using
+vector network analyzers. Prerequisite: EL-150. Offered spring semester only. (2-2-3)
+EL-220 - Fabrication and Troubleshooting
+Covers the basic methods of circuit construction and troubleshooting, including
+IC fabrication, wire wrapping, soldering, etching and chassis layout. Identification
+and removal of components; project oriented; may be used as a technical elective.
+Prerequisite: EL-150 (1-4-3)
+EL-240 - Mobile & Cellular Communication Systems
+The course is designed to give the student the theory and technologies generally
+used in mobile communications. Topics covered include modulation, transmission,
+demodulation, antennas and propagation loss, interference, and system performance.

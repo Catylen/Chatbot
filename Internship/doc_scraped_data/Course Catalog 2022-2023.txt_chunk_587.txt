@@ -1,0 +1,19 @@
+This course applies analytics to create useful information that provides insights, fosters
+inquiry, and supports effective decision-making and problem solving. The Students
+learn and practice utilizing analytics as a tool for achieving a desired outcome. This
+course provides a review of analytical methodologies and examines the importance of
+understanding problems, setting objectives, critical thinking and interpreting results.
+Problems will be addressed in a variety of disciplines. Prerequisite: BUS-284 and CS220. (3-0-3)
+BUS-350 - Data Mining for Effective Decision Making
+The main objective of this course is to teach how to solve modern business problems
+using a spreadsheet application. Popular spreadsheet applications are examined.
+Students will use the case study method to address analytical problems. Prerequisites:
+MA-128, BUS-301 and BUS-384. (3-0-3)
+
+231 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+BUS-303 - Project Management Competitive Advantage

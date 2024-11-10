@@ -1,0 +1,21 @@
+This course combines the science of data visualization for Unmanned and Autonomous
+Systems (UAS) with the art of graphic design to help you communicate complex
+information more accurately and effectively. By transforming UAS data sets into
+visual graphics—such as charts, bar graphs, scatterplots, and heatmaps—you can
+make complex ideas more easily accessible and understandable. Through hands-on
+exercises, students will explore the many types of data in use today, learn how people
+perceive different graphical displays, and create visual presentations that make a
+stronger impact on your audience. Students will learn how to translate simple and
+complex data into effective visual displays, communicate more precisely by pinpointing
+the most relevant information, and apply effective methods for analyzing, presenting,
+and using statistical data. Students will also learn to identify the strengths and
+weaknesses of different data visualization approaches and avoid creating misleading
+representations of data—and being misled by others. Prerequisite: UAS-420. (3-0-3)
+
+377 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Resources
+
+UAS-430 - UAS Data Visualization & Presentation

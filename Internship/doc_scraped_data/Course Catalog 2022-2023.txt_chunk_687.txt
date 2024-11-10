@@ -1,0 +1,15 @@
+This course covers the concepts and methodologies required for software testing and
+deployment. Topics include unit testing, module testing, subsystem and system level
+testing, coverage criteria, and manual and automated techniques for test validation
+and data generation. Formal testing processes and standards, black box vs. white box
+testing, functional testing, and testability analysis are also covered. Students will also
+learn to use profilers, practice advanced features of popular debugging tools, learn to
+use version control software such as SVN and GIT, and build tools like Ant, Maven and
+Gradle. (3)
+CS-552 - Agile Methods
+Agile is an alternative to the traditional waterfall approach discussed in other software
+engineering courses. Its key principals include: active user involvement in the design
+process, empowering the development team to make decisions, allowing requirements
+to evolve while keeping the timescale fixed, iterating with small/incremental releases,
+testing early and often, and high degree of collaboration between all stakeholders.
+Students will explore several popular agile processes and frameworks which may

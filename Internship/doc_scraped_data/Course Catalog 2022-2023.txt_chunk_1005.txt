@@ -1,0 +1,15 @@
+of how to design databases to manage large volumes of data from multiple sources,
+and how that data can be analyzed and translated into meaningful results. The
+student will be introduced to the field of Analytics, gain an understanding of Enterprise
+Data Warehousing models, be introduced to Data Mining techniques and tools used
+for mining the data warehouse, and build specific Data Marts. The student will be
+introduced to predictive analysis and will be expected to develop models to extract
+data, perform trend analysis, establish patterns, and make projections. Must have
+the ability to use Structured Query Language with a basic relational database system,
+ability to read pseudo code, and understand basic data structures like arrays. Having an
+understanding of algebra and basic probability and statistics would be helpful, though
+not required. Prerequisite: MBA-510. (3)
+MBA-540 - Web Analytics
+The course covers concepts and techniques for retrieving, exploring, visualizing, and
+analyzing social network and social media data, website usage, and clickstream
+data. Students learn to use key metrics to assess goals and return on investment,

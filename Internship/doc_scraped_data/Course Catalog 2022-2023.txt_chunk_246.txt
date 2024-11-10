@@ -1,0 +1,16 @@
+86 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Undergraduate Studies
+
+Cybersecurity 18 Credits
+NT-150 Computer Networking 3
+IAE-201 Introduction to Information Assurance Concepts 3
+IAE-250 Comprehensive Computer/Network Security 3
+IAE-260 Secure Systems Administration and Operation 3
+IAE-325 Secure Data Communications and Cryptography 3
+IAE-402 Introduction to Incident Handling/Malicious Code 3
+
+Course Requirements
+Bachelor of Science 121 Credits

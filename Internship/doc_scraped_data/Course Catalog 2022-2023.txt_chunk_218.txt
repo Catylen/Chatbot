@@ -1,0 +1,29 @@
+Course Credits
+Technical 27 Credits
+CS-150 Programming in C 3
+CS-200 Programming in C++ 3
+CT-152 Introduction to UNIX 3
+EL-100 Introduction to DC/AC Circuits 3
+EL-150 DC/AC Circuits and Analysis 3
+EL-200 Electronic Devices and Circuits 3
+EL-204 Digital Electronics 3
+EL-262 Microprocessors and Microassembly 3
+NT-150 Computer Networking 3
+Cybersecurity 15 Credits
+IAE-201 Introduction to Information Assurance Concepts 3
+IAE-250 Comprehensive Computer and Network Security 3
+IAE-260 Secure System Administration and Operation 3
+IAE-325 Secure Data Communication and Cryptography 3
+IAE-351 Introduction to Cyber Network Operations 3
+Mathematics 11 Credits
+MA-112 Intermediate Algebra 3
+MA-114 Algebra and Trigonometry 4
+MA-261 Calculus I 4
+Humanities and Social Sciences 9 Credits
+EN-101 English Communications 3
+Humanities Elective 3
+Social Science Elective 3
+
+71 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY

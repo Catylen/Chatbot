@@ -1,0 +1,4 @@
+farms, wireless access, web security issues and network intrusion detection will be
+explored to prepare the student with the basic tools to coordinate the design and
+implementation of perimeter network defenses for a high-volume, high-access site.
+Prerequisite: IAE-402 and IAE-406 (3-0-3)

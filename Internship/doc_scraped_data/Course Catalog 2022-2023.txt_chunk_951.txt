@@ -1,0 +1,19 @@
+317 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Courses
+
+IAE-682 - Internal Protection
+
+IAE-685 - Principles of Cyber Security
+This class explores the overarching security architectures and vectors of information
+assurance from a management perspective to allow the learner to formulate the basis
+for sound business decisions. Students gain an appreciation for systems, networks,
+processes, methodologies, documentation requirements, recovery processes,
+certification and accreditation processes as well as “best practice” implementation,
+training and continuous improvement. Discussions in this course give the correct
+acumen of personnel security, physical security, and technical operational security as
+these principles relate and interface with information security principles. Defense-indepth principles also are covered for designing proper physical security programs. At
+the completion of the course students should be able to manage an IA function and
+evaluate an organization’s Contingency Planning process for adequacy. (3).

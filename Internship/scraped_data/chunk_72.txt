@@ -1,0 +1,15 @@
+NEW MDCAPS Feature - Electronic File Upload ToolThe Office of Student Financial Assistance (OSFA) with the Maryland Higher Education Commission (MHEC), is pleased to announce that the Maryland College Aid Processing System (MDCAPS) has a NEW feature known as the “Electronic File Upload” Tool.
+Students may now submit documentation to OSFA as required for certain state grant/scholarship programs, online directly through their MDCAPS account. Documents uploaded through MDCAPS are secure.
+How do students upload documents in MDCAPS?
+
+Log in using your MDCAPS username and password.
+On the homepage click “Electronic File Upload”.
+Select the “Academic Year” for which you are uploading document(s) for.
+Select the “Document Type” you are uploading as it appears in the drop down menu.
+Click “Choose File” to select the file(s) you want to upload from your computer.
+Then, click “Submit”.
+
+
+
+
+If uploading more than one file repeat steps 3-6.

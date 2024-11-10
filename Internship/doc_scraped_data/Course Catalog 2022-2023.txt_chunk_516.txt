@@ -1,0 +1,9 @@
+of a COTS system, and student presentations and papers. The initial lectures will
+cover both the basics of per-component computational modeling as well as end-toend concerns mission and information assurance requirements for real-world fullscale systems. There will be additional focus on a risk-based approach to securing
+such communications systems based on confidentiality, integrity, and availability
+of data. Students will then work with the Satellite Tool Kit (STK) (and other network
+simulation tools) to model a single discrete space asset or a multi-component ground
+communications system, including preparation for the STK Certification Exam. The
+student will then model their own scenario using mission modeling software. Finally,
+each student will present their specific scenario to the class, including critical analysis
+214 | 2022 - 2023 CATALOG

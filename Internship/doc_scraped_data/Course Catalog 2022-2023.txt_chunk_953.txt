@@ -1,0 +1,13 @@
+guiding principles of Information Assurance (confidentiality, integrity, and availability).
+This course covers the security and privacy controls covering healthcare information
+systems, preventing loss and unauthorized access to healthcare information within
+information systems, and protecting the integrity of healthcare data (data-at-rest, and
+data-in-transit) within information systems. The student will gain and understanding
+of the mandated regulatory, legal, and governance requirements covering privacy and
+confidentiality of healthcare information. The student will also be able to identify and
+manage risks and conduct Information Risk Assessments pertaining to healthcare
+information. Prerequisite: IAE 685 or permission. (3) NOTE: Students enrolled in this
+course incur an additional lab fee of $100.
+IAE-692 - Mobile Medical Device/Application Security
+This course goes into the details of the information security risks accompanying the
+widespread use of mobile devices and mobile apps in the healthcare community. The

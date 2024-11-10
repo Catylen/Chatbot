@@ -1,0 +1,14 @@
+water environment. The capabilities and limitations will be examined and the student
+will be able to select the appropriate platform types and sensors to meet application
+requirements. Applications explored include both surface and underwater functions
+in the civilian, commercial and military fields. Prerequisite: UAS-140. (3-0-3) NOTE:
+Students enrolled in this course incur an additional lab fee of $350
+UAS-240 - Unmanned Space Vehicles
+This course provides the principles and concepts of unmanned and autonomous
+vehicles used for space applications. The challenges of space as an environment,
+navigation, time, and distance will be included as essential elements of overall space
+exploration via unmanned and autonomous systems. Students will explore the problems
+of perception, space navigation, communications, control, sensors and payloads, time
+delay, and fundamentals of propulsion and motion in space. Capabilities and limitations
+of multiple platform types will be examined and the student will be able to select the
+appropriate platform types and payloads to meet mission and application requirements.

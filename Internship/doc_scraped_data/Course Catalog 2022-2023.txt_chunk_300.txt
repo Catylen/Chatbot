@@ -1,0 +1,35 @@
+Undergraduate Studies
+
+Upon graduation, graduates will be able to
+
+Information Technology 33 Credits
+BUS-250 Database for Managers 3
+BUS-362 Information Systems for Managers 3
+CT-152 Introduction to UNIX 3
+CS-130 Introduction to Programming Using Java 3
+CS-150 Introduction to Programming in C 3
+IAE-201 Introduction to Information Assurance Concepts 3
+IAE-250 Comprehensive Computer and Network Security 3
+IAE-260 Secure Systems Administration UNIX and Operation 3
+IAE-325 Secure Data Communications Cryptography 3
+IAE-402 Introduction to Incident Handling and Malicious Code 3
+NT-100 Computer Architecture and Construction 3
+Mathematics and Science 15 Credits
+BUS-283 Managerial Accounting 3
+MA-110 Business Management Mathematics I 3
+MA-111 Business Management Mathematics II 3
+MA-128 Introduction to Statistics 3
+Science Elective 3
+Humanities and Social Sciences 18 Credits
+HU-331 or HU-332 Arts and Ideas 3
+SS-351 Ethics 3
+Humanities Electives 3
+Humanities Electives 3
+Social Science Electives 3
+Social Science Electives 3
+English Communications 6 Credits
+EN-101 English Communications I 3
+EN-102 English Communications II 3
+Electives 6 Credits
+Technical Electives 3
+Technical Electives 3

@@ -1,0 +1,20 @@
+Courses
+
+CSL-920 - Cybersecurity Leadership Doctoral Writing III
+
+CSP-101 - Introduction to Engineering Methods I
+Students are introduced to MATLAB. Using MATLAB to do calculations, solving systems
+of equations. Using data for data analysis statistics, graphing with applications in
+engineering. Special focus on trig and advanced trig functions, precalculus. Prerequisite
+placement exam. (2-2-3)
+CSP-102 - Introduction to Engineering Methods II
+Students are introduced to MATLAB. Using MATLAB to do calculations, solving systems
+of equations. Using data for data analysis statistics, graphing with applications in
+engineering. Introduction to C++, classes and objects, CGI programming, Graphics and
+GUI’s. Prerequisite placement exam. (2-2-3)
+CSQ-800 - Quantum Computing Research Background
+A research Chair will be assigned in the planning and development stage of the
+research. . The student will synthesize the growing effect of technology on current
+operations, international relationships and effects on the field, and where there are
+areas of improvements or failings. The focus will be to start identifying areas for
+research at a later stage and explore the background. (6)

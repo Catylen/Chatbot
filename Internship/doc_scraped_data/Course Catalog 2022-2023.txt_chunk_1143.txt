@@ -1,0 +1,7 @@
+color, font, text and images. Explores design implications due to user characteristics
+such as age, dexterity, experience and disabilities. Students learn requirements
+gathering, prototype building and user testing. A group project is assigned. Prerequisite:
+Engineering degrees CS-130 or CS-150. Offered during Spring semester only. (3-0-3)
+SE-351 - Software Testing
+Covers the techniques and concepts required for software testing. Topics covered
+363 | 2022 - 2023 CATALOG

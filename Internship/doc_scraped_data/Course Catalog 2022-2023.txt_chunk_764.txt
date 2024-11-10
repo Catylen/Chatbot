@@ -1,0 +1,7 @@
+Introduces multivariate regression and random forests for modeling data. Addresses
+data access, variable selection and model diagnostics. Introduces foundations for
+visual thinking. Reviews common statistical graphics such as dot plots, box plots, q-q
+plots. Addresses more advanced methods such as scatterplot matrices enhanced by
+smoothed or density contours, and search tools for finding graphics with suggestive
+patterns. Course will introduce R software for analysis. A final project will involve
+visualization of a real data set. Prerequisite: Undergraduate statistics. (3)

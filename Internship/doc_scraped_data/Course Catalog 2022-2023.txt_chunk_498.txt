@@ -1,0 +1,25 @@
+•
+
+Define the proper UAS safety policy, procedures, and risk management.
+
+Course Requirements
+Core Courses 33 Credits
+UAS-501 Introduction to Unmanned and Autonomous Systems 3
+UAS-502 Unmanned and Autonomous Vehicle Systems 3
+UAS-510 Unmanned Systems Autonomy and Automation 3
+UAS-520 Unmanned Systems Sensing, Perception, and Processing 3
+UAS-530 User Interface for Design and Evaluation 3
+UAS-640 Data Analysis and Visualization 3
+UAS-650 Unmanned and Autonomous Systems Laws, Regulations, and Policy 3
+UAS-660 Safety Management Systems and Unmanned and Autonomous Systems
+Cybersecurity 3
+UAS-670 Unmanned and Autonomous Management for Managers 3
+UAS-710 Unmanned and Autonomous Systems Capstone Project I 3
+UAS-720 Unmanned and Autonomous Systems Capstone Project II 3
+Optional Course
+UAS-500 UAS Operator Certification* 1.5
+All required courses are offered exclusively online in an 8-week asynchronous format.
+For descriptions of required courses, see listing beginning on page 211.
+Courses
+
+*May be added to the required 33 credits above.

@@ -1,0 +1,39 @@
+Course Requirements
+Bachelor of Science 122 Credits
+Course Credits
+Computer Science 60 Credits
+CS-120 Introduction to Programming Using Python 3
+CS-130 Introduction to Programming Using Java 3
+CS-150 Programming in C 3
+CS-200 Programming in C++ 3
+CS-220 Database Management 3
+CS-225 Intermediate Java Programming 3
+CS-230 Data Structures 3
+CS-240 Introduction to Data Mining 3
+CS-310 Computer Algorithms 3
+CS-305 Android App Development 3 OR CS-330 iPhone App Development 3
+CS-360 Text Mining and Natural Language Proccesing 3
+CS-370 Computer Vision 3
+CS-405 Introduction to Software Design with UML 3
+CS-418 Operating Systems 3
+CT-152 Introduction to UNIX 3
+CT-376 JavaScript 3
+CS-250 Introduction to Network Programming Using C 3 OR CS-356 Dynamic Web Page
+Development 3 OR CT-406 Web Programming Languages 3
+CS-440 Advanced Machine Learning 3
+CS-457 Senior Design Project I 3
+CS-458 Senior Design Project II 3
+Technical 9 Credits
+EL-204 Digital Electronics 3
+EL-262 Microprocessors and Microassembly 3
+EE-364 Computer Architecture 3
+Mathematics and Science 17 Credits
+MA-124 Discrete Mathematics 3
+
+83 | 2022 - 2023 CATALOG
+
+CAPITOL TECHNOLOGY UNIVERSITY
+
+Undergraduate Studies
+
+•

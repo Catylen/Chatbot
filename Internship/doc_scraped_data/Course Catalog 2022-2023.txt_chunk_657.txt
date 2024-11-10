@@ -1,0 +1,16 @@
+apply their learned data mining techniques to such problems as predictive modeling.
+Prerequisite: CS-120 or CT-206. (3-0-3)
+CS-250 - Introduction to Network Programming Using C
+An introductory network programming course using the C programming language.
+Students will be provided an overview of the principles of computer networks with a
+detailed look at the OSI reference model and the TCP/IP stack. The emphasis is on
+understanding UNIX inter-process communication and developing network programs
+using connectionless and connection-oriented sockets. Extensive programming
+assignments will include the development of client/server and peer-to-peer network
+applications. Prerequisites: CS-230. (2-2-3)
+CS-300 - Secure Coding
+This course introduces the secure coding process including designing secure code,
+writing code that can withstand attacks, and security testing and auditing techniques
+to detect secure coding weaknesses. The course focuses on the security issues a
+programmer faces including, but not limited to, common code security weaknesses and
+modern security threats. The course explores core secure coding principles, strategies,
