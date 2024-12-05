@@ -1,0 +1,93 @@
+The Student’s Guide to Using the Website Portal
+Where to Find myCapitol
+
+myCapitol is located at https://mycapitol.CapTechU.edu and can be accessed by going to the Capitol
+Technology University website www.CapTechU.edu, mousing over the three lines (hamburger patty)
+in the top right corner, selecting current students button, and select myCapitol button.
+
+Navigating the Portal
+
+There are tabs across the top of the site that have been assigned based on your role as a student at
+Capitol Technology University. Each tab has access to different features and information you may be
+interested in using or accessing. Each tab has a group of subpages listed on the left hand side of the
+page in red. These will help you to find portlets that contain the information or services. You will also
+notice that the Tab farthest to the right is called MyPages which you can modify to display the portlets
+you use most frequently.
+
+Home Tab
+
+This tab is a basic overview of your current relationship with the university. The home tab will display
+announcements relevant to you, the university calendar, a task manager which you can use to track your
+activities, a portlet for your student schedule and a portlet for your account from which you can access
+your balance and a printable course and fee statement. You can also make a payment and access MyFA
+(Financial Aid Awards information) in this area.
+
+Student Tab
+
+This tab provides access to more detailed information regarding your academic career, financial aid and
+finances with Capitol Technology University.
+Home
+This subpage provides a more detailed overview of your registration and academic experience with the
+college. The Academic Information portlet lists your official advisors, degree and program. You will
+see your schedule for the current semester and by clicking on view details you can change the semester
+and see your schedule for any future semester for which you have registered. You have the ability to
+view your midterm or final grade report for recent semesters for which grades have been submitted and
+you may print this report. The unofficial transcript portlet allows you to view and print an unofficial
+transcript of your course work at Capitol Technology University. The course search portlet allows you to
+add and drop courses for semesters where registration or drop period is currently open and search for
+courses being offered during semesters for which a schedule has been created and made public. The
+portlets on the right contain instructions for submitting forms and a number of commonly used forms are
+in pdf format for your use.
+Financial Aid
+This subpage provides information regarding records in the financial aid office. You will find links to
+helpful webpages as well. A link to MyFA is on this page as well. The MyFA portal allows students to
+review, accept, and decline their financial aid 24 hours a day from any location. MyFA is used in
+addition to all award letters and missing information letters. Students will be emailed and mailed a
+notification when it is time to accept their aid and when missing information is required. Once granted
+access to MyCapitol, students will not need an additional login to use this service. Once granted access
+to MyCapitol, if you are not able to access the MyFA portal please contact the Office of Financial Aid
+
+immediately. Students using this service will be able to:Review budgets and awards by term/year; View
+scholarships and grants; Accept, decline or reduce loans; Review and retrieve missing documents.
+Student Finances
+This subpage provides information regarding your account balance, statements and tax records. The
+1098T portlet allows you to view this information to assist in the preparation of your taxes. The my
+account portlet allows you to access your balance, make a payment and view or print a course and fee
+statement.
+Advising
+The degree audit portlet will allow you to view and print information showing which degree
+requirements you have completed and search for courses that will fulfill your unmet requirements. The
+majors and what if scenarios portlet allows you to view what courses you have completed that would be
+applied to a new degree should you be considering changing programs. The course needs portlet will
+show you which requirements need to be completed. The advisor meetings portlet will display any
+meetings you have scheduled with an advisor and notes associated with that meeting.
+Online Registration
+This subpage allows you to search available schedules, as well as, register, add or drop courses for the
+current semester/term or any available future semester/term. By clicking on the add/drop courses link in
+the course schedules portlet you may modify your schedule provided you are within the proper
+timeframe for adding or dropping for the semester.
+
+Student Life Tab
+
+This tab provides access to virtual group creation and membership as well as a calendar of campus
+activities. The student groups portlet at the bottom of the page allows students to join a student group or
+create and request space within the portal to support a student organization.
+
+MyPages Tab
+
+This tab allows you to modify the content to contain a calendar and task list specific to you, as well as,
+the portlets you use most often. To add useful portlets to this page click on the edit page link at the top
+right, use the content tab to view current portlets and add portlets to this page. The layout tab will allow
+you to modify the look of your page. To add events to your calendar click the add event link in the
+portlet, you may also subscribe to other calendars by clicking on the MyCalendar link and choosing the
+Browse Shared Calendars link on the left. If you do create a personal calendar we recommend you not
+allow others to share this calendar by leaving that box unchecked.
+
+Getting Help with MyCapitol
+
+Forgotten password – use the I forgot my password link and a new password will be sent to your Capitol
+Technology University email account, your old password will no longer work and you should change
+the password when you login next time.
+Lost in the Portal – if you are not finding what you are looking for contact the College Advisor or the
+Office of Registration and Records by phone for assistance.
+Error Messages or Unexpected Responses – contact mycapitol@CapTechU.edu for assistance.
